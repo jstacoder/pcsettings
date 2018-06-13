@@ -1,0 +1,29 @@
+<application>
+  <component name="WebServers">
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions hashKnownHosts="true">
+        <option name="hashHost" value="true" />
+      </SftpAdvancedOptions>
+    </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="ad33e690-9b87-4120-b3f9-48c8a28fe96a" name="d" url="http://192.168.99.100">
+        <fileTransfer host="192.168.99.100" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="983e2923-67ac-4c91-b2b3-8d216342db5b" name="root@0.0.0.0:2222" url="http:///">
+        <fileTransfer host="0.0.0.0" port="2222" accessType="SFTP">
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="409e8f26-a92d-4fdc-8e04-3e1559e1e35d" name="root@0.0.0.0:2222" url="http:///">
+        <fileTransfer host="0.0.0.0" port="2222" accessType="SFTP">
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

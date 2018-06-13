@@ -1,0 +1,26 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="$USER_HOME$/git/casepeer/node_modules/babel-cli/bin/babel.js $FilePathRelativeToProjectRoot$ --source-maps --presets es2015,react,stage-0 -o  $FileParentDir$/dist/$FileNameWithoutExtension$.js" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
+      <option name="fileExtension" value="es6" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Babel" />
+      <option name="output" value="$FileParentDir$/dist/$FileNameWithoutExtension$.js:$FileParentDir$/dist/$FileNameWithoutExtension$.js.map" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="/usr/local/bin/node" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="Open Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs>
+        <env name="node" value="/usr/local/bin/node" />
+      </envs>
+    </TaskOptions>
+  </component>
+</application>

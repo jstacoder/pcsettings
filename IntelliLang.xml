@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GraphQL Schema" injector-id="xml">
+      <display-name>PersistGate/@loading</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("loading")).withParent(xmlTag().withLocalName(string().equalTo("PersistGate")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+  </component>
+</application>

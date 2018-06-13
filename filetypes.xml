@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="Dockerfile-hack" type="Dockerfile" />
+      <mapping pattern="Dockerfile-multi" type="Dockerfile" />
+      <mapping pattern="*.es6.js" type="ECMAScript 6" />
+      <mapping pattern="Dockerfile-hack-ctx" type="PLAIN_TEXT" />
+      <mapping pattern="x" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<keymap version="1" name="vim" parent="Mac OS X 10.5+">
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
+  <action id="ViewImportPopups">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+</keymap>

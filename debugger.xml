@@ -1,0 +1,20 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general />
+    <debuggers>
+      <debugger id="javascript">
+        <configuration doNotStepIntoLibraryCode="false">
+          <custom-object-presentation />
+          <stepping-filters-enabled>false</stepping-filters-enabled>
+        </configuration>
+      </debugger>
+      <debugger id="python">
+        <configuration>
+          <option name="librariesFilterEnabled" value="true" />
+          <option name="watchReturnValues" value="true" />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>
