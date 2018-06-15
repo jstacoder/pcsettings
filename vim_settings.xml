@@ -186,11 +186,6 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/evently/tests.py" timestamp="1528934755692">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/wizard_view.html" timestamp="1524509603960">
         <mark key="[" line="3" column="103" />
         <mark key="]" line="3" column="103" />
@@ -209,22 +204,17 @@
         <mark key="." line="376" column="25" />
         <mark key="^" line="376" column="25" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/tests/factory_boi.py" timestamp="1528303439454">
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
-      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/focus/case.js" timestamp="1520538103796">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/.env" timestamp="1526492018588">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="4" column="55" />
-        <mark key="." line="4" column="55" />
-        <mark key="^" line="4" column="55" />
+      <file name="$USER_HOME$/git/casepeer/.env" timestamp="1529082156307">
+        <mark key="[" line="68" column="21" />
+        <mark key="]" line="68" column="46" />
+        <mark key="." line="68" column="46" />
+        <mark key="^" line="68" column="46" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/dropbox_delete.html" timestamp="1521481317372">
         <mark key="[" line="6" column="171" />
@@ -1943,8 +1933,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjYXNlcGVlci5kYWNhc2UubW9kZWxzIGltcG9ydCBDYXNld29ya2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text>https://6d2f1478.ngrok.io/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1962,7 +1952,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>https://6d2f1478.ngrok.io/</text>
       </register>
       <register name="/" type="4">
         <text>mommy</text>
