@@ -259,6 +259,12 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="11" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/tests/firm/test_firmaware.py" timestamp="1529102630823">
+        <mark key="[" line="29" column="52" />
+        <mark key="]" line="29" column="49" />
+        <mark key="^" line="29" column="49" />
+        <mark key="." line="29" column="49" />
+      </file>
       <file name="/dacase_casenote [cpdb@localhost]" timestamp="1527620836186">
         <mark key="[" line="0" column="0" />
       </file>
@@ -711,6 +717,9 @@
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="35" />
       </file>
+      <file name="/dacase_witness [cpdb@localhost]" timestamp="1529101802773">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/TitleComponent.js" timestamp="1518718514856">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="14" />
@@ -744,7 +753,7 @@
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
       </file>
-      <file name="/dummy.sql" timestamp="1528844729912">
+      <file name="/dummy.sql" timestamp="1529101842681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cbv_theme/create_form_wizard_entry.html" timestamp="1524867037658">
@@ -1505,6 +1514,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/tests/mock_builders.py" timestamp="1529101901142">
+        <mark key="[" line="143" column="23" />
+        <mark key="]" line="140" column="21" />
+        <mark key="." line="140" column="21" />
+        <mark key="^" line="140" column="21" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/schema.py" timestamp="1506118402848">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1943,8 +1958,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgQ29udGFjdFR5cGUK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1971,37 +1986,37 @@
         <text encoding="base64">ICAgICAgICAjLmFzdGltZXpvbmUodGltZXpvbmUob2JqLmNyZWF0ZWRieS5maXJtLnRpbWV6b25lKSkuc3RyZnRpbWUoJyVtLyVkLyVZICUtSTolTSAlUCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjYXNlcGVlci5kYWNhc2UubW9kZWxzIGltcG9ydCBDYXNld29ya2VyCg==</text>
+        <text encoding="base64">Y2xhc3MgQ29udGFjdFR5cGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBvdXIgYXBwcwo=</text>
+        <text encoding="base64">ZnJvbSBjYXNlcGVlci5kYWNhc2UubW9kZWxzIGltcG9ydCBDYXNld29ya2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAzcmQgUGFydGllcwo=</text>
+        <text encoding="base64">IyBvdXIgYXBwcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBEamFuZ2llcwo=</text>
+        <text encoding="base64">IyAzcmQgUGFydGllcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI1EoZW5kX19pc251bGw9VHJ1ZSkK</text>
+        <text encoding="base64">IyBEamFuZ2llcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICN8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI1EoZW5kX19pc251bGw9VHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICRhc3NpZ25lZHRvLnNlbGVjdDIoImRlc3Ryb3kiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICN8Cg==</text>
       </register>
       <register name="w" type="4">
         <text>+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICRhc3NpZ25lZHRvLmhpZGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICRhc3NpZ25lZHRvLnNlbGVjdDIoImRlc3Ryb3kiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICRhc3NpZ25lZHRvLmFmdGVyKCQoJzxkaXYgLz4nLCB7dGV4dDogJC5tYWtlQXJyYXkoYXNzaWduZWRMaXN0KS5qb2luKCIsICIpfSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICRhc3NpZ25lZHRvLmhpZGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
