@@ -6,6 +6,13 @@
       <file name="/start_script.py" timestamp="1528917266218">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/tests/uploader/test_views.py" timestamp="1529107987348">
+        <mark key="'" line="148" column="66" />
+        <mark key="[" line="148" column="66" />
+        <mark key="]" line="148" column="66" />
+        <mark key="^" line="112" column="75" />
+        <mark key="." line="148" column="66" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/casepeer_theme/templates/fobi-overrides/base.html" timestamp="1524182059962">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="41" />
@@ -1315,9 +1322,6 @@
       <file name="/dacase_caseworker [test_cpdb@localhost]" timestamp="1527813520075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/serializers.py" timestamp="1528843228280">
-        <mark key="'" line="0" column="37" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/views.py" timestamp="1527182026196">
         <mark key="[" line="124" column="68" />
         <mark key="]" line="124" column="71" />
@@ -1500,6 +1504,12 @@
       </file>
       <file name="/fobi_formhandlerentry [cpdb@localhost]" timestamp="1526488922061">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/uploader/views.py" timestamp="1529107488557">
+        <mark key="[" line="264" column="15" />
+        <mark key="]" line="264" column="52" />
+        <mark key="^" line="264" column="52" />
+        <mark key="." line="264" column="52" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/safe/fullcalendar-2.8.0/fullcalendar.min.css" timestamp="1511286460424">
         <mark key="[" line="57" column="11" />
@@ -1847,7 +1857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="6" filename="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/fobi/views/class_based.py" />
       <jump line="274" column="12" filename="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/fobi/views/class_based.py" />
       <jump line="600" column="6" filename="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/fobi/views/class_based.py" />
       <jump line="639" column="32" filename="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/fobi/views/class_based.py" />
@@ -1947,6 +1956,7 @@
       <jump line="285" column="25" filename="$USER_HOME$/git/casepeer/assets/js/app.jsx" />
       <jump line="347" column="27" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
       <jump line="620" column="39" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="148" column="66" filename="$USER_HOME$/git/casepeer/casepeer/tests/uploader/test_views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1958,7 +1968,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1976,7 +1986,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>mommy</text>
