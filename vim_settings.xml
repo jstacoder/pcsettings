@@ -7,11 +7,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/tests/uploader/test_views.py" timestamp="1529107987348">
-        <mark key="'" line="148" column="66" />
-        <mark key="[" line="148" column="66" />
-        <mark key="]" line="148" column="66" />
+        <mark key="'" line="112" column="66" />
+        <mark key="[" line="112" column="66" />
+        <mark key="]" line="112" column="66" />
         <mark key="^" line="112" column="75" />
-        <mark key="." line="148" column="66" />
+        <mark key="." line="112" column="66" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/casepeer_theme/templates/fobi-overrides/base.html" timestamp="1524182059962">
         <mark key="[" line="1" column="5" />
@@ -265,11 +265,6 @@
         <mark key="]" line="21" column="11" />
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="11" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/tests/firm/test_firmaware.py" timestamp="1529105592808">
-        <mark key="[" line="359" column="40" />
-        <mark key="]" line="359" column="40" />
-        <mark key="." line="359" column="40" />
       </file>
       <file name="/dacase_casenote [cpdb@localhost]" timestamp="1527620836186">
         <mark key="[" line="0" column="0" />
@@ -569,12 +564,6 @@
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1528844792571">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/custom_fobi_plugins/fields/casepeer_date_drop_down/base.py" timestamp="1528135543190">
         <mark key="[" line="19" column="20" />
@@ -1260,10 +1249,7 @@
         <mark key="." line="94" column="28" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/evently/views.py" timestamp="1528934725761">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
-        <mark key="^" line="312" column="8" />
+        <mark key="^" line="348" column="8" />
       </file>
       <file name="webpack:///../node_modules/fbjs/lib/warning.js" timestamp="1526321563989">
         <mark key="[" line="0" column="0" />
@@ -1524,10 +1510,7 @@
         <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/tests/mock_builders.py" timestamp="1529101901142">
-        <mark key="[" line="143" column="23" />
-        <mark key="]" line="140" column="21" />
-        <mark key="." line="140" column="21" />
-        <mark key="^" line="140" column="21" />
+        <mark key="[" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/schema.py" timestamp="1506118402848">
         <mark key="[" line="0" column="0" />
