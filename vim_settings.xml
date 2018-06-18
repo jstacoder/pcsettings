@@ -908,6 +908,12 @@
         <mark key="." line="8" column="54" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/js/src/load_case_notes.es6" timestamp="1528839564059" />
+      <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1529365643352">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_settlement.py" timestamp="1525998342817">
         <mark key="[" line="1786" column="13" />
         <mark key="]" line="1786" column="54" />
@@ -2011,7 +2017,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICRhc3NpZ25lZHRvLnNlbGVjdDIoImRlc3Ryb3kiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2063,10 +2069,10 @@
         <entry>w\]</entry>
         <entry>e</entry>
         <entry>WQ</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>.w</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
