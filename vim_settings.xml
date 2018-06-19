@@ -356,7 +356,6 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/compose/requirements/base.txt" timestamp="1528838317845" />
       <file name="$USER_HOME$/git/casepeer-app/src/actions/focus.js" timestamp="1521675384005">
         <mark key="[" line="10" column="36" />
         <mark key="]" line="14" column="16" />
@@ -417,7 +416,6 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/select-two.jsx" timestamp="1528758358160" />
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/DocxTests.py" timestamp="1526000489877">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="5" />
@@ -435,6 +433,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="^" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/static/cpnotifications/js/notify.js" timestamp="1529433087437">
+        <mark key="[" line="234" column="63" />
+        <mark key="]" line="234" column="55" />
+        <mark key="^" line="234" column="55" />
+        <mark key="." line="234" column="55" />
       </file>
       <file name="$USER_HOME$/git/casepeer/data/webpack.prod.js" timestamp="1509561539675">
         <mark key="[" line="13" column="35" />
@@ -907,7 +911,6 @@
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/js/src/load_case_notes.es6" timestamp="1528839564059" />
       <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1529365643352">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="12" column="15" />
@@ -1190,7 +1193,6 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/yarn-error.log" timestamp="1529430654541" />
       <file name="$USER_HOME$/git/casepeer/webpack.config.js" timestamp="1513650216675">
         <mark key="[" line="22" column="10" />
         <mark key="]" line="22" column="5" />
@@ -1648,7 +1650,7 @@
         <mark key="^" line="15" column="16" />
         <mark key="." line="15" column="16" />
       </file>
-      <file name="/Django Console" timestamp="1528917166110">
+      <file name="/Django Console" timestamp="1529432593862">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1780,7 +1782,6 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/evently/serializers.py" timestamp="1528844902401" />
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/edit_form_entry_ajax.html" timestamp="1525727566860">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
