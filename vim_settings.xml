@@ -565,7 +565,7 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1529448564407">
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1529449028262">
         <mark key="[" line="2291" column="0" />
         <mark key="]" line="2291" column="0" />
         <mark key="." line="2291" column="0" />
@@ -1208,11 +1208,11 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529448593846">
-        <mark key="[" line="1072" column="0" />
-        <mark key="]" line="1072" column="0" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529449111335">
+        <mark key="[" line="1117" column="12" />
+        <mark key="]" line="1118" column="66" />
         <mark key="^" line="660" column="52" />
-        <mark key="." line="1072" column="0" />
+        <mark key="." line="1118" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/requirements/base.txt" timestamp="1527613266186">
         <mark key="[" line="128" column="24" />
@@ -1960,7 +1960,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgaXRtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwKGxhbWJkYSB4OiB4LnNldF9wYXJlbnRfZXZlbnQodHJpZ2dlcl9pZCksIHJlc3VsdHMpCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1984,7 +1984,7 @@
         <text>mommy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjLmFzdGltZXpvbmUodGltZXpvbmUob2JqLmNyZWF0ZWRieS5maXJtLnRpbWV6b25lKSkuc3RyZnRpbWUoJyVtLyVkLyVZICUtSTolTSAlUCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwKGxhbWJkYSB4OiB4LnNldF9wYXJlbnRfZXZlbnQodHJpZ2dlcl9pZCksIHJlc3VsdHMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgaXRtCg==</text>
