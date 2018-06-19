@@ -1208,11 +1208,12 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529449111335">
+      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529450637630">
+        <mark key="'" line="1118" column="19" />
         <mark key="[" line="1117" column="12" />
-        <mark key="]" line="1118" column="66" />
-        <mark key="^" line="660" column="52" />
-        <mark key="." line="1118" column="0" />
+        <mark key="]" line="1118" column="19" />
+        <mark key="^" line="1118" column="19" />
+        <mark key="." line="1118" column="19" />
       </file>
       <file name="$USER_HOME$/git/casepeer/requirements/base.txt" timestamp="1527613266186">
         <mark key="[" line="128" column="24" />
@@ -1849,7 +1850,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="600" column="6" filename="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/fobi/views/class_based.py" />
       <jump line="639" column="32" filename="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/fobi/views/class_based.py" />
       <jump line="609" column="29" filename="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/fobi/views/class_based.py" />
       <jump line="498" column="7" filename="$USER_HOME$/git/casepeer/casepeer/cpcustom/views.py" />
@@ -1949,6 +1949,7 @@
       <jump line="620" column="39" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
       <jump line="148" column="66" filename="$USER_HOME$/git/casepeer/casepeer/tests/uploader/test_views.py" />
       <jump line="18" column="11" filename="$USER_HOME$/git/casepeer/compose/daphne/Dockerfile" />
+      <jump line="1118" column="19" filename="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
