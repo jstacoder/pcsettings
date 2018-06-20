@@ -175,6 +175,9 @@
         <mark key="^" line="209" column="80" />
         <mark key="." line="209" column="80" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/multi_confirm.html" timestamp="1529452658425">
+        <mark key="[" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/migrations/0150_casedocumentsexport.py" timestamp="1518122216468">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="21" />
@@ -1208,7 +1211,7 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529451648850">
+      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529452877819">
         <mark key="'" line="1118" column="19" />
         <mark key="[" line="1117" column="12" />
         <mark key="]" line="1118" column="19" />
