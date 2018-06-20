@@ -562,6 +562,7 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1529531503956" />
       <file name="$USER_HOME$/git/casepeer/custom_fobi_plugins/fields/casepeer_date_drop_down/base.py" timestamp="1528135543190">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="26" column="13" />
@@ -1743,10 +1744,9 @@
         <mark key="." line="17" column="23" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/cpnotifications/models.py" timestamp="1529530872343">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="214" column="28" />
-        <mark key="." line="214" column="28" />
-        <mark key="^" line="214" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/LienReduction.py" timestamp="1526000579825">
         <mark key="[" line="55" column="16" />
