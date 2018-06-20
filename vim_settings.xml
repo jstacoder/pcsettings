@@ -568,13 +568,6 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1529455805898">
-        <mark key="'" line="37" column="11" />
-        <mark key="[" line="1996" column="8" />
-        <mark key="]" line="17" column="61" />
-        <mark key="." line="17" column="61" />
-        <mark key="^" line="17" column="61" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/custom_fobi_plugins/fields/casepeer_date_drop_down/base.py" timestamp="1528135543190">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="26" column="13" />
@@ -851,7 +844,6 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" timestamp="1529447370415" />
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/api.py" timestamp="1507660544190">
         <mark key="[" line="5" column="75" />
         <mark key="]" line="10" column="7" />
@@ -1213,12 +1205,12 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529452877819">
-        <mark key="'" line="1118" column="19" />
-        <mark key="[" line="1117" column="12" />
-        <mark key="]" line="1118" column="19" />
-        <mark key="^" line="1118" column="19" />
-        <mark key="." line="1118" column="19" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529512984149">
+        <mark key="'" line="669" column="28" />
+        <mark key="[" line="660" column="54" />
+        <mark key="]" line="660" column="52" />
+        <mark key="^" line="660" column="52" />
+        <mark key="." line="660" column="52" />
       </file>
       <file name="$USER_HOME$/git/casepeer/requirements/base.txt" timestamp="1527613266186">
         <mark key="[" line="128" column="24" />
@@ -1273,12 +1265,6 @@
       </file>
       <file name="webpack:///../node_modules/fbjs/lib/warning.js" timestamp="1526321563989">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/compose/django/Dockerfile-hack" timestamp="1529455415605">
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="38" column="41" />
-        <mark key="^" line="38" column="41" />
-        <mark key="." line="38" column="41" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/caseworker/lastname.js" timestamp="1517538607780">
         <mark key="[" line="3" column="29" />
@@ -1858,8 +1844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="498" column="7" filename="$USER_HOME$/git/casepeer/casepeer/cpcustom/views.py" />
-      <jump line="263" column="91" filename="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client_tabs.py" />
       <jump line="52" column="20" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
       <jump line="152" column="29" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
       <jump line="154" column="18" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
@@ -1958,6 +1942,8 @@
       <jump line="1118" column="19" filename="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" />
       <jump line="17" column="61" filename="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" />
       <jump line="37" column="11" filename="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" />
+      <jump line="660" column="52" filename="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" />
+      <jump line="669" column="28" filename="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
