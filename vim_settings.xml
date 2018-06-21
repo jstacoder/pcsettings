@@ -1018,7 +1018,7 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/Navigator.js" timestamp="1520641498944">
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/Navigator.js" timestamp="1529616516982">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
@@ -1111,12 +1111,11 @@
         <mark key="." line="33" column="55" />
         <mark key="^" line="33" column="55" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/compose/settings/common.py" timestamp="1529434519466" />
-      <file name="$USER_HOME$/git/casepeer-app/src/utils/constants.js" timestamp="1527099291389">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/utils/constants.js" timestamp="1529616455665">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" timestamp="1522797336592">
         <mark key="[" line="21" column="0" />
@@ -1316,7 +1315,7 @@
         <mark key="^" line="394" column="0" />
         <mark key="." line="394" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1526322884593">
+      <file name="/fragment.js" timestamp="1529616670387">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="97" />
         <mark key="." line="0" column="97" />
@@ -1631,7 +1630,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1526683602575">
+      <file name="/JavaScript Console" timestamp="1529616538554">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/_30DayLetter_NewName.py" timestamp="1525999794715">
