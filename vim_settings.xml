@@ -1111,11 +1111,11 @@
         <mark key="." line="33" column="55" />
         <mark key="^" line="33" column="55" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/utils/constants.js" timestamp="1529616455665">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
+      <file name="$USER_HOME$/git/casepeer-app/src/utils/constants.js" timestamp="1529620153536">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="53" />
+        <mark key="^" line="15" column="53" />
+        <mark key="." line="15" column="53" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" timestamp="1522797336592">
         <mark key="[" line="21" column="0" />
@@ -1940,7 +1940,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gJiYgdGhpcy5wcm9wcy5jdXJyZW50RXZlbnQuaXNfZmlybV93aWRlCg==</text>
+        <text encoding="base64">ICBMT0NBTF9OR1JPS19UVU5ORUxfVVJJOiJodHRwczovL2dyYXBoLmNhc2VwZWVyLmNvbSIK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1964,7 +1964,7 @@
         <text>mommy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT17dGhpcy5wcm9wcy5jdXJyZW50RXZlbnQuaXNGaXJtV2lkZUV2ZW50fQo=</text>
+        <text encoding="base64">ICBMT0NBTF9OR1JPS19UVU5ORUxfVVJJOiJodHRwczovL2dyYXBoLmNhc2VwZWVyLmNvbSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gJiYgdGhpcy5wcm9wcy5jdXJyZW50RXZlbnQuaXNfZmlybV93aWRlCg==</text>
