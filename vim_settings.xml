@@ -508,11 +508,11 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/forms.py" timestamp="1529709101356">
-        <mark key="[" line="1070" column="47" />
-        <mark key="]" line="1070" column="26" />
-        <mark key="." line="1070" column="32" />
-        <mark key="^" line="1070" column="26" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/forms.py" timestamp="1529710146591">
+        <mark key="[" line="1070" column="146" />
+        <mark key="]" line="1071" column="142" />
+        <mark key="." line="1071" column="142" />
+        <mark key="^" line="1071" column="142" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526493367674">
         <mark key="[" line="0" column="0" />
@@ -2069,7 +2069,6 @@
         <entry>mommy</entry>
       </history-search>
       <history-cmd>
-        <entry>Lw</entry>
         <entry>ew</entry>
         <entry>'s</entry>
         <entry>wa</entry>
@@ -2089,6 +2088,7 @@
         <entry>.w</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>ww</entry>
       </history-cmd>
       <history-expr />
       <history-input />
