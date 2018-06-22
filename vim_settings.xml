@@ -508,6 +508,12 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/forms.py" timestamp="1529709101356">
+        <mark key="[" line="1070" column="47" />
+        <mark key="]" line="1070" column="26" />
+        <mark key="." line="1070" column="32" />
+        <mark key="^" line="1070" column="26" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526493367674">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1967,7 +1973,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>t</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1985,7 +1991,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>mommy</text>
@@ -1994,37 +2000,37 @@
         <text encoding="base64">ICBMT0NBTF9OR1JPS19UVU5ORUxfVVJJOiJodHRwczovL2dyYXBoLmNhc2VwZWVyLmNvbSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2V3b3JrZXIsCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2VfaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeXNldD1DYXNld29ya2VyLm9iamVjdHMuZmlsdGVyKGhpZGVmcm9tdmlldz1GYWxzZSkub3JkZXJfYnkoJ2ZpcnN0bmFtZScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5maWVsZHNbInR5cGUiXS5xdWVyeXNldC5maWx0ZXIoYWRkZWRfYnlfY2FsZW5kYXJfcnVsZXM9RmFsc2UpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHNlbGYucmVxdWVzdCwKICAgICAgICAgICAgICAgIGNhc2VfaWQsCiAgICAgICAgICAgICAgICBjYXNld29ya2VyLAogICAgICAgICAgICAgICAgYXJnc1swXSwKICAgICAgICAp</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2V3b3JrZXIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFtYmRhICphcmdzLCAqKmt3YXJnczogc2VsZi5yZXN1bHRzLmFwcGVuZChzZWxmLl9jcmVhdGVfbGl0X2V2ZW50KAogICAgICAgICAgICAgICAgc2VsZi5yZXF1ZXN0LAogICAgICAgICAgICAgICAgY2FzZV9pZCwKICAgICAgICAgICAgICAgIGNhc2V3b3JrZXIsCiAgICAgICAgICAgICAgICBhcmdzWzBdLAogICAgICAgICAgICApKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2VfaWQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3VzZXJNaWRkbGV3YXJlLnNldF91c2VyKHNlbGYucmVxdWVzdC51c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdCwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHNlbGYucmVxdWVzdCwKICAgICAgICAgICAgICAgIGNhc2VfaWQsCiAgICAgICAgICAgICAgICBjYXNld29ya2VyLAogICAgICAgICAgICAgICAgYXJnc1swXSwKICAgICAgICAp</text>
       </register>
       <register name="w" type="4">
         <text>+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9wb29sX3NpemUgPSBzaXplCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFtYmRhICphcmdzLCAqKmt3YXJnczogc2VsZi5yZXN1bHRzLmFwcGVuZChzZWxmLl9jcmVhdGVfbGl0X2V2ZW50KAogICAgICAgICAgICAgICAgc2VsZi5yZXF1ZXN0LAogICAgICAgICAgICAgICAgY2FzZV9pZCwKICAgICAgICAgICAgICAgIGNhc2V3b3JrZXIsCiAgICAgICAgICAgICAgICBhcmdzWzBdLAogICAgICAgICAgICApKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfcG9vbF9zaXplKHNlbGYsIHNpemUpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3VzZXJNaWRkbGV3YXJlLnNldF91c2VyKHNlbGYucmVxdWVzdC51c2VyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
