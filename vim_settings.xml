@@ -6,13 +6,6 @@
       <file name="/start_script.py" timestamp="1528917266218">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/tests/uploader/test_views.py" timestamp="1529441797089">
-        <mark key="'" line="112" column="66" />
-        <mark key="[" line="112" column="66" />
-        <mark key="]" line="112" column="66" />
-        <mark key="^" line="112" column="75" />
-        <mark key="." line="112" column="66" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/casepeer_theme/templates/fobi-overrides/base.html" timestamp="1524182059962">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="41" />
@@ -815,12 +808,11 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" timestamp="1529627121669">
-        <mark key="'" line="2247" column="12" />
-        <mark key="[" line="2764" column="0" />
-        <mark key="]" line="2764" column="107" />
-        <mark key="." line="2764" column="107" />
-        <mark key="^" line="2764" column="107" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" timestamp="1529953621866">
+        <mark key="'" line="2238" column="12" />
+        <mark key="]" line="1875" column="7" />
+        <mark key="." line="1875" column="7" />
+        <mark key="^" line="1875" column="7" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/cbv_theme/templates/fobi-cbv-overrides/form_wizards_dashboard.html" timestamp="1524519654464">
         <mark key="[" line="0" column="0" />
@@ -860,9 +852,6 @@
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" timestamp="1529947884795">
-        <mark key="[" line="227" column="58" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/api.py" timestamp="1507660544190">
         <mark key="[" line="5" column="75" />
@@ -929,6 +918,11 @@
         <mark key="]" line="8" column="54" />
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/js/src/load_case_notes.es6" timestamp="1529954274393">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1529365643352">
         <mark key="[" line="10" column="16" />
@@ -1222,13 +1216,6 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529952127690">
-        <mark key="'" line="1230" column="12" />
-        <mark key="[" line="1090" column="40" />
-        <mark key="]" line="1091" column="24" />
-        <mark key="." line="1091" column="24" />
-        <mark key="^" line="1091" column="24" />
       </file>
       <file name="$USER_HOME$/git/casepeer/requirements/base.txt" timestamp="1527613266186">
         <mark key="[" line="128" column="24" />
@@ -1650,13 +1637,6 @@
       <file name="/cpcustom_customintakedata [cpdb@localhost]" timestamp="1526346489032">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/app.jsx" timestamp="1528926006388">
-        <mark key="'" line="23" column="25" />
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="23" column="62" />
-        <mark key="." line="23" column="26" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/XMLTemplateParser.py" timestamp="1525998757655">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="15" column="16" />
@@ -1979,7 +1959,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkam9pbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbm90ZV9kaXYuc2V0QXR0cmlidXRlKCdpZCcsICd3cmFwJykK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2006,37 +1986,37 @@
         <text encoding="base64">ICBMT0NBTF9OR1JPS19UVU5ORUxfVVJJOiJodHRwczovL2dyYXBoLmNhc2VwZWVyLmNvbSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkam9pbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbm90ZV9kaXYuc2V0QXR0cmlidXRlKCdpZCcsICd3cmFwJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAobGFtYmRhIHQ6IHQuam9pbigpLCBzZWxmLl90aHJlYWRzKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFnZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtYWluX2V2ZW50IGlzIG5vdCBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jcmVhdGVfbWFpbl9ldmVudChtYWluX2V2ZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZS5wdXNoKHRoaXMubm90ZXMucG9wKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50X2lkID0gQ2FzZW5vdGUub2JqZWN0cy5maWx0ZXIoc2NyYXRjaF9qc29uX19jYWxlbmRhcl9ydWxlc19pZD10cmlnZ2VyX2lkKS5sYXRlc3QoJ2NyZWF0ZWQnKS5pZAo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZShwYWdlLmxlbmd0aCA8IHRoaXMucGFnZV9sZW5ndGgpewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXZlbnREYXRlSXNNb21lbnQgPSBtb21lbnQuaXNNb21lbnQoZGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcGFnZSA9IFtdCg==</text>
       </register>
       <register name="w" type="4">
         <text>+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAobGFtYmRhIHg6IHguam9pbigpLCBzZWxmLl90aHJlYWRzKQo=</text>
+        <text encoding="base64">ICAgIGdldF9wYWdlID0gKCkgPT57Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpdGVtcyA9IHRoaXMuZ2V0X3BhZ2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
