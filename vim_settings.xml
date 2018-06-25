@@ -1169,7 +1169,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1527889288003">
+      <file name="/fragment.py" timestamp="1529951485581">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="16" />
@@ -1223,12 +1223,12 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529951407319">
-        <mark key="'" line="1229" column="12" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529952127690">
+        <mark key="'" line="1230" column="12" />
         <mark key="[" line="1090" column="40" />
-        <mark key="]" line="1091" column="35" />
-        <mark key="." line="1091" column="35" />
-        <mark key="^" line="1091" column="35" />
+        <mark key="]" line="1091" column="24" />
+        <mark key="." line="1091" column="24" />
+        <mark key="^" line="1091" column="24" />
       </file>
       <file name="$USER_HOME$/git/casepeer/requirements/base.txt" timestamp="1527613266186">
         <mark key="[" line="128" column="24" />
