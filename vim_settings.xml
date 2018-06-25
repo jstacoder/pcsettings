@@ -1213,12 +1213,12 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529714970110">
+      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529944258618">
         <mark key="'" line="1187" column="69" />
-        <mark key="[" line="1186" column="109" />
-        <mark key="]" line="1186" column="111" />
-        <mark key="^" line="1186" column="111" />
-        <mark key="." line="1186" column="111" />
+        <mark key="[" line="1185" column="55" />
+        <mark key="]" line="1185" column="56" />
+        <mark key="^" line="1185" column="56" />
+        <mark key="." line="1185" column="56" />
       </file>
       <file name="$USER_HOME$/git/casepeer/requirements/base.txt" timestamp="1527613266186">
         <mark key="[" line="128" column="24" />
@@ -1969,7 +1969,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>:</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1987,7 +1987,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>mommy</text>
@@ -2083,8 +2083,8 @@
         <entry>wq</entry>
         <entry>ww</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>ws</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
