@@ -430,11 +430,11 @@
         <mark key="^" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/static/cpnotifications/js/notify.js" timestamp="1529518521031">
-        <mark key="[" line="5" column="53" />
-        <mark key="]" line="5" column="54" />
-        <mark key="^" line="5" column="54" />
-        <mark key="." line="5" column="54" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/static/cpnotifications/js/notify.js" timestamp="1530038712678">
+        <mark key="[" line="5" column="61" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+        <mark key="." line="5" column="44" />
       </file>
       <file name="$USER_HOME$/git/casepeer/data/webpack.prod.js" timestamp="1509561539675">
         <mark key="[" line="13" column="35" />
@@ -1211,11 +1211,11 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1530035844324">
-        <mark key="[" line="1091" column="36" />
-        <mark key="]" line="1091" column="17" />
-        <mark key="." line="1091" column="17" />
-        <mark key="^" line="1091" column="17" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1530039261307">
+        <mark key="[" line="1085" column="51" />
+        <mark key="]" line="1086" column="47" />
+        <mark key="." line="1086" column="47" />
+        <mark key="^" line="1086" column="47" />
       </file>
       <file name="$USER_HOME$/git/casepeer/requirements/base.txt" timestamp="1527613266186">
         <mark key="[" line="128" column="24" />
@@ -1757,10 +1757,11 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cpnotifications/models.py" timestamp="1529530872343">
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-        <mark key="^" line="0" column="28" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpnotifications/models.py" timestamp="1530038419986">
+        <mark key="[" line="45" column="77" />
+        <mark key="]" line="254" column="15" />
+        <mark key="." line="254" column="15" />
+        <mark key="^" line="254" column="15" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/LienReduction.py" timestamp="1526000579825">
         <mark key="[" line="55" column="16" />
@@ -1959,7 +1960,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>gevent.Greenlet</text>
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1977,7 +1978,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>gevent.Greenlet</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>mommy</text>
