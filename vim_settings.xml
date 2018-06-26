@@ -1211,11 +1211,11 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1529966768224">
-        <mark key="[" line="1158" column="65" />
-        <mark key="]" line="1159" column="23" />
-        <mark key="." line="1159" column="23" />
-        <mark key="^" line="1159" column="23" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1530035844324">
+        <mark key="[" line="1091" column="36" />
+        <mark key="]" line="1091" column="17" />
+        <mark key="." line="1091" column="17" />
+        <mark key="^" line="1091" column="17" />
       </file>
       <file name="$USER_HOME$/git/casepeer/requirements/base.txt" timestamp="1527613266186">
         <mark key="[" line="128" column="24" />
@@ -1958,8 +1958,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gevent.Greenlet</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1977,7 +1977,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>get_root_directory, create_dropbox_case_directory,</text>
+        <text>gevent.Greenlet</text>
       </register>
       <register name="/" type="4">
         <text>mommy</text>
