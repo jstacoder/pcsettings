@@ -508,9 +508,6 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/forms.py" timestamp="1529964590539">
-        <mark key="[" line="1048" column="25" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526493367674">
         <mark key="[" line="0" column="0" />
       </file>
@@ -567,11 +564,6 @@
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1529964738635">
-        <mark key="[" line="2326" column="0" />
-        <mark key="]" line="2326" column="0" />
-        <mark key="." line="2326" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/custom_fobi_plugins/fields/casepeer_date_drop_down/base.py" timestamp="1528135543190">
         <mark key="[" line="19" column="20" />
@@ -854,12 +846,6 @@
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" timestamp="1529964817681">
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="273" column="46" />
-        <mark key="^" line="234" column="27" />
-        <mark key="." line="272" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/api.py" timestamp="1507660544190">
         <mark key="[" line="5" column="75" />
