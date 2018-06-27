@@ -458,11 +458,11 @@
         <mark key="." line="204" column="41" />
         <mark key="^" line="204" column="41" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/show_loading.html" timestamp="1530123374329">
-        <mark key="[" line="6" column="98" />
-        <mark key="]" line="7" column="14" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="7" column="14" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/show_loading.html" timestamp="1530124822410">
+        <mark key="[" line="22" column="49" />
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="23" column="35" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/token.js" timestamp="1517528546327">
         <mark key="[" line="3" column="24" />
@@ -1138,6 +1138,7 @@
         <mark key="." line="33" column="55" />
         <mark key="^" line="33" column="55" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/compose/settings/common.py" timestamp="1529434519466" />
       <file name="$USER_HOME$/git/casepeer-app/src/utils/constants.js" timestamp="1529622688854">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1588,6 +1589,7 @@
       <file name="/django_site [cpdb@localhost]" timestamp="1526493302654">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_form.html" timestamp="1530124586432" />
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/IntakePacket.py" timestamp="1526000515840">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="5" />
@@ -1669,9 +1671,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1529616538554">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/_30DayLetter_NewName.py" timestamp="1525999794715">
         <mark key="[" line="7" column="5" />
