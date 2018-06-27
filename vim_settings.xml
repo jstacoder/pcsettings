@@ -200,11 +200,11 @@
         <mark key="^" line="3" column="103" />
         <mark key="." line="3" column="103" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cp_utilities/cp_classes.py" timestamp="1527895482601">
-        <mark key="[" line="351" column="95" />
-        <mark key="]" line="351" column="99" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/cp_utilities/cp_classes.py" timestamp="1530136224407">
+        <mark key="[" line="1117" column="5" />
+        <mark key="]" line="1117" column="5" />
         <mark key="^" line="351" column="99" />
-        <mark key="." line="351" column="99" />
+        <mark key="." line="1117" column="5" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/scripts/imports/create_items.py" timestamp="1527870903161">
         <mark key="[" line="294" column="8" />
@@ -1952,7 +1952,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>_</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1970,7 +1970,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>mommy</text>
