@@ -416,12 +416,6 @@
         <mark key="^" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/static/cpnotifications/js/notify.js" timestamp="1530232651783">
-        <mark key="[" line="131" column="13" />
-        <mark key="]" line="131" column="32" />
-        <mark key="." line="131" column="32" />
-        <mark key="^" line="131" column="32" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/data/webpack.prod.js" timestamp="1509561539675">
         <mark key="[" line="13" column="35" />
         <mark key="]" line="14" column="32" />
@@ -548,10 +542,10 @@
         <mark key="." line="9" column="5" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1530301245636">
-        <mark key="[" line="1170" column="22" />
-        <mark key="]" line="1170" column="52" />
-        <mark key="^" line="1170" column="52" />
-        <mark key="." line="1170" column="52" />
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="52" />
+        <mark key="^" line="24" column="52" />
+        <mark key="." line="24" column="52" />
       </file>
       <file name="$USER_HOME$/git/casepeer/custom_fobi_plugins/fields/casepeer_date_drop_down/base.py" timestamp="1528135543190">
         <mark key="[" line="19" column="20" />
@@ -763,12 +757,6 @@
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/config/middleware.py" timestamp="1530299490185">
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="56" />
-        <mark key="^" line="12" column="56" />
-        <mark key="." line="12" column="56" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/channel_settings.py" timestamp="1525978184976">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="4" column="29" />
@@ -919,10 +907,10 @@
         <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_dashboard.py" timestamp="1530299325659">
-        <mark key="[" line="37" column="53" />
-        <mark key="]" line="37" column="40" />
-        <mark key="^" line="37" column="40" />
-        <mark key="." line="37" column="40" />
+        <mark key="[" line="10" column="53" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="40" />
       </file>
       <file name="$USER_HOME$/git/casepeer/assets/js/skel.jsx" timestamp="1507072948654">
         <mark key="[" line="15" column="28" />
