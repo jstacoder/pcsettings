@@ -291,10 +291,10 @@
         <mark key="." line="6" column="23" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/cpnotifications/views.py" timestamp="1530226974366">
-        <mark key="[" line="34" column="36" />
-        <mark key="]" line="34" column="68" />
-        <mark key="^" line="34" column="68" />
-        <mark key="." line="34" column="68" />
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="68" />
+        <mark key="^" line="18" column="68" />
+        <mark key="." line="18" column="68" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/Form.js" timestamp="1517617631755">
         <mark key="[" line="66" column="43" />
@@ -541,11 +541,12 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1530301245636">
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="52" />
-        <mark key="^" line="24" column="52" />
-        <mark key="." line="24" column="52" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1530310284703">
+        <mark key="'" line="2139" column="8" />
+        <mark key="[" line="2136" column="28" />
+        <mark key="]" line="2139" column="8" />
+        <mark key="^" line="2139" column="8" />
+        <mark key="." line="2139" column="8" />
       </file>
       <file name="$USER_HOME$/git/casepeer/custom_fobi_plugins/fields/casepeer_date_drop_down/base.py" timestamp="1528135543190">
         <mark key="[" line="19" column="20" />
@@ -1659,6 +1660,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpnotifications/models.py" timestamp="1530310226520">
+        <mark key="[" line="206" column="15" />
+        <mark key="]" line="214" column="108" />
+        <mark key="." line="214" column="108" />
+        <mark key="^" line="214" column="108" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/LienReduction.py" timestamp="1526000579825">
         <mark key="[" line="55" column="16" />
         <mark key="]" line="55" column="16" />
@@ -1756,7 +1763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/git/casepeer-app/src/App.js" />
       <jump line="2" column="9" filename="$USER_HOME$/git/casepeer-app/src/App.js" />
       <jump line="7" column="77" filename="$USER_HOME$/git/casepeer/casepeer/dacase/serializers.py" />
       <jump line="112" column="7" filename="$USER_HOME$/git/casepeer/config/case_urls.py" />
@@ -1856,6 +1862,7 @@
       <jump line="214" column="81" filename="$USER_HOME$/git/casepeer/casepeer/cpnotifications/models.py" />
       <jump line="70" column="24" filename="$USER_HOME$/git/casepeer/casepeer/static/cpnotifications/js/notify.js" />
       <jump line="84" column="8" filename="$USER_HOME$/git/casepeer/casepeer/static/cpnotifications/js/notify.js" />
+      <jump line="2139" column="8" filename="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2096,8 +2103,8 @@
           <key char="65535" code="127" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Completed adding calendar rules events</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2U9Z2V0YXR0cihyZW1pbmRlci5jb250ZW50X29iamVjdCwgbm90ZV9maWVsZCksCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2115,46 +2122,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Completed adding calendar rules events</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsOiBgL25vdGlmaWNhdGlvbnMvZGlzbWlzcy8ke25vdGlmaWNhdGlvbi5pZH0vYCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2U9Z2V0YXR0cihyZW1pbmRlci5jb250ZW50X29iamVjdCwgbm90ZV9maWVsZCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlX2J1YmJsZShub3RpZmljYXRpb25zLmxlbmd0aCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm90ZV9maWVsZCA9ICd0YXNrJyBpZiBpc2luc3RhbmNlKHJlbWluZGVyLmNvbnRlbnRfb2JqZWN0LCBDYXNldGFza3MpIGVsc2UgJ25vdGUnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICQoIiNub3RpZmljYXRpb24tYnViYmxlIikudGV4dCgiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdHlwZShyZW1pbmRlci5jb250ZW50X29iamVjdCkgaXMgQ2FzZXRhc2tzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICQoIiNub3RpZmljYXRpb24tYnViYmxlIikudGV4dChjb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJlbWluZGVyLmNvbnRlbnRfb2JqZWN0LmNhc2U6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgbm90aWZpY2F0aW9uID0gbm90aWZpY2F0aW9uc1tpbmRleF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXggPSBpbmRleCAtIDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChpbmRleF9sb2NhdGlvbiAhPSAtMSkgewogICAgICAgICAgICAgICAgbm90aWZ5LnNwbGljZShpbmRleF9sb2NhdGlvbiwgMSk7CiAgICAgICAgICAgICAgICAvL1NpbmNlIHRoaXMgZG9lc24ndCBhY3F1aXJlIGFuIGV4cGxpY2l0IGxvY2sgdGhpcyBtaWdodCBoYXZlIGNvbnRlbnRpb24KICAgICAgICAgICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdub3RpZmljYXRpb25zJywgSlNPTi5zdHJpbmdpZnkobm90aWZ5KSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICQuYWpheCh7CiAgICAgICAgICAgICAgICB1cmw6IGAvbm90aWZpY2F0aW9ucy9kaXNtaXNzLyR7bm90aWZpY2F0aW9uLmlkfS9gLAogICAgICAgICAgICAgICAgc3VjY2VzczogZnVuY3Rpb24gKGRhdGEsIHN0YXR1c1RleHQsIHhocikgewogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIGVycm9yOiBmdW5jdGlvbiAoeGhyLCBzdGF0dXNUZXh0LCBlcnIpIHsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBjb21wbGV0ZTogZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgIC8vUmUtZmV0Y2ggZXZlbnRzIGFmdGVyIHRoZSBkaXNtaXNzIHRvIHJlLWh5ZHJhdGUgb3VyIGxvY2Fsc3RvcmFnZSB3aXRoIGxlZ2l0IGRhdGEKICAgICAgICAgICAgICAgICAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgnY29tcGxldGVkJywgbmV3IERhdGUoJzIwMTEtMDUtMDUnKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgbm90aWZfdGl0bGUgPSAnUmVtaW5kZXIgRGVtYW5kIEV4cGlyZXM6IHt9Jy5mb3JtYXQocmVtaW5kZXIuY29udGVudF9vYmplY3QuX21ldGEudmVyYm9zZV9uYW1lLmNhcGl0YWxpemUoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ge30K</text>
       </register>
       <register name="w" type="4">
         <text>+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0YWJsZSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjYXNlbm90ZXRhYmxlJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlX2J1YmJsZShub3RpZmljYXRpb25zLmxlbmd0aCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZV9idWJibGUobm90aWZpY2F0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICQoIiNub3RpZmljYXRpb24tYnViYmxlIikudGV4dCgiIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
