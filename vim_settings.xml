@@ -271,6 +271,12 @@
         <mark key="." line="411" column="0" />
         <mark key="^" line="411" column="16" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/templates/dacase/tags/document_tags/document_links.html" timestamp="1530133813225">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/options/index.js" timestamp="1518726335051">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="11" />
@@ -409,7 +415,12 @@
         <mark key="^" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/static/cpnotifications/js/notify.js" timestamp="1530229909842" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/static/cpnotifications/js/notify.js" timestamp="1530232651783">
+        <mark key="[" line="131" column="13" />
+        <mark key="]" line="131" column="32" />
+        <mark key="." line="131" column="32" />
+        <mark key="^" line="131" column="32" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/data/webpack.prod.js" timestamp="1509561539675">
         <mark key="[" line="13" column="35" />
         <mark key="]" line="14" column="32" />
@@ -982,6 +993,12 @@
         <mark key="]" line="7" column="5" />
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/Navigator.js" timestamp="1529616516982">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="81" column="12" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/iportal/IntakePacket.py" timestamp="1526000616141">
         <mark key="[" line="7" column="5" />
@@ -1632,6 +1649,12 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/homeData.js" timestamp="1529624313127">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/cphellosign/models.py" timestamp="1526066972085">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="17" column="23" />
@@ -2076,7 +2099,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>Completed adding calendar rules events</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2094,7 +2117,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Completed adding calendar rules events</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
