@@ -756,6 +756,12 @@
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/config/middleware.py" timestamp="1530299490185">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="56" />
+        <mark key="^" line="12" column="56" />
+        <mark key="." line="12" column="56" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/channel_settings.py" timestamp="1525978184976">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="4" column="29" />
@@ -858,7 +864,6 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/case.js" timestamp="1530297827843" />
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/SpanishWelcomeLetterMVA.py" timestamp="1525999600156">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="5" />
@@ -906,11 +911,11 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_dashboard.py" timestamp="1526499769134">
-        <mark key="[" line="36" column="51" />
-        <mark key="]" line="36" column="51" />
-        <mark key="^" line="36" column="63" />
-        <mark key="." line="36" column="51" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_dashboard.py" timestamp="1530299325659">
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="37" column="40" />
+        <mark key="^" line="37" column="40" />
+        <mark key="." line="37" column="40" />
       </file>
       <file name="$USER_HOME$/git/casepeer/assets/js/skel.jsx" timestamp="1507072948654">
         <mark key="[" line="15" column="28" />
@@ -1085,7 +1090,6 @@
         <mark key="." line="33" column="55" />
         <mark key="^" line="33" column="55" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/compose/settings/common.py" timestamp="1529434519466" />
       <file name="$USER_HOME$/git/casepeer-app/src/utils/constants.js" timestamp="1529622688854">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1275,7 +1279,6 @@
         <mark key="." line="124" column="71" />
         <mark key="^" line="124" column="71" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/js/src/cal_rules.es6" timestamp="1530209352986" />
       <file name="/fragment.js" timestamp="1529616670387">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="97" />
@@ -1485,7 +1488,6 @@
         <mark key="." line="26" column="5" />
         <mark key="^" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_form.html" timestamp="1530124586432" />
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/IntakePacket.py" timestamp="1526000515840">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="5" />
