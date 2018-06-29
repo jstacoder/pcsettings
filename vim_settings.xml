@@ -769,7 +769,7 @@
         <mark key="^" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" timestamp="1530226469644">
-        <mark key="'" line="2235" column="12" />
+        <mark key="'" line="2247" column="12" />
         <mark key="]" line="167" column="6" />
         <mark key="." line="167" column="6" />
         <mark key="^" line="167" column="6" />
@@ -858,6 +858,7 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/case.js" timestamp="1530296097522" />
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/SpanishWelcomeLetterMVA.py" timestamp="1525999600156">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="5" />
