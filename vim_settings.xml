@@ -193,7 +193,6 @@
         <mark key="^" line="3" column="103" />
         <mark key="." line="3" column="103" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cp_utilities/cp_classes.py" timestamp="1530300078668" />
       <file name="$USER_HOME$/git/casepeer/casepeer/scripts/imports/create_items.py" timestamp="1527870903161">
         <mark key="[" line="294" column="8" />
         <mark key="]" line="376" column="25" />
@@ -848,11 +847,11 @@
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1529365643352">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="12" column="15" />
-        <mark key="^" line="12" column="15" />
-        <mark key="." line="12" column="15" />
+      <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1530573649152">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_settlement.py" timestamp="1525998342817">
         <mark key="[" line="1786" column="13" />
