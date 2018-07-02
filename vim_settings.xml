@@ -381,6 +381,12 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/evently/models.py" timestamp="1530565651408">
+        <mark key="[" line="77" column="71" />
+        <mark key="]" line="77" column="46" />
+        <mark key="^" line="77" column="46" />
+        <mark key="." line="77" column="46" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/templatetags/string_templatetags.py" timestamp="1523053604261">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
