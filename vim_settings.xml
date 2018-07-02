@@ -806,6 +806,12 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" timestamp="1530553191838">
+        <mark key="[" line="654" column="56" />
+        <mark key="]" line="664" column="24" />
+        <mark key="^" line="664" column="24" />
+        <mark key="." line="664" column="24" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/api.py" timestamp="1507660544190">
         <mark key="[" line="5" column="75" />
         <mark key="]" line="10" column="7" />
