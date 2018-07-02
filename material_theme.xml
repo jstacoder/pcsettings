@@ -1,18 +1,18 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.2-2018.1" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="ARC_DARK" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isMaterialDesign" value="false" />
     <option name="isBoldTabs" value="true" />
-    <option name="accentColor" value="c6ff00" />
-    <option name="useMaterialIcons" value="false" />
+    <option name="accentColor" value="607d8b" />
     <option name="hideFileIcons" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="arrowsStyle" value="Darcula" />
     <option name="useMaterialFont" value="false" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="userId" value="1abb86bc:1645d43524f:-7fff" />
     <option name="allowDataCollection" value="true" />
   </component>
