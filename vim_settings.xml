@@ -381,11 +381,11 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/evently/models.py" timestamp="1530565651408">
-        <mark key="[" line="77" column="71" />
-        <mark key="]" line="77" column="46" />
-        <mark key="^" line="77" column="46" />
-        <mark key="." line="77" column="46" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/evently/models.py" timestamp="1530567825605">
+        <mark key="[" line="62" column="50" />
+        <mark key="]" line="62" column="58" />
+        <mark key="^" line="62" column="58" />
+        <mark key="." line="62" column="58" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/templatetags/string_templatetags.py" timestamp="1523053604261">
         <mark key="[" line="15" column="0" />
@@ -2105,8 +2105,8 @@
           <key char="65535" code="127" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2U9Z2V0YXR0cihyZW1pbmRlci5jb250ZW50X29iamVjdCwgbm90ZV9maWVsZCksCg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2124,7 +2124,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
