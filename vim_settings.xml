@@ -571,11 +571,11 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1530649845839">
-        <mark key="[" line="29" column="63" />
-        <mark key="]" line="29" column="62" />
-        <mark key="^" line="29" column="62" />
-        <mark key="." line="29" column="62" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1530651577545">
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="4" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/wizard.html" timestamp="1524511474848">
         <mark key="[" line="5" column="29" />
@@ -793,7 +793,7 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" timestamp="1530642997223">
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" timestamp="1530650746981">
         <mark key="[" line="196" column="37" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/api.py" timestamp="1507660544190">
