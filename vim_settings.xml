@@ -187,12 +187,6 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/drop-content.jsx" timestamp="1530576844852">
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
-        <mark key="^" line="200" column="8" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/wizard_view.html" timestamp="1524509603960">
         <mark key="[" line="3" column="103" />
         <mark key="]" line="3" column="103" />
@@ -1134,6 +1128,12 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1530636490826">
+        <mark key="[" line="684" column="33" />
+        <mark key="]" line="685" column="3" />
+        <mark key="^" line="685" column="3" />
+        <mark key="." line="685" column="3" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/requirements/base.txt" timestamp="1527613266186">
         <mark key="[" line="128" column="24" />
         <mark key="]" line="129" column="0" />
@@ -2042,8 +2042,8 @@
           <key char="65535" code="127" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5wcm9wcy5lZGl0aW5nKSB7CiAgICAgICAgICAgIC8vJCh0aGlzLnBhcmVudCkuZmluZCgnc2VsZWN0JykucmVtb3ZlKCkKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2061,7 +2061,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
