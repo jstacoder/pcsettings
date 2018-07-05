@@ -793,11 +793,6 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" timestamp="1530655072862">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/api.py" timestamp="1507660544190">
         <mark key="[" line="5" column="75" />
         <mark key="]" line="10" column="7" />
@@ -1142,7 +1137,6 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1530813653821" />
       <file name="$USER_HOME$/git/casepeer/requirements/base.txt" timestamp="1527613266186">
         <mark key="[" line="128" column="24" />
         <mark key="]" line="129" column="0" />
@@ -1498,11 +1492,11 @@
         <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/git/casepeer/config/case_urls.py" timestamp="1530655259435">
-        <mark key="'" line="475" column="0" />
-        <mark key="[" line="534" column="0" />
-        <mark key="]" line="534" column="0" />
+        <mark key="'" line="474" column="0" />
+        <mark key="[" line="533" column="0" />
+        <mark key="]" line="533" column="0" />
         <mark key="^" line="31" column="40" />
-        <mark key="." line="534" column="0" />
+        <mark key="." line="533" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/urls.py" timestamp="1530121497894">
         <mark key="[" line="10" column="71" />
