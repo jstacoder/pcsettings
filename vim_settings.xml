@@ -853,10 +853,11 @@
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1530573649152">
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
+      <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1530823223826">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_settlement.py" timestamp="1525998342817">
         <mark key="[" line="1786" column="13" />
@@ -2053,7 +2054,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB1cmwocideKD9QPGV2ZW50X2lkPlxkKykvJCcsIGV2ZW50c193cml0ZSwgbmFtZT0iZXZlbnRzX3dyaXRlIiksCg==</text>
+        <text encoding="base64">I1JVTiBucG0gY29uZmlnIHNldCByZWdpc3RyeSBodHRwOi8vcmVnaXN0cnkubnBtanMub3JnLyAmJiBcCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2077,10 +2078,10 @@
         <text>TetherDrop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsKHInXig/UDxldmVudF9pZD5cZCspLyQnLCBldmVudHNfd3JpdGUsIG5hbWU9ImV2ZW50c193cml0ZSIpLAo=</text>
+        <text encoding="base64">I1JVTiBucG0gY29uZmlnIHNldCByZWdpc3RyeSBodHRwOi8vcmVnaXN0cnkubnBtanMub3JnLyAmJiBcCiMgICAgbnBtIGluc3RhbGwgLWcgd2VicGFjayB3ZWJwYWNrLWRldi1zZXJ2ZXIgJiYgXAojICAgIG5wbSBpbnN0YWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB1cmwocideKD9QPGV2ZW50X2lkPlxkKykvJCcsIGV2ZW50c193cml0ZSwgbmFtZT0iZXZlbnRzX3dyaXRlIiksCg==</text>
+        <text encoding="base64">I1JVTiBucG0gY29uZmlnIHNldCByZWdpc3RyeSBodHRwOi8vcmVnaXN0cnkubnBtanMub3JnLyAmJiBcCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2089,28 +2090,28 @@
         <text encoding="base64">ICAgICAgICAgICAgIyB1cmwocideKD9QPGV2ZW50X2lkPlxkKykvJCcsIGV2ZW50c193cml0ZSwgbmFtZT0iZXZlbnRzX3dyaXRlIiksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB1cmwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB1cmwocideKD9QPGV2ZW50X2lkPlxkKykvJCcsIGV2ZW50c193cml0ZSwgbmFtZT0iZXZlbnRzX3dyaXRlIiksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB1cmwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjYXNlcGVlci5jcF91dGlsaXRpZXMuY3BfY2xhc3NlcyBpbXBvcnQgZW5mb3JjZV9kYXRlX2lzX3V0Ywo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAuLm1vZGVscyBpbXBvcnQgUmVtaW5kZXJOb3RpZmljYXRpb25UeXBlLCBOb3RlVGFnCg==</text>
+        <text encoding="base64">ZnJvbSBjYXNlcGVlci5jcF91dGlsaXRpZXMuY3BfY2xhc3NlcyBpbXBvcnQgZW5mb3JjZV9kYXRlX2lzX3V0Ywo=</text>
       </register>
       <register name="w" type="4">
         <text>+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCmltcG9ydCBzaXgK</text>
+        <text encoding="base64">ZnJvbSAuLm1vZGVscyBpbXBvcnQgUmVtaW5kZXJOb3RpZmljYXRpb25UeXBlLCBOb3RlVGFnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCmltcG9ydCBzaXgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
