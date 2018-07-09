@@ -345,12 +345,12 @@
         <mark key="." line="1071" column="0" />
         <mark key="^" line="1063" column="76" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1531168742024">
-        <mark key="'" line="621" column="20" />
-        <mark key="[" line="616" column="10" />
-        <mark key="]" line="616" column="10" />
-        <mark key="^" line="621" column="20" />
-        <mark key="." line="616" column="10" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1531175906740">
+        <mark key="'" line="387" column="59" />
+        <mark key="[" line="388" column="7" />
+        <mark key="]" line="386" column="13" />
+        <mark key="^" line="386" column="13" />
+        <mark key="." line="386" column="13" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/.env" timestamp="1527099286328">
         <mark key="[" line="0" column="39" />
@@ -1084,10 +1084,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530811430230">
+      <file name="/Python Console" timestamp="1531174806041">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1529951485581">
+      <file name="/fragment.py" timestamp="1531172684128">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="16" />
@@ -1360,6 +1360,7 @@
         <mark key="^" line="16" column="83" />
         <mark key="." line="16" column="83" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/graphene_django_extras/types.py" timestamp="1531173962376" />
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/helpers.py" timestamp="1527182269562">
         <mark key="[" line="42" column="42" />
         <mark key="]" line="42" column="47" />
@@ -1450,6 +1451,7 @@
         <mark key="." line="26" column="5" />
         <mark key="^" line="26" column="5" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/graphene/utils/subclass_with_meta.py" timestamp="1531169805098" />
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/IntakePacket.py" timestamp="1526000515840">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="5" />
@@ -1722,8 +1724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/urls.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/urls.py" />
       <jump line="4" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/urls.py" />
       <jump line="2" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/urls.py" />
       <jump line="10" column="11" filename="$USER_HOME$/git/casepeer/casepeer/dacase/urls.py" />
@@ -1822,6 +1822,8 @@
       <jump line="475" column="0" filename="$USER_HOME$/git/casepeer/config/case_urls.py" />
       <jump line="266" column="3" filename="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_uploads.py" />
       <jump line="651" column="20" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
+      <jump line="385" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
+      <jump line="387" column="59" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2063,7 +2065,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2081,76 +2083,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I1JVTiBucG0gY29uZmlnIHNldCByZWdpc3RyeSBodHRwOi8vcmVnaXN0cnkubnBtanMub3JnLyAmJiBcCiMgICAgbnBtIGluc3RhbGwgLWcgd2VicGFjayB3ZWJwYWNrLWRldi1zZXJ2ZXIgJiYgXAojICAgIG5wbSBpbnN0YWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSB7CiAgICAgICAgICAgICdpZCc6IFsnaWV4YWN0J10sCiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>class DRFAuthenticatedGraphQLView(GraphQLView):
-    &quot;&quot;&quot;
-    Custom view for using DRF TokenAuthentication with graphene
-    `GraphQL.as_view()` all requests to Graphql endpoint will
-    require token for auth, obtained from DRF endpoint:
-    https://github.com/graphql-python/graphene/issues/249
-    &quot;&quot;&quot;
-    def parse_body(self, request):
-        if type(request) is rest_framework.request.Request:
-            return request.data
-        return super(DRFAuthenticatedGraphQLView, self).parse_body(request)
-
-    @method_decorator([
-        csrf_exempt,
-        api_view(
-            ['GET', 'POST']
-        ),
-        authentication_classes(
-            (
-                TokenAuthentication,
-                SessionAuthentication,
-            )
-        ),
-        permission_classes(
-            (
-                IsAuthenticatedOrReadOnly,
-            )
-        ),
-    ])
-    def dispatch(self, *args, **kwargs):
-        return super(DRFAuthenticatedGraphQLView, self).dispatch(*args, **kwargs)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVtaW5kZXIub2JqZWN0cy5maWx0ZXIoY29udGVudF9vYmplY3RfaWQ9c2VsZi5pZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lkJzogWydpZXhhY3QnXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxNGQ5ZTIyNjIuLi4gZml4IGZvciByZW1pbmRlcnMK</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXJfZmllbGRzID0gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90ZV9maWVsZCA9ICd0YXNrJyBpZiBzZWxmLnR5cGUgPT0gJ1Rhc2snIGVsc2UgJ25vdGUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lkJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBvbmx5X2ZpZWxkcyA9IFsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxNGQ5ZTIyNjIuLi4gZml4IGZvciByZW1pbmRlcnMK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IENhc2V3b3JrZXIK</text>
       </register>
       <register name="w" type="4">
         <text>+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXJfY2xhc3MgPSBDYXNld29ya2VyRmlsdGVyU2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
