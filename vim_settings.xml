@@ -213,7 +213,6 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/case/management/taskmanagement.html" timestamp="1531156425717" />
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/dropbox_delete.html" timestamp="1521481317372">
         <mark key="[" line="6" column="171" />
         <mark key="]" line="6" column="146" />
@@ -346,6 +345,13 @@
         <mark key="." line="1071" column="0" />
         <mark key="^" line="1063" column="76" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1531163612719">
+        <mark key="'" line="651" column="20" />
+        <mark key="[" line="651" column="70" />
+        <mark key="]" line="651" column="70" />
+        <mark key="^" line="651" column="20" />
+        <mark key="." line="651" column="70" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/.env" timestamp="1527099286328">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="38" />
@@ -376,7 +382,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_management.py" timestamp="1531156358519" />
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_admin.py" timestamp="1521246971539">
         <mark key="[" line="74" column="44" />
         <mark key="]" line="74" column="39" />
@@ -605,7 +610,6 @@
         <mark key="^" line="429" column="9" />
         <mark key="." line="429" column="9" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/node_modules/react-dates/src/components/DateRangePicker.jsx" timestamp="1530901753903" />
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cbv_theme/create_form_entry.html" timestamp="1524867025601">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="15" />
@@ -708,7 +712,6 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/node_modules/react-dates/src/components/DateRangePickerInputController.jsx" timestamp="1530912028247" />
       <file name="$USER_HOME$/git/casepeer/webpack-dev-server.js" timestamp="1525712881273">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="25" column="21" />
@@ -1719,7 +1722,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/urls.py" />
       <jump line="8" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/urls.py" />
       <jump line="6" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/urls.py" />
       <jump line="4" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/urls.py" />
@@ -1819,6 +1821,7 @@
       <jump line="30" column="0" filename="$USER_HOME$/git/casepeer/casepeer/types.py" />
       <jump line="475" column="0" filename="$USER_HOME$/git/casepeer/config/case_urls.py" />
       <jump line="266" column="3" filename="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_uploads.py" />
+      <jump line="651" column="20" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2059,8 +2062,8 @@
           <key char="65535" code="127" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVtaW5kZXIub2JqZWN0cy5maWx0ZXIoY29udGVudF9vYmplY3RfaWQ9c2VsZi5pZCkK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2078,7 +2081,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
