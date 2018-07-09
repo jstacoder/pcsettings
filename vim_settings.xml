@@ -345,12 +345,12 @@
         <mark key="." line="1071" column="0" />
         <mark key="^" line="1063" column="76" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1531163612719">
-        <mark key="'" line="651" column="20" />
-        <mark key="[" line="651" column="70" />
-        <mark key="]" line="651" column="70" />
-        <mark key="^" line="651" column="20" />
-        <mark key="." line="651" column="70" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1531168742024">
+        <mark key="'" line="620" column="20" />
+        <mark key="[" line="615" column="10" />
+        <mark key="]" line="615" column="10" />
+        <mark key="^" line="620" column="20" />
+        <mark key="." line="615" column="10" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/.env" timestamp="1527099286328">
         <mark key="[" line="0" column="39" />
@@ -2063,7 +2063,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2081,7 +2081,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
@@ -2089,38 +2089,68 @@
       <register name="0" type="2">
         <text encoding="base64">I1JVTiBucG0gY29uZmlnIHNldCByZWdpc3RyeSBodHRwOi8vcmVnaXN0cnkubnBtanMub3JnLyAmJiBcCiMgICAgbnBtIGluc3RhbGwgLWcgd2VicGFjayB3ZWJwYWNrLWRldi1zZXJ2ZXIgJiYgXAojICAgIG5wbSBpbnN0YWxsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVtaW5kZXIub2JqZWN0cy5maWx0ZXIoY29udGVudF9vYmplY3RfaWQ9c2VsZi5pZCkK</text>
+      <register name="1" type="4">
+        <text>class DRFAuthenticatedGraphQLView(GraphQLView):
+    &quot;&quot;&quot;
+    Custom view for using DRF TokenAuthentication with graphene
+    `GraphQL.as_view()` all requests to Graphql endpoint will
+    require token for auth, obtained from DRF endpoint:
+    https://github.com/graphql-python/graphene/issues/249
+    &quot;&quot;&quot;
+    def parse_body(self, request):
+        if type(request) is rest_framework.request.Request:
+            return request.data
+        return super(DRFAuthenticatedGraphQLView, self).parse_body(request)
+
+    @method_decorator([
+        csrf_exempt,
+        api_view(
+            ['GET', 'POST']
+        ),
+        authentication_classes(
+            (
+                TokenAuthentication,
+                SessionAuthentication,
+            )
+        ),
+        permission_classes(
+            (
+                IsAuthenticatedOrReadOnly,
+            )
+        ),
+    ])
+    def dispatch(self, *args, **kwargs):
+        return super(DRFAuthenticatedGraphQLView, self).dispatch(*args, **kwargs)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxNGQ5ZTIyNjIuLi4gZml4IGZvciByZW1pbmRlcnMK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVtaW5kZXIub2JqZWN0cy5maWx0ZXIoY29udGVudF9vYmplY3RfaWQ9c2VsZi5pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90ZV9maWVsZCA9ICd0YXNrJyBpZiBzZWxmLnR5cGUgPT0gJ1Rhc2snIGVsc2UgJ25vdGUnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiAxNGQ5ZTIyNjIuLi4gZml4IGZvciByZW1pbmRlcnMK</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbm90ZV9maWVsZCA9ICd0YXNrJyBpZiBzZWxmLnR5cGUgPT0gJ1Rhc2snIGVsc2UgJ25vdGUnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAxNGQ5ZTIyNjIuLi4gZml4IGZvciByZW1pbmRlcnMK</text>
       </register>
       <register name="w" type="4">
         <text>+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90ZV9maWVsZCA9ICd0YXNrJyBpZiBzZWxmLnR5cGUgPT0gJ1Rhc2snIGVsc2UgJ25vdGUnCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
