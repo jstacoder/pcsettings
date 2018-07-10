@@ -1069,12 +1069,11 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" timestamp="1531258769454">
-        <mark key="'" line="38" column="34" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="44" column="24" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="38" column="44" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" timestamp="1531262766144">
+        <mark key="'" line="44" column="33" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="35" column="44" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/embed_form_snippet.html" timestamp="1525902348207">
         <mark key="[" line="0" column="0" />
@@ -1735,8 +1734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="589" column="104" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
-      <jump line="947" column="82" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
       <jump line="1075" column="74" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
       <jump line="1246" column="51" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
       <jump line="1249" column="68" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
@@ -1835,6 +1832,8 @@
       <jump line="385" column="25" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
       <jump line="29" column="34" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" />
       <jump line="39" column="34" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" />
+      <jump line="44" column="10" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" />
+      <jump line="48" column="33" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2076,7 +2075,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGUuc3RvcFByb3BhZ2F0aW9uKCkKICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCBzZWwgPSB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkKICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzZWwpCiAgICAgICAgICAgICAgY29uc3QgcmFuZ2UgPSBzZWwuZ2V0UmFuZ2VBdCgwKQogICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJhbmdlLCByYW5nZS50b1N0cmluZygpKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2094,46 +2093,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG5ld1ZhbCkK</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQucmVtb3ZlRXZlbnRMaXN0ZW5lcigna2V5cHJlc3MnLCBrZXlwcmVzc0hhbmRsZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGUuc3RvcFByb3BhZ2F0aW9uKCkKICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCBzZWwgPSB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkKICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzZWwpCiAgICAgICAgICAgICAgY29uc3QgcmFuZ2UgPSBzZWwuZ2V0UmFuZ2VBdCgwKQogICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJhbmdlLCByYW5nZS50b1N0cmluZygpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKQogICAgICBlLnByZXZlbnREZWZhdWx0KCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5jbGlwYm9hcmREYXRhLml0ZW1zWzBdKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFkZFNsYXNoU3RvcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXBsYWNlKC9cLy9nLCAnJykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF4aW9zKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXBsYWNlKC9cLy9nLCAnJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlbm90ZV9pZCA9IGlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhuZXdOZXcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlkID1zU3RyaW5nKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkID0gU3RyaW5nKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZighc2VsZWN0aW9uLnJhbmdlQ291bnQpewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2172,7 +2171,6 @@
         <entry>TetherDrop</entry>
       </history-search>
       <history-cmd>
-        <entry>ew</entry>
         <entry>'s</entry>
         <entry>wa</entry>
         <entry>q</entry>
@@ -2191,6 +2189,7 @@
         <entry>W</entry>
         <entry>w\</entry>
         <entry>e</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
