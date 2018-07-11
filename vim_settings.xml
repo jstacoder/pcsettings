@@ -278,6 +278,9 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="/cpnotifications_notification [cpdb@localhost]" timestamp="1531336744080">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/apps.py" timestamp="1512511103566">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="23" />
@@ -350,11 +353,10 @@
         <mark key="." line="1071" column="0" />
         <mark key="^" line="1063" column="76" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1531333944860">
-        <mark key="[" line="320" column="15" />
-        <mark key="]" line="316" column="0" />
-        <mark key="." line="316" column="0" />
-        <mark key="^" line="316" column="0" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1531335681047">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/.env" timestamp="1531180022233">
         <mark key="[" line="0" column="23" />
@@ -717,7 +719,7 @@
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
       </file>
-      <file name="/dummy.sql" timestamp="1531255591816">
+      <file name="/dummy.sql" timestamp="1531336799155">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cbv_theme/create_form_wizard_entry.html" timestamp="1524867037658">
@@ -1068,13 +1070,6 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" timestamp="1531267928349">
-        <mark key="'" line="127" column="33" />
-        <mark key="[" line="25" column="108" />
-        <mark key="]" line="25" column="86" />
-        <mark key="." line="25" column="86" />
-        <mark key="^" line="25" column="86" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/embed_form_snippet.html" timestamp="1525902348207">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="13" />
@@ -1198,6 +1193,12 @@
         <mark key="]" line="94" column="28" />
         <mark key="^" line="94" column="28" />
         <mark key="." line="94" column="28" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/evently/views.py" timestamp="1531336695482">
+        <mark key="[" line="272" column="30" />
+        <mark key="]" line="274" column="113" />
+        <mark key="^" line="274" column="113" />
+        <mark key="." line="274" column="113" />
       </file>
       <file name="http://devdockerhost:4005/static/assets/bundles/main.2e5ba28d875873d0a08d.bundle.js" timestamp="1530895481242">
         <mark key="[" line="0" column="0" />
@@ -2074,8 +2075,8 @@
           <key char="65535" code="127" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBncmFwaHFsX3JlbGF5Lm5vZGUubm9kZSBpbXBvcnQgZnJvbV9nbG9iYWxfaWQK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2093,7 +2094,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
@@ -2102,40 +2103,44 @@
         <text encoding="base64">ICAgICAgICBuZXN0ZWRfZmllbGRzID0gVHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXN0ZWRfZmllbGRzID0gcnVlCg==</text>
+        <text encoding="base64">ZnJvbSBncmFwaHFsX3JlbGF5Lm5vZGUubm9kZSBpbXBvcnQgZnJvbV9nbG9iYWxfaWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXN0ZWRfZmllbGRzID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGUsIGlkXyA9IGZyb21fZ2xvYmFsX2lkKGlkXykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGFzaGVyaXplIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGlkXy5pc2RpZ2l0KCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGtleV9maWVsZCA9ICduYW1lJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZSwgY2FzZV9pZCA9IGZyb21fZ2xvYmFsX2lkKGNhc2VfaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gTm90ZUNhdGVnb3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgY2FzZV9pZC5pc2RpZ2l0KCk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF9fbWV0YWNsYXNzX18gPSBGb3JtRmlsbGVyRW51bQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgTm90ZUNhdGVnb3J5RW51bShncmFwaGVuZS5FbnVtKTogICAgCg==</text>
+        <text encoding="base64">ZGRpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text># id = String()
+        # case = graphene.String()
+        # priority = graphene.String()
+        # directed_to = graphene.String()
+        # task = String()</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHlwZShuYW1lLCAoY2xzLCApLCBkaWN0KGNob2ljZXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpbmZvLmNvbnRleHQudXNlciwgcm9vdCBpcyBOb25lCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2183,7 +2188,6 @@
         <entry>w\]</entry>
         <entry>WQ</entry>
         <entry>.w</entry>
-        <entry>wq</entry>
         <entry>ww</entry>
         <entry>ws</entry>
         <entry>W</entry>
@@ -2191,6 +2195,7 @@
         <entry>Lw</entry>
         <entry>e</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
