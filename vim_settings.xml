@@ -1200,19 +1200,14 @@
         <mark key="^" line="94" column="28" />
         <mark key="." line="94" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/evently/views.py" timestamp="1531344838629">
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="0" />
-        <mark key="." line="275" column="0" />
-      </file>
       <file name="http://devdockerhost:4005/static/assets/bundles/main.2e5ba28d875873d0a08d.bundle.js" timestamp="1530895481242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" timestamp="1531344504181">
-        <mark key="[" line="1375" column="103" />
-        <mark key="]" line="1375" column="104" />
-        <mark key="." line="1375" column="104" />
-        <mark key="^" line="1375" column="104" />
+        <mark key="[" line="323" column="103" />
+        <mark key="]" line="323" column="104" />
+        <mark key="." line="323" column="104" />
+        <mark key="^" line="323" column="104" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/caseworker/lastname.js" timestamp="1517538607780">
         <mark key="[" line="3" column="29" />
@@ -1644,12 +1639,6 @@
         <mark key="]" line="17" column="23" />
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cpnotifications/models.py" timestamp="1531245996349">
-        <mark key="[" line="218" column="70" />
-        <mark key="]" line="218" column="35" />
-        <mark key="^" line="218" column="35" />
-        <mark key="." line="218" column="35" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/LienReduction.py" timestamp="1526000579825">
         <mark key="[" line="55" column="16" />
