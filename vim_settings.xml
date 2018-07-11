@@ -1069,12 +1069,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" timestamp="1531266008860">
-        <mark key="'" line="66" column="33" />
-        <mark key="[" line="37" column="27" />
-        <mark key="]" line="41" column="41" />
-        <mark key="^" line="41" column="41" />
-        <mark key="." line="41" column="41" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" timestamp="1531267928349">
+        <mark key="'" line="127" column="33" />
+        <mark key="[" line="25" column="108" />
+        <mark key="]" line="25" column="86" />
+        <mark key="." line="25" column="86" />
+        <mark key="^" line="25" column="86" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/embed_form_snippet.html" timestamp="1525902348207">
         <mark key="[" line="0" column="0" />
@@ -2076,7 +2076,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJChldmVudC50YXJnZXQpLnZhbChkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI2ZvbGRlcicpLnZhbHVlID0gZXZlbnQudGFyZ2V0LnZhbHVlLnJlcGxhY2UoL1wvL2csJycpCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2100,31 +2100,31 @@
         <text>TetherDrop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJChldmVudC50YXJnZXQpLnZhbChkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI2ZvbGRlcicpLnZhbHVlID0gZXZlbnQudGFyZ2V0LnZhbHVlLnJlcGxhY2UoL1wvL2csJycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXZlbnQuY2xpcGJvYXJkRGF0YS5zZXREYXRhKCd0ZXh0L3BsYWluJywgJ2NoYXNsa2lqaHNha2xkanNhbGtkamxhcWQpCg==</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQuZXhlY0NvbW1hbmQoJ3Bhc3RlJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgZXZlbnQuY2xpcGJvYXJkRGF0YS5zZXREYXRhKCd0ZXh0L3BsYWluJywgJ2NoYXNsa2lqaHNha2xkanNhbGtkamxhcWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQodGFyZ2V0KS52YWwobmV3TmV3KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbnB1dCBjaGFuZ2VkIX4hIScsIGV2ZW50LnRhcmdldC52YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQodGFyZ2V0KS52YWwobmV3TmV3KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0YXJnZXQuYWRkRXZlbnRMaXN0ZW5lcignY2hhbmdlJywgZXZlbnQ9PnsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbnB1dCBjaGFuZ2VkIX4hIScsIGV2ZW50LnRhcmdldC52YWx1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJChldmVudC50YXJnZXQpLnZhbChldmVudC50YXJnZXQudmFsdWUucmVwbGFjZSgvXC8vZywnJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0YXJnZXQuYWRkRXZlbnRMaXN0ZW5lcignY2hhbmdlJywgZXZlbnQ9PnsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJChldmVudC50YXJnZXQpLnZhbChldmVudC50YXJnZXQudmFsdWUucmVwbGFjZSgvXC8vZywnJykpCg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
@@ -2133,7 +2133,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCBuZXdOZXcgPSBgJHtvbGRWYWx9JHtuZXdWYWx9YAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
