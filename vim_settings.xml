@@ -1202,6 +1202,12 @@
         <mark key="^" line="94" column="28" />
         <mark key="." line="94" column="28" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/evently/views.py" timestamp="1531422896543">
+        <mark key="[" line="295" column="17" />
+        <mark key="]" line="300" column="11" />
+        <mark key="^" line="300" column="11" />
+        <mark key="." line="300" column="11" />
+      </file>
       <file name="http://devdockerhost:4005/static/assets/bundles/main.2e5ba28d875873d0a08d.bundle.js" timestamp="1530895481242">
         <mark key="[" line="0" column="0" />
       </file>
