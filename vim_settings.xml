@@ -363,11 +363,11 @@
         <mark key="." line="299" column="23" />
         <mark key="^" line="299" column="23" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/.env" timestamp="1531180022233">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/.env" timestamp="1531426762971">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="48" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/cpnotifications/urls.py" timestamp="1508786129054">
         <mark key="[" line="3" column="4" />
@@ -1074,11 +1074,11 @@
         <mark key="." line="33" column="55" />
         <mark key="^" line="33" column="55" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/utils/constants.js" timestamp="1531180096820">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/utils/constants.js" timestamp="1531426781193">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="1" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/embed_form_snippet.html" timestamp="1525902348207">
         <mark key="[" line="0" column="0" />
