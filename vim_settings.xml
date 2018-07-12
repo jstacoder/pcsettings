@@ -1185,10 +1185,11 @@
         <mark key="^" line="8220" column="11" />
         <mark key="." line="8220" column="11" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/evently/schema.py" timestamp="1531347898687">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/evently/schema.py" timestamp="1531428745899">
+        <mark key="[" line="54" column="34" />
+        <mark key="]" line="55" column="30" />
+        <mark key="^" line="55" column="30" />
+        <mark key="." line="55" column="30" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/safe/fullcalendar-2.8.0/fullcalendar.css" timestamp="1511286379571">
         <mark key="[" line="1313" column="11" />
@@ -1738,7 +1739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1249" column="68" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
       <jump line="1251" column="51" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
       <jump line="1253" column="54" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
       <jump line="1254" column="71" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
@@ -1838,6 +1838,7 @@
       <jump line="385" column="68" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
       <jump line="98" column="43" filename="$USER_HOME$/git/casepeer/casepeer/formfillers/schema.py" />
       <jump line="111" column="8" filename="$USER_HOME$/git/casepeer/casepeer/formfillers/schema.py" />
+      <jump line="90" column="31" filename="$USER_HOME$/git/casepeer/casepeer/evently/schema.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2079,7 +2080,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2097,7 +2098,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
@@ -2189,11 +2190,11 @@
         <entry>.w</entry>
         <entry>ww</entry>
         <entry>ws</entry>
-        <entry>W</entry>
         <entry>w\</entry>
         <entry>Lw</entry>
         <entry>e</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
