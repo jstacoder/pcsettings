@@ -5,6 +5,7 @@
       <mapping pattern="Dockerfile-hack" type="Dockerfile" />
       <mapping pattern="Dockerfile-multi" type="Dockerfile" />
       <mapping pattern="*.es6.js" type="ECMAScript 6" />
+      <mapping pattern="offsets.js" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-hack-ctx" type="PLAIN_TEXT" />
       <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
