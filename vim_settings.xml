@@ -938,11 +938,11 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1531510798719">
-        <mark key="[" line="46" column="18" />
-        <mark key="]" line="56" column="4" />
-        <mark key="." line="56" column="4" />
-        <mark key="^" line="56" column="4" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1531516255561">
+        <mark key="[" line="69" column="24" />
+        <mark key="]" line="102" column="23" />
+        <mark key="." line="102" column="23" />
+        <mark key="^" line="102" column="23" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/ProviderVerification.py" timestamp="1526000294575">
         <mark key="[" line="15" column="5" />
@@ -2093,8 +2093,8 @@
           <key char="65535" code="127" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2112,46 +2112,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV2ZW50Q291bnQgPSBhd2FpdCB0aGlzLnByb3BzLmFjdGlvbnMucmVxdWVzdEV2ZW50cygKICAgICAgICB0aGlzLnN0YXRlLmRhdGVSYW5nZS5zdGFydCwgCiAgICAgICAgdGhpcy5zdGF0ZS5kYXRlUmFuZ2UuZW5kLCAKICAgICAgICB0aGlzLnByb3BzLmF1dGguY2FzZXdvcmtlci5pZAogICAgKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2l0ZW1zOiB0aGlzLnByb3BzLmNhbGVuZGFyLmV2ZW50c30pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmF1dGguY2FzZXdvcmtlci5pZCAmJiAoIXRoaXMucHJvcHMuY2FsZW5kYXIuZXZlbnRzLmxlbmd0aCkpIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmF1dGguY2FzZXdvcmtlci5pZCAmJiAoIXRoaXMucHJvcHMuY2FsZW5kYXIuZXZlbnRzLmxlbmd0aCkpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICBpZighdGhpcy5zdGF0ZS5sb2FkZWQpewo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsU3RhdGUsCg==</text>
+        <text encoding="base64">ICAgICBpZighdGhpcy5zdGF0ZS5sb2FkZWQpewo=</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZUtleSwK</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsU3RhdGUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNVQ0NFU1NGVUxfRVZFTlRfUkVRVUVTVCwK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZUtleSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
