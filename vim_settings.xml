@@ -1200,11 +1200,12 @@
         <mark key="^" line="8220" column="11" />
         <mark key="." line="8220" column="11" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/evently/schema.py" timestamp="1531758507112">
-        <mark key="[" line="55" column="33" />
-        <mark key="]" line="56" column="35" />
-        <mark key="^" line="56" column="35" />
-        <mark key="." line="56" column="35" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/evently/schema.py" timestamp="1531761333066">
+        <mark key="'" line="117" column="52" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="117" column="52" />
+        <mark key="." line="117" column="52" />
+        <mark key="^" line="117" column="52" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/safe/fullcalendar-2.8.0/fullcalendar.css" timestamp="1511286379571">
         <mark key="[" line="1313" column="11" />
@@ -1772,7 +1773,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1255" column="79" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
       <jump line="1300" column="51" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
       <jump line="1573" column="60" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
       <jump line="2164" column="14" filename="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" />
@@ -1872,6 +1872,7 @@
       <jump line="16" column="23" filename="$USER_HOME$/git/casepeer-app/src/reducers/calendar/events.js" />
       <jump line="35" column="40" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="81" column="37" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
+      <jump line="117" column="52" filename="$USER_HOME$/git/casepeer/casepeer/evently/schema.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2113,7 +2114,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJfZmllbGRzID0gZGljdCgKICAgICAgICAgICAgc3RhcnQ9WydsdGUnLCAnZ3RlJ10sCiAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2131,7 +2132,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
@@ -2140,37 +2141,37 @@
         <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2l0ZW1zOiB0aGlzLnByb3BzLmNhbGVuZGFyLmV2ZW50c30pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJfZmllbGRzID0gZGljdCgKICAgICAgICAgICAgc3RhcnQ9WydsdGUnLCAnZ3RlJ10sCiAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHJlbGF0ZWRfZGlzY292ZXJ5ID0gZ3JhcGhlbmUuTGlzdChEaXNjb3ZlcnlJdGVtVHlwZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHRoaXMubG9hZEV2ZW50cygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYoIXRoaXMuc3RhdGUubG9hZGVkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXJfZmllbGRzID0gZGljdCgKICAgICAgICAgICAgc3RhcnQ9WydsdGUnLCAnZ3RlJ10sCiAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMubG9hZEV2ZW50cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHRoaXMubG9hZEV2ZW50cygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLmxvYWRFdmVudHMoKQo=</text>
+        <text encoding="base64">ICAgICAgaWYoIXRoaXMuc3RhdGUubG9hZGVkKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBvZmZzZXQgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMubG9hZEV2ZW50cygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
