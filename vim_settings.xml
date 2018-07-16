@@ -231,11 +231,10 @@
         <mark key="^" line="54" column="20" />
         <mark key="." line="54" column="20" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/reducers/calendar/index.js" timestamp="1531519786391">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="7" column="8" />
-        <mark key="^" line="7" column="8" />
-        <mark key="." line="7" column="8" />
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/calendar/index.js" timestamp="1531778229441">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/hooplaconnection/views.py" timestamp="1526001182907">
         <mark key="[" line="8" column="5" />
@@ -2082,7 +2081,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMubG9hZEV2ZW50cygpCg==</text>
+        <text encoding="base64">ICBvZmZzZXQsCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2109,22 +2108,22 @@
         <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBFdmVudEJhc2VlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMubG9hZEV2ZW50cygpCg==</text>
+        <text encoding="base64">ICBvZmZzZXQsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMubG9hZEV2ZW50cygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHRoaXMubG9hZEV2ZW50cygpCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYoIXRoaXMuc3RhdGUubG9hZGluZykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHRoaXMubG9hZEV2ZW50cygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoIXRoaXMuc3RhdGUubG9hZGluZykgewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -2136,10 +2135,10 @@
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZXRDb3VudCA9ICh0b3RhbCwgbGVuKSA9PiAocGFyc2VJbnQodG90YWwgLyBsZW4pICsgKHRvdGFsICUgbGVuID8gMSA6IDApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBnZXRDb3VudCA9ICh0b3RhbCwgbGVuKSA9PiAocGFyc2VJbnQodG90YWwgLyBsZW4pICsgKHRvdGFsICUgbGVuID8gMSA6IDApKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
