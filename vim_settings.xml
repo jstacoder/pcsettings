@@ -231,11 +231,11 @@
         <mark key="^" line="54" column="20" />
         <mark key="." line="54" column="20" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/reducers/calendar/index.js" timestamp="1531783335522">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="9" />
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/calendar/index.js" timestamp="1531862549187">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/hooplaconnection/views.py" timestamp="1526001182907">
         <mark key="[" line="8" column="5" />
@@ -658,9 +658,9 @@
         <mark key="^" line="61" column="74" />
         <mark key="." line="61" column="74" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Notifications.js" timestamp="1523311829275">
-        <mark key="[" line="90" column="1" />
-        <mark key="]" line="90" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Notifications.js" timestamp="1531867331650">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="72" />
         <mark key="." line="90" column="0" />
         <mark key="^" line="90" column="0" />
       </file>
@@ -797,6 +797,12 @@
         <mark key="." line="47" column="49" />
         <mark key="^" line="77" column="36" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/calendar/eventsById.js" timestamp="1531862672394">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="78" />
+        <mark key="^" line="23" column="78" />
+        <mark key="." line="23" column="78" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/_60DayLetterSpanish.py" timestamp="1526000431119">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="5" />
@@ -923,12 +929,12 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1531861807453">
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1531867958139">
         <mark key="'" line="114" column="37" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="96" column="66" />
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="1" column="65" />
+        <mark key="." line="1" column="65" />
+        <mark key="^" line="1" column="65" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/ProviderVerification.py" timestamp="1526000294575">
         <mark key="[" line="15" column="5" />
@@ -1668,11 +1674,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/evently/serializers.py" timestamp="1531852547860">
-        <mark key="[" line="104" column="73" />
-        <mark key="]" line="104" column="86" />
-        <mark key="^" line="104" column="86" />
-        <mark key="." line="104" column="86" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/evently/serializers.py" timestamp="1531867405153">
+        <mark key="[" line="104" column="87" />
+        <mark key="]" line="104" column="72" />
+        <mark key="^" line="104" column="72" />
+        <mark key="." line="104" column="72" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/edit_form_entry_ajax.html" timestamp="1525727566860">
         <mark key="[" line="72" column="0" />
@@ -2095,7 +2101,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZUV2ZW50T2JqZWN0KCkK</text>
+        <text encoding="base64">ICAgIExheW91dEFuaW1hdGlvbi5jb25maWd1cmVOZXh0KExheW91dEFuaW1hdGlvbi5QcmVzZXRzLmVhc2VJbkVhc2VPdXQpCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2113,46 +2119,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jcmVhdGVFdmVudE9iamVjdCgpCg==</text>
+        <text encoding="base64">ICAgIExheW91dEFuaW1hdGlvbi5jb25maWd1cmVOZXh0KExheW91dEFuaW1hdGlvbi5QcmVzZXRzLmVhc2VJbkVhc2VPdXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZUV2ZW50T2JqZWN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17eyBtYXJnaW5Cb3R0b206IC0zNywgbWFyZ2luVG9wOiAtMTAsIG1hcmdpbkxlZnQ6IC0xMCwgaGVpZ2h0OiA5MCwgd2lkdGg6IDEwLCBiYWNrZ3JvdW5kQ29sb3I6ICdibHVlJywgYWxpZ25TZWxmOiAnZmxleC1zdGFydCcsIGZsZXg6IDF9fT48L1ZpZXc+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHN1Y2Nlc3NmdWxEZWxldGVFdmVudFJlcXVlc3QgPSBjcmVhdGVBY3Rpb24oU1VDQ0VTU0ZVTF9ERUxFVEVfRVZFTlRfUkVRVUVTVCwgdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0IG9uUHJlc3M9eygpPT4gdGhpcy5kZWxldGVFdmVudChpdGVtKX0gc3R5bGU9e3thbGlnblNlbGY6ICdmbGV4LWVuZCd9fT5YPC9UZXh0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxWaWV3IHN0eWxlPXt7IGhlaWdodDogNzAsIHdpZHRoOiAxMCwgYmFja2dyb3VuZENvbG9yOiAnYmx1ZScsIGFsaWduU2VsZjogJ2ZsZXgtc3RhcnQnfX0+PC9WaWV3Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZUV2ZW50T2JqZWN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjYXNlcGVlci5kYWNhc2UudHlwZXMgaW1wb3J0IENhc2Vub3RlTm9kZSwgQ2FzZXRhc2tzVHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbW9udGhzLmZlYiA9IGRhdGVGbnMuYWRkTW9udGgobW9udGhzLmphbiwgOSkK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHN1Y2Nlc3NmdWxEZWxldGVFdmVudFJlcXVlc3QgPSBjcmVhdGVBY3Rpb24oU1VDQ0VTU0ZVTF9ERUxFVEVfRVZFTlRfUkVRVUVTVCwgdHJ1ZSkK</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuZXZlbnRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2191,7 +2197,6 @@
         <entry>TetherDrop</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
         <entry>q</entry>
         <entry>Wq</entry>
         <entry>s</entry>
@@ -2201,15 +2206,16 @@
         <entry>Pw</entry>
         <entry>w\]</entry>
         <entry>WQ</entry>
-        <entry>.w</entry>
         <entry>ww</entry>
         <entry>ws</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>Lw</entry>
         <entry>r</entry>
         <entry>w\</entry>
         <entry>e</entry>
+        <entry>qw</entry>
+        <entry>W</entry>
+        <entry>.w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
