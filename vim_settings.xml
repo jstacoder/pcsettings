@@ -929,12 +929,12 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1531867958139">
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1531870787198">
         <mark key="'" line="114" column="37" />
-        <mark key="[" line="1" column="51" />
-        <mark key="]" line="1" column="65" />
-        <mark key="." line="1" column="65" />
-        <mark key="^" line="1" column="65" />
+        <mark key="[" line="135" column="64" />
+        <mark key="]" line="135" column="67" />
+        <mark key="." line="135" column="67" />
+        <mark key="^" line="135" column="67" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/ProviderVerification.py" timestamp="1526000294575">
         <mark key="[" line="15" column="5" />
@@ -1674,11 +1674,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/evently/serializers.py" timestamp="1531867405153">
-        <mark key="[" line="104" column="87" />
-        <mark key="]" line="104" column="72" />
-        <mark key="^" line="104" column="72" />
-        <mark key="." line="104" column="72" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/evently/serializers.py" timestamp="1531869857629">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="103" column="72" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/edit_form_entry_ajax.html" timestamp="1525727566860">
         <mark key="[" line="72" column="0" />
@@ -2101,7 +2101,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExheW91dEFuaW1hdGlvbi5jb25maWd1cmVOZXh0KExheW91dEFuaW1hdGlvbi5QcmVzZXRzLmVhc2VJbkVhc2VPdXQpCg==</text>
+        <text encoding="base64">IyBRdWVyeXNldCBmb3IgcmVsYXRlZCBmaWVsZHMgaXMgdG8gdmFsaWRhdGUgdGhlIG9iamVjdHMgYWxsb3dlZCB0byBzYXZlIHRvIHRoZSBwYXJlbnQgb2JqZWN0Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2119,46 +2119,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>TetherDrop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExheW91dEFuaW1hdGlvbi5jb25maWd1cmVOZXh0KExheW91dEFuaW1hdGlvbi5QcmVzZXRzLmVhc2VJbkVhc2VPdXQpCg==</text>
+        <text encoding="base64">ICAgICAgTGF5b3V0QW5pbWF0aW9uLmNvbmZpZ3VyZU5leHQoTGF5b3V0QW5pbWF0aW9uLlByZXNldHMuc3ByaW5nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBRdWVyeXNldCBmb3IgcmVsYXRlZCBmaWVsZHMgaXMgdG8gdmFsaWRhdGUgdGhlIG9iamVjdHMgYWxsb3dlZCB0byBzYXZlIHRvIHRoZSBwYXJlbnQgb2JqZWN0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17eyBtYXJnaW5Cb3R0b206IC0zNywgbWFyZ2luVG9wOiAtMTAsIG1hcmdpbkxlZnQ6IC0xMCwgaGVpZ2h0OiA5MCwgd2lkdGg6IDEwLCBiYWNrZ3JvdW5kQ29sb3I6ICdibHVlJywgYWxpZ25TZWxmOiAnZmxleC1zdGFydCcsIGZsZXg6IDF9fT48L1ZpZXc+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0IG9uUHJlc3M9eygpPT4gdGhpcy5kZWxldGVFdmVudChpdGVtKX0gc3R5bGU9e3thbGlnblNlbGY6ICdmbGV4LWVuZCd9fT5YPC9UZXh0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxWaWV3IHN0eWxlPXt7IGhlaWdodDogNzAsIHdpZHRoOiAxMCwgYmFja2dyb3VuZENvbG9yOiAnYmx1ZScsIGFsaWduU2VsZjogJ2ZsZXgtc3RhcnQnfX0+PC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgTGF5b3V0QW5pbWF0aW9uLmNvbmZpZ3VyZU5leHQoTGF5b3V0QW5pbWF0aW9uLlByZXNldHMuYm91bmNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZUV2ZW50T2JqZWN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17eyBtYXJnaW5Cb3R0b206IC0zNywgbWFyZ2luVG9wOiAtMTAsIG1hcmdpbkxlZnQ6IC0xMCwgaGVpZ2h0OiA5MCwgd2lkdGg6IDEwLCBiYWNrZ3JvdW5kQ29sb3I6ICdibHVlJywgYWxpZ25TZWxmOiAnZmxleC1zdGFydCcsIGZsZXg6IDF9fT48L1ZpZXc+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHN1Y2Nlc3NmdWxEZWxldGVFdmVudFJlcXVlc3QgPSBjcmVhdGVBY3Rpb24oU1VDQ0VTU0ZVTF9ERUxFVEVfRVZFTlRfUkVRVUVTVCwgdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0IG9uUHJlc3M9eygpPT4gdGhpcy5kZWxldGVFdmVudChpdGVtKX0gc3R5bGU9e3thbGlnblNlbGY6ICdmbGV4LWVuZCd9fT5YPC9UZXh0Pgo=</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxWaWV3IHN0eWxlPXt7IGhlaWdodDogNzAsIHdpZHRoOiAxMCwgYmFja2dyb3VuZENvbG9yOiAnYmx1ZScsIGFsaWduU2VsZjogJ2ZsZXgtc3RhcnQnfX0+PC9WaWV3Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZUV2ZW50T2JqZWN0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2202,7 +2202,6 @@
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53ZQ==</entry>
         <entry>we</entry>
-        <entry>&quot;w</entry>
         <entry>Pw</entry>
         <entry>w\]</entry>
         <entry>WQ</entry>
@@ -2211,11 +2210,12 @@
         <entry>wq</entry>
         <entry>Lw</entry>
         <entry>r</entry>
-        <entry>w\</entry>
         <entry>e</entry>
         <entry>qw</entry>
         <entry>W</entry>
         <entry>.w</entry>
+        <entry>&quot;w</entry>
+        <entry>w\</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
