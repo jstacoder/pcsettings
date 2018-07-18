@@ -1170,7 +1170,8 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/config/settings/local.py" timestamp="1531935812406">
+      <file name="$USER_HOME$/git/casepeer/config/settings/local.py" timestamp="1531937976179">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -1777,10 +1778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1849" column="3" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
-      <jump line="52" column="48" filename="$USER_HOME$/git/casepeer/casepeer/static/cp/js/src/load_case_notes.es6" />
-      <jump line="12" column="16" filename="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" />
-      <jump line="218" column="20" filename="$USER_HOME$/git/casepeer/config/middleware.py" />
       <jump line="531" column="8" filename="$USER_HOME$/git/casepeer/config/settings/common.py" />
       <jump line="1099" column="15" filename="$USER_HOME$/git/casepeer/casepeer/cp_utilities/cp_classes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/casepeer/casepeer/cp_utilities/cp_classes.py" />
@@ -1877,6 +1874,10 @@
       <jump line="36" column="0" filename="$USER_HOME$/git/casepeer-app/src/actions/types.js" />
       <jump line="75" column="43" filename="$USER_HOME$/git/casepeer/casepeer/evently/types.py" />
       <jump line="90" column="23" filename="$USER_HOME$/git/casepeer/casepeer/evently/types.py" />
+      <jump line="118" column="4" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
+      <jump line="154" column="2" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4857,7 +4858,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>TetherDrop</text>
+        <text encoding="base64">XDwjXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTGF5b3V0QW5pbWF0aW9uLmNvbmZpZ3VyZU5leHQoTGF5b3V0QW5pbWF0aW9uLlByZXNldHMuc3ByaW5nKQo=</text>
@@ -4900,9 +4901,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TetherDrop</last-search>
+      <last-search encoding="base64">XDwjXD4=</last-search>
       <last-offset />
-      <last-pattern>TetherDrop</last-pattern>
+      <last-pattern encoding="base64">XDwjXD4=</last-pattern>
       <last-replace>formfillers</last-replace>
       <last-substitute encoding="base64">XDwvXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -4910,19 +4911,6 @@
     </search>
     <history>
       <history-search>
-        <entry>date_range</entry>
-        <entry>CustomBusiness</entry>
-        <entry>pandas</entry>
-        <entry>svg2rlb</entry>
-        <entry>svg2rlg</entry>
-        <entry encoding="base64">cHJpbnRcIA==</entry>
-        <entry>int_vals</entry>
-        <entry>lazy</entry>
-        <entry encoding="base64">XDwvXD4=</entry>
-        <entry>FormWizard</entry>
-        <entry>remove</entry>
-        <entry>AppLoading</entry>
-        <entry>note</entry>
         <entry>panel-body</entry>
         <entry>Caseworker</entry>
         <entry>Class Casenote</entry>
@@ -4930,6 +4918,19 @@
         <entry>casenotes</entry>
         <entry>mommy</entry>
         <entry>TetherDrop</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry>6+</entry>
+        <entry>36+</entry>
+        <entry>+</entry>
+        <entry encoding="base64">XDxmcm9tXD4=</entry>
+        <entry encoding="base64">XDx3YXJuaW5nc1w+</entry>
+        <entry>+6+</entry>
+        <entry>-</entry>
+        <entry>6</entry>
+        <entry>63+</entry>
+        <entry encoding="base64">XDxURU1QTEFURVNcPg==</entry>
+        <entry>36</entry>
+        <entry encoding="base64">XDwjXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>Wq</entry>
