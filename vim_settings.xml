@@ -189,12 +189,8 @@
         <mark key="^" line="3" column="103" />
         <mark key="." line="3" column="103" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cp_utilities/cp_classes.py" timestamp="1531952311837">
+      <file name="$USER_HOME$/git/casepeer/casepeer/cp_utilities/cp_classes.py" timestamp="1531953021015">
         <mark key="'" line="1219" column="120" />
-        <mark key="[" line="1219" column="122" />
-        <mark key="]" line="1219" column="137" />
-        <mark key="." line="1219" column="137" />
-        <mark key="^" line="1219" column="137" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/scripts/imports/create_items.py" timestamp="1527870903161">
         <mark key="[" line="294" column="8" />
@@ -814,9 +810,9 @@
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/formfillers/schema.py" timestamp="1531951652237">
         <mark key="[" line="1" column="51" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/_60DayLetterSpanish.py" timestamp="1526000431119">
         <mark key="[" line="9" column="5" />
@@ -943,11 +939,11 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/graphene_django_extras/converter.py" timestamp="1531952274713">
-        <mark key="[" line="246" column="16" />
-        <mark key="]" line="254" column="18" />
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/graphene_django_extras/converter.py" timestamp="1531952453884">
+        <mark key="[" line="248" column="28" />
+        <mark key="]" line="248" column="28" />
         <mark key="^" line="254" column="18" />
-        <mark key="." line="254" column="18" />
+        <mark key="." line="248" column="28" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1531873399019">
         <mark key="'" line="114" column="37" />
@@ -4844,8 +4840,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJfZmllbGRzID0gZ2V0YXR0cihfdHlwZS5fbWV0YSwgJ2ZpbHRlcl9maWVsZHMnLCBOb25lKQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4863,7 +4859,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
