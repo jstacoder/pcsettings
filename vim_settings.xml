@@ -837,12 +837,12 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" timestamp="1532038962064">
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" timestamp="1532039724253">
         <mark key="'" line="364" column="8" />
-        <mark key="[" line="232" column="40" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
-        <mark key="^" line="226" column="0" />
+        <mark key="[" line="337" column="21" />
+        <mark key="]" line="337" column="33" />
+        <mark key="." line="337" column="33" />
+        <mark key="^" line="337" column="33" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/api.py" timestamp="1507660544190">
         <mark key="[" line="5" column="75" />
