@@ -837,12 +837,12 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" timestamp="1532034636311">
-        <mark key="'" line="348" column="8" />
-        <mark key="[" line="329" column="46" />
-        <mark key="]" line="336" column="52" />
-        <mark key="^" line="336" column="52" />
-        <mark key="." line="336" column="52" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" timestamp="1532036493285">
+        <mark key="'" line="352" column="8" />
+        <mark key="[" line="338" column="93" />
+        <mark key="]" line="338" column="93" />
+        <mark key="^" line="338" column="93" />
+        <mark key="." line="338" column="93" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/api.py" timestamp="1507660544190">
         <mark key="[" line="5" column="75" />
@@ -1146,7 +1146,7 @@
       <file name="/Python Console" timestamp="1532026365746">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1532031881023">
+      <file name="/fragment.py" timestamp="1532036167188">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
         <mark key="^" line="0" column="16" />
