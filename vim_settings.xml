@@ -1429,12 +1429,12 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1532114207258">
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1532120243064">
         <mark key="'" line="78" column="34" />
-        <mark key="[" line="77" column="40" />
-        <mark key="]" line="78" column="34" />
-        <mark key="^" line="78" column="34" />
-        <mark key="." line="78" column="34" />
+        <mark key="[" line="218" column="62" />
+        <mark key="]" line="218" column="64" />
+        <mark key="^" line="218" column="64" />
+        <mark key="." line="218" column="64" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/uploader/views.py" timestamp="1530911267293">
         <mark key="[" line="664" column="76" />
