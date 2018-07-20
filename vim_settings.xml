@@ -1166,12 +1166,12 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1532036909821">
+      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1532122626020">
         <mark key="'" line="973" column="0" />
-        <mark key="[" line="1092" column="25" />
-        <mark key="]" line="1092" column="23" />
-        <mark key="^" line="1092" column="23" />
-        <mark key="." line="1092" column="23" />
+        <mark key="[" line="418" column="79" />
+        <mark key="]" line="418" column="88" />
+        <mark key="^" line="418" column="88" />
+        <mark key="." line="418" column="88" />
       </file>
       <file name="$USER_HOME$/git/casepeer/requirements/base.txt" timestamp="1527613266186">
         <mark key="[" line="128" column="24" />
@@ -1356,6 +1356,13 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/components/CaseView.js" timestamp="1532121967502">
+        <mark key="'" line="380" column="42" />
+        <mark key="[" line="561" column="9" />
+        <mark key="]" line="563" column="18" />
+        <mark key="^" line="563" column="18" />
+        <mark key="." line="563" column="18" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/59bf097d-52f5-413e-a6fb-666d43aac71c/console_1.sql" timestamp="1514590396314">
         <mark key="[" line="0" column="52" />
         <mark key="]" line="0" column="51" />
@@ -1422,6 +1429,11 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="85" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1532122106761">
+        <mark key="[" line="52" column="72" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="4" />
       </file>
       <file name="$USER_HOME$/git/casepeer/node_modules/react-treebeard/lib/themes/default.js" timestamp="1513880427017">
         <mark key="[" line="12" column="10" />
@@ -1786,7 +1798,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="3" filename="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_uploads.py" />
       <jump line="651" column="20" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
       <jump line="387" column="59" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
       <jump line="431" column="36" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
@@ -1886,13 +1897,14 @@
       <jump line="40" column="11" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
       <jump line="171" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
       <jump line="78" column="34" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
+      <jump line="380" column="42" filename="$USER_HOME$/git/casepeer-app/src/components/CaseView.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1910,16 +1922,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEh0dHBSZXNwb25zZVJlZGlyZWN0KHJldmVyc2UoJ2Nsb3Nld2luZG93ZnJhbWUnKSkK</text>
+        <text encoding="base64">ICAgIExheW91dEFuaW1hdGlvbi5jb25maWd1cmVOZXh0KExheW91dEFuaW1hdGlvbi5QcmVzZXRzLmVhc2VJbkVhc2VPdXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gPSB7fSB9IH0gPSB0aGlzLnByb3BzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1928,31 +1940,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhc2VfZGVmCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNhc2VfZGVmCg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Y2xhc3MgQWRkcmVzc1R5cGUoRGphbmdvU2VyaWFsaXplclR5cGUpOgogICAgY2xhc3MgTWV0YToKICAgICAgICBzZXJpYWxpemVyX2NsYXNzID0gQWRkcmVzc1NlcmlhbGl6ZXIKICAgICAgICBuZXN0ZWRfZmllbGRzID0gVHJ1ZQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>ializerType):
     class Meta:
         serializer_class = AddressSerializer
         nested_fields = True</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICBmb3JtX2FyZ3NbMF1bJ3R5cGUnXSA9IGxpdGlnYXRpb25fZXZlbnQudHlwZS5pZAo=</text>
-      </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgIGlmIGxpdGlnYXRpb25fZXZlbnQ6Cg==</text>
+        <text encoding="base64">ICAgICMgICAgICAgICBmb3JtX2FyZ3NbMF1bJ3R5cGUnXSA9IGxpdGlnYXRpb25fZXZlbnQudHlwZS5pZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgaWYgJ3R5cGUnIG5vdCBpbiBmb3JtX2RhdGE6Cg==</text>
+        <text encoding="base64">ICAgICMgICAgIGlmIGxpdGlnYXRpb25fZXZlbnQ6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2003,13 +2015,13 @@
         <entry>r</entry>
         <entry>qw</entry>
         <entry>W</entry>
-        <entry>.w</entry>
         <entry>&quot;w</entry>
         <entry>w\</entry>
         <entry>ew</entry>
         <entry>e</entry>
         <entry>ws</entry>
         <entry>sw</entry>
+        <entry>.w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
