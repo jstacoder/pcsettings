@@ -33,11 +33,6 @@
         <mark key="." line="180" column="17" />
         <mark key="^" line="180" column="17" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/start_app.py" timestamp="1531956872545">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/test.html" timestamp="1505756564327">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="3" column="16" />
@@ -909,11 +904,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/containers/index.js" timestamp="1527211653765">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/config/payment_validator_middleware.py" timestamp="1508971125583">
         <mark key="[" line="37" column="11" />
         <mark key="]" line="37" column="44" />
@@ -943,11 +933,6 @@
         <mark key="]" line="15" column="5" />
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/config/settings/production.py" timestamp="1531935975165">
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="0" />
-        <mark key="." line="261" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/graphene_django_extras/mutation.py" timestamp="1532048320772" />
       <file name="$USER_HOME$/git/casepeer-app/src/actions/notificationauth.js" timestamp="1519770726336">
@@ -1430,10 +1415,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="85" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1532122106761">
-        <mark key="[" line="52" column="72" />
-        <mark key="]" line="52" column="4" />
-        <mark key="." line="52" column="4" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1532125147700">
+        <mark key="[" line="187" column="16" />
+        <mark key="]" line="187" column="0" />
+        <mark key="." line="187" column="0" />
+        <mark key="^" line="187" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/node_modules/react-treebeard/lib/themes/default.js" timestamp="1513880427017">
         <mark key="[" line="12" column="10" />
