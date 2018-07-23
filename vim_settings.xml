@@ -468,12 +468,12 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/NavigationService.js" timestamp="1532380279686">
-        <mark key="'" line="27" column="39" />
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="23" column="69" />
-        <mark key="^" line="23" column="69" />
-        <mark key="." line="23" column="69" />
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/NavigationService.js" timestamp="1532380909685">
+        <mark key="'" line="27" column="19" />
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+        <mark key="." line="27" column="19" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/RepToHealthProvider.py" timestamp="1525999767842">
         <mark key="[" line="5" column="5" />
@@ -1822,7 +1822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="34" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" />
       <jump line="44" column="10" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" />
       <jump line="48" column="33" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" />
       <jump line="385" column="68" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
@@ -1922,6 +1921,7 @@
       <jump line="494" column="95" filename="$USER_HOME$/git/casepeer-app/src/components/CaseView.js" />
       <jump line="237" column="16" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="21" column="39" filename="$USER_HOME$/git/casepeer-app/src/navigators/NavigationService.js" />
+      <jump line="27" column="19" filename="$USER_HOME$/git/casepeer-app/src/navigators/NavigationService.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
