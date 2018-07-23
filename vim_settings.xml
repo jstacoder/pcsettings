@@ -1723,11 +1723,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/evently/serializers.py" timestamp="1531869857629">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="104" column="72" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/evently/serializers.py" timestamp="1532385159083">
+        <mark key="[" line="27" column="70" />
+        <mark key="]" line="28" column="36" />
+        <mark key="^" line="28" column="36" />
+        <mark key="." line="28" column="36" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/edit_form_entry_ajax.html" timestamp="1525727566860">
         <mark key="[" line="72" column="0" />
