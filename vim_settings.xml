@@ -1164,12 +1164,6 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" timestamp="1532386515585">
-        <mark key="'" line="973" column="0" />
-        <mark key="[" line="418" column="0" />
-        <mark key="]" line="418" column="0" />
-        <mark key="." line="418" column="0" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/requirements/base.txt" timestamp="1527613266186">
         <mark key="[" line="128" column="24" />
         <mark key="]" line="129" column="0" />
@@ -1223,9 +1217,6 @@
         <mark key="]" line="94" column="28" />
         <mark key="^" line="94" column="28" />
         <mark key="." line="94" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" timestamp="1532109959218">
-        <mark key="'" line="190" column="21" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/caseworker/lastname.js" timestamp="1517538607780">
         <mark key="[" line="3" column="29" />
@@ -1721,12 +1712,6 @@
         <mark key="]" line="3" column="19" />
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/evently/serializers.py" timestamp="1532385159083">
-        <mark key="[" line="27" column="70" />
-        <mark key="]" line="28" column="36" />
-        <mark key="^" line="28" column="36" />
-        <mark key="." line="28" column="36" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/edit_form_entry_ajax.html" timestamp="1525727566860">
         <mark key="[" line="72" column="0" />
