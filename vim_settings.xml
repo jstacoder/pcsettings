@@ -468,12 +468,12 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/NavigationService.js" timestamp="1532380909685">
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/NavigationService.js" timestamp="1532381560278">
         <mark key="'" line="27" column="19" />
-        <mark key="[" line="29" column="3" />
-        <mark key="]" line="27" column="19" />
-        <mark key="^" line="27" column="19" />
-        <mark key="." line="27" column="19" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/RepToHealthProvider.py" timestamp="1525999767842">
         <mark key="[" line="5" column="5" />
@@ -990,11 +990,11 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/Navigator.js" timestamp="1529616516982">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="81" column="12" />
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/Navigator.js" timestamp="1532381583732">
+        <mark key="[" line="43" column="62" />
+        <mark key="]" line="43" column="73" />
+        <mark key="." line="43" column="73" />
+        <mark key="^" line="43" column="73" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/iportal/IntakePacket.py" timestamp="1526000616141">
         <mark key="[" line="7" column="5" />
