@@ -249,9 +249,6 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="11" />
       </file>
-      <file name="/dacase_casenote [cpdb@localhost]" timestamp="1532019354636">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/lettergeneration.py" timestamp="1525998422491">
         <mark key="[" line="28" column="5" />
         <mark key="]" line="28" column="5" />
@@ -444,6 +441,7 @@
         <mark key="^" line="23" column="35" />
         <mark key="." line="23" column="35" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/HomeStack.js" timestamp="1532382688192" />
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/token.js" timestamp="1517528546327">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="9" column="10" />
@@ -715,11 +713,11 @@
         <mark key="^" line="42" column="20" />
         <mark key="." line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/AppMainTab.js" timestamp="1521070052027">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="39" column="20" />
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/AppMainTab.js" timestamp="1532382872257">
+        <mark key="[" line="18" column="72" />
+        <mark key="]" line="18" column="76" />
+        <mark key="." line="18" column="76" />
+        <mark key="^" line="18" column="76" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/template_tags/file_access.py" timestamp="1514404202096">
         <mark key="[" line="9" column="16" />
@@ -732,9 +730,6 @@
         <mark key="]" line="25" column="21" />
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
-      </file>
-      <file name="/dummy.sql" timestamp="1532019687470">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cbv_theme/create_form_wizard_entry.html" timestamp="1524867037658">
         <mark key="[" line="2" column="0" />
@@ -1086,9 +1081,6 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1532048340475">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/calendar/offset.js" timestamp="1531519766323">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="11" column="0" />
@@ -1119,9 +1111,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1532105522324">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532038080633">
         <mark key="[" line="0" column="0" />
@@ -1927,8 +1916,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>= StackNavigator(homeStackRoutes, homeStackConfig)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1946,7 +1935,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>= StackNavigator(homeStackRoutes, homeStackConfig)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
