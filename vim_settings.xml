@@ -135,11 +135,11 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/data/webpack.dev.js" timestamp="1525713207829">
-        <mark key="[" line="56" column="28" />
-        <mark key="]" line="56" column="32" />
-        <mark key="." line="56" column="32" />
-        <mark key="^" line="56" column="32" />
+      <file name="$USER_HOME$/git/casepeer/data/webpack.dev.js" timestamp="1532458492234">
+        <mark key="[" line="33" column="92" />
+        <mark key="]" line="34" column="57" />
+        <mark key="." line="34" column="57" />
+        <mark key="^" line="34" column="57" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/uploader/models.py" timestamp="1525982146423">
         <mark key="[" line="99" column="61" />
@@ -340,11 +340,11 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/compose/requirements/base.txt" timestamp="1532044523099">
-        <mark key="[" line="55" column="36" />
-        <mark key="]" line="55" column="31" />
-        <mark key="^" line="55" column="31" />
-        <mark key="." line="55" column="31" />
+      <file name="$USER_HOME$/git/casepeer/compose/requirements/base.txt" timestamp="1532458706452">
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="56" column="14" />
+        <mark key="^" line="56" column="14" />
+        <mark key="." line="56" column="14" />
       </file>
       <file name="$USER_HOME$/git/casepeer/compose/daphne/entrypoint.sh" timestamp="1529434315605">
         <mark key="[" line="2" column="32" />
@@ -877,6 +877,18 @@
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="54" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/calendar/index.js" timestamp="1532458331326">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1532458559009">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_settlement.py" timestamp="1525998342817">
         <mark key="[" line="1786" column="13" />
         <mark key="]" line="1786" column="54" />
@@ -997,12 +1009,6 @@
         <mark key="]" line="7" column="5" />
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Detail.js" timestamp="1532372912391">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/app.py" timestamp="1528150667195">
         <mark key="[" line="11" column="25" />
@@ -1263,11 +1269,11 @@
         <mark key="^" line="126" column="78" />
         <mark key="." line="126" column="78" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/package.json" timestamp="1532365902423">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="8" column="43" />
-        <mark key="^" line="8" column="43" />
-        <mark key="." line="8" column="43" />
+      <file name="$USER_HOME$/git/casepeer-app/package.json" timestamp="1532459002164">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="30" />
+        <mark key="^" line="42" column="30" />
+        <mark key="." line="42" column="30" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/serializers.py" timestamp="1532111554379">
         <mark key="[" line="38" column="49" />
@@ -2004,7 +2010,6 @@
         <entry encoding="base64">XDwvXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53ZQ==</entry>
         <entry>we</entry>
         <entry>Pw</entry>
         <entry>w\]</entry>
@@ -2023,6 +2028,7 @@
         <entry>s</entry>
         <entry>e</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
