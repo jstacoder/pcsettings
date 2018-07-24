@@ -265,7 +265,7 @@
         <mark key="^" line="68" column="4" />
         <mark key="." line="68" column="4" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/index.js" timestamp="1523406028632">
+      <file name="$USER_HOME$/git/casepeer-app/src/components/index.js" timestamp="1532472736913">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="21" column="11" />
         <mark key="^" line="21" column="11" />
@@ -734,11 +734,11 @@
         <mark key="^" line="42" column="20" />
         <mark key="." line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/AppMainTab.js" timestamp="1532382872257">
-        <mark key="[" line="18" column="72" />
-        <mark key="]" line="18" column="76" />
-        <mark key="." line="18" column="76" />
-        <mark key="^" line="18" column="76" />
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/AppMainTab.js" timestamp="1532472799994">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="104" column="6" />
+        <mark key="." line="104" column="6" />
+        <mark key="^" line="104" column="6" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/template_tags/file_access.py" timestamp="1514404202096">
         <mark key="[" line="9" column="16" />
@@ -782,11 +782,11 @@
         <mark key="^" line="1" column="57" />
         <mark key="." line="1" column="57" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/CPTabBar.js" timestamp="1532467280099">
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="41" column="32" />
-        <mark key="^" line="41" column="32" />
-        <mark key="." line="41" column="32" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/CPTabBar.js" timestamp="1532472844970">
+        <mark key="[" line="3" column="80" />
+        <mark key="]" line="47" column="82" />
+        <mark key="^" line="47" column="82" />
+        <mark key="." line="47" column="82" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/_90DayLetter_NewName.py" timestamp="1525999839873">
         <mark key="[" line="6" column="5" />
@@ -2065,7 +2065,6 @@
         <entry>w\]</entry>
         <entry>WQ</entry>
         <entry>ww</entry>
-        <entry>wq</entry>
         <entry>Lw</entry>
         <entry>r</entry>
         <entry>qw</entry>
@@ -2079,6 +2078,7 @@
         <entry>e</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
