@@ -238,6 +238,12 @@
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="35" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/AppDrawer.js" timestamp="1532459475363">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="24" />
+        <mark key="^" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/hooplaconnection/views.py" timestamp="1526001182907">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="5" />
@@ -1432,11 +1438,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="85" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1532372389368">
-        <mark key="[" line="111" column="62" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="186" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1532459582854">
+        <mark key="[" line="186" column="15" />
+        <mark key="]" line="191" column="15" />
+        <mark key="." line="191" column="15" />
+        <mark key="^" line="191" column="15" />
       </file>
       <file name="$USER_HOME$/git/casepeer/node_modules/react-treebeard/lib/themes/default.js" timestamp="1513880427017">
         <mark key="[" line="12" column="10" />
@@ -1716,6 +1722,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/SettingsStack.js" timestamp="1532459524302">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="17" />
+        <mark key="^" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/LienReduction.py" timestamp="1526000579825">
         <mark key="[" line="55" column="16" />
         <mark key="]" line="55" column="16" />
@@ -1913,8 +1925,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1932,7 +1944,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
