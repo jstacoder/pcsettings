@@ -63,11 +63,11 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/connected-screens.js" timestamp="1520538811107">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="25" column="9" />
-        <mark key="^" line="25" column="9" />
-        <mark key="." line="25" column="9" />
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/connected-screens.js" timestamp="1532561625561">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="23" column="15" />
+        <mark key="^" line="23" column="15" />
+        <mark key="." line="23" column="15" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/urls.py" timestamp="1507671259185">
         <mark key="[" line="38" column="22" />
@@ -262,6 +262,12 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="11" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/queries.js" timestamp="1532560377740">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/lettergeneration.py" timestamp="1525998422491">
         <mark key="[" line="28" column="5" />
         <mark key="]" line="28" column="5" />
@@ -376,7 +382,7 @@
         <mark key="." line="1071" column="0" />
         <mark key="^" line="1063" column="76" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1532540270266">
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1532559863891">
         <mark key="[" line="341" column="53" />
         <mark key="]" line="341" column="50" />
         <mark key="^" line="341" column="50" />
@@ -611,12 +617,12 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/types.js" timestamp="1532543034471">
-        <mark key="'" line="49" column="67" />
-        <mark key="[" line="45" column="58" />
-        <mark key="]" line="49" column="67" />
-        <mark key="^" line="49" column="67" />
-        <mark key="." line="49" column="67" />
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/types.js" timestamp="1532559090482">
+        <mark key="'" line="53" column="67" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="6" column="60" />
+        <mark key="^" line="6" column="60" />
+        <mark key="." line="6" column="60" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/view_form_wizard.html" timestamp="1525731237808">
         <mark key="[" line="0" column="0" />
@@ -684,6 +690,12 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/search.js" timestamp="1532561322083">
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/assets/js/casepeer-loader.jsx" timestamp="1507151863491">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="22" />
@@ -725,6 +737,12 @@
         <mark key="]" line="11" column="115" />
         <mark key="^" line="11" column="115" />
         <mark key="." line="11" column="115" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/index.js" timestamp="1532561571125">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/focus/locationsReset.js" timestamp="1520618387074">
         <mark key="[" line="6" column="22" />
@@ -894,9 +912,6 @@
         <mark key="]" line="5" column="5" />
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/case.js" timestamp="1532540580902">
-        <mark key="[" line="32" column="43" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/SpanishWelcomeLetterMVA.py" timestamp="1525999600156">
         <mark key="[" line="7" column="5" />
@@ -1187,7 +1202,7 @@
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/store/index.js" timestamp="1527209996946">
+      <file name="$USER_HOME$/git/casepeer-app/src/store/index.js" timestamp="1532559553986">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="18" column="3" />
         <mark key="." line="18" column="3" />
@@ -1446,6 +1461,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/searchText.js" timestamp="1532560577278">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/node_modules/react-treebeard/src/themes/default.js" timestamp="1513880416537">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="29" />
@@ -1470,6 +1491,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="16" column="77" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/searchCases.js" timestamp="1532561546084">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/scripts/ghost_user/makeghostfirm.py" timestamp="1518122061936">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1482,7 +1509,6 @@
         <mark key="^" line="16" column="83" />
         <mark key="." line="16" column="83" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/graphene_django_extras/types.py" timestamp="1532538848733" />
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/helpers.py" timestamp="1527182269562">
         <mark key="[" line="42" column="42" />
         <mark key="]" line="42" column="47" />
@@ -1495,11 +1521,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="85" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1532546327704">
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1532562141978">
         <mark key="'" line="111" column="33" />
-        <mark key="[" line="111" column="32" />
-        <mark key="]" line="111" column="33" />
-        <mark key="." line="111" column="33" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
         <mark key="^" line="111" column="33" />
       </file>
       <file name="$USER_HOME$/git/casepeer/node_modules/react-treebeard/lib/themes/default.js" timestamp="1513880427017">
@@ -1588,7 +1614,12 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Search.js" timestamp="1532558397433" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Search.js" timestamp="1532562148077">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="36" column="37" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/set_directory_base.html" timestamp="1522797709756">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1673,12 +1704,12 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/CaseCard.js" timestamp="1532557751773">
-        <mark key="'" line="26" column="47" />
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="26" column="47" />
-        <mark key="^" line="26" column="47" />
-        <mark key="." line="26" column="47" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/CaseCard.js" timestamp="1532562456511">
+        <mark key="'" line="31" column="47" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="45" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/urls.py" timestamp="1530121497894">
         <mark key="[" line="10" column="71" />
@@ -1998,8 +2029,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2017,21 +2048,128 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkaXJlY3RfdXJsID0gdSd7fXt9Jy5mb3JtYXQocmVkaXJlY3RfdXJsLCB1Jz9pbml0aWFsX2RpcmVjdG9yeT17fScuZm9ybWF0KHF1b3RlKGZvcm1bMV0uZW5jb2RlKCd1dGYtOCcpKSkpCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFTkRfU0VBUkNIX1JFUVVFU1QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBvblByZXNzPXt0aGlzLmhhbmRsZVByZXNzfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uUHJlc3M9eygpPT50aGlzLl9zZWxlY3RJdGVtKF9jYXNlKX0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHRoaXMuc2V0U3RhdGUoeyBsb2FkaW5nOiBmYWxzZSB9KSkK</text>
+      </register>
+      <register name="4" type="4">
+        <text>//
+    // executeQuery(`{
+    //   searchCases (name: &quot;${this.props.Search.searchText}&quot;) {
+    //     id casename criticalnote caseclosed doi
+    //     statutedate waiveStatute overrideStatute overrideStatuteDate
+    //     caseclient {
+    //       id firstname lastname gender dob
+    //       phone1 phone1ext phone1type addresstype1
+    //       street1address1 street2address1 addresscity1 addressstate1 zip1
+    //       phone2 phone2ext phone2type addresstype2
+    //       street1address2 street2address2 addresscity2 addressstate2 zip2
+    //       phone3 phone3ext phone3type addresstype3
+    //       street1address3 street2address3 addresscity3 addressstate3 zip3
+    //     }
+    //     clientPhoto: casephotoSet (keyClientPhoto: true) {
+    //       photo
+    //     }
+    //     clientPdPhoto: casephotoSet (keyPdPhoto: true) {
+    //       photo
+    //     }
+    //     carpropertydamageSet {
+    //       id plate year make model final estimate totalloss framedamage damage
+    //     }
+    //     plaintiffinsuranceSet {
+    //       id
+    //       insurance {
+    //         id noinsurance insurancePolicyNumber insuranceClaimNumber
+    //         insuranceContact {
+    //           id company firstname lastname
+    //           addresses { id street1 street2 city state zipcode }
+    //           phones { id phone phoneext phoneType { name } }
+    //           emails { id email }
+    //         }
+    //       }
+    //     }
+    //     healthliensSet {
+    //       id treatmentDescription recordsDate recordsState billingDate billingState originalCost
+    //       contact {
+    //         id company firstname lastname
+    //         addresses { id street1 street2 city state zipcode }
+    //         phones { id phone phoneext phoneType { name } }
+    //         emails { id email }
+    //       }
+    //     }
+    //     casetasksSet(archived: false, complete: false) {
+    //       id task taskDueDate
+    //       directedto { firstname lastname }
+    //     }
+    //     casenoteSet {
+    //       id note created
+    //       createdby { firstname lastname }
+    //     }
+    //     caseDefendants {
+    //       id
+    //       contact {
+    //         id firstname lastname company
+    //         addresses { id street1 street2 city state zipcode }
+    //         phones { id phone phoneext phoneType { name } }
+    //         emails { id email }
+    //       }
+    //       defendantinsuranceSet {
+    //         id
+    //         insurance {
+    //           id insuranceClaimNumber insurancePolicyNumber noinsurance
+    //           policyLimit { name }
+    //           liabilityClaim { name }
+    //           liabilityPercent { name }
+    //           coverage { name }
+    //           insuranceContact { id company firstname lastname }
+    //           insuranceAdjusterLink {
+    //             adjusterContact {
+    //               id firstname lastname company
+    //               addresses { id street1 street2 city state zipcode }
+    //               phones { id phone phoneext phoneType { name } }
+    //               emails { id email }
+    //             }
+    //           }
+    //         }
+    //       }
+    //     }
+    //     caseconnect { id casename }
+    //     casetype { name }
+    //     casestatus { name closed }
+    //     injuries { id current }
+    //     primaryContact { firstname lastname }
+    //     supervisingAttorney { firstname lastname }
+    //     leadAttorney { firstname lastname }
+    //     caseAssistant { firstname lastname }
+    //     caseManager { firstname lastname }
+    //     intakeWorker: intakeworker { firstname lastname }
+    //     lienNegotiator { firstname lastname }
+    //     litigationAssistant { firstname lastname }
+    //     litigationAttorney { firstname lastname }
+    //     incident { description }
+    //   }
+    // }`)</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="4">
         <text>componentDidMount(){
       const {
         props: {
@@ -2050,29 +2188,17 @@
       setLastScreenName(lastScreenName)
   }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGFzazogVGFza1ZpZXcK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FzZTogQ2FzZVZpZXcsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbXBvbmVudHMgPSB7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IERldGFpbENvbXBvbmVudCA9IGNvbXBvbmVudHNbXQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXRlOiB7CiAgICAgICAgICAgIHBhcmFtczogewogICAgICAgICAgICAgIHR5cGUsCiAgICAgICAgICAgICAgaXRlbTogcm93RGF0YSwKICAgICAgICAgICAgfQogICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgdGFzazogVGFza1ZpZXcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY2FzZTogQ2FzZVZpZXcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
