@@ -1494,12 +1494,12 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1532479662779">
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1532479727527">
         <mark key="'" line="77" column="36" />
-        <mark key="[" line="77" column="22" />
-        <mark key="]" line="78" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
         <mark key="^" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/uploader/views.py" timestamp="1530911267293">
         <mark key="[" line="664" column="76" />
@@ -1969,8 +1969,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlkID0gZ3JhcGhlbmUuSUQoKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1997,40 +1997,40 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVkaXJlY3RfdXJsID0gdSd7fXt9Jy5mb3JtYXQocmVkaXJlY3RfdXJsLCB1Jz9pbml0aWFsX2RpcmVjdG9yeT17fScuZm9ybWF0KHF1b3RlKGZvcm1bMV0uZW5jb2RlKCd1dGYtOCcpKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlkID0gZ3JhcGhlbmUuSUQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">KCkgPT4gdGhpcy5wcm9wcy5hY3Rpb25zLnJlbmRlckNhc2VWaWV3KF9jYXNlLmlkLCB0aGlzLnByb3BzLm5hdmlnYXRpb24pfQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
         type: LOAD_CASE_REQUEST,
         payload: { _case }
       })</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CmV4cG9ydCBjb25zdCBsb2FkQ2FzZVJlcXVlc3QgPSBjYXNlSWQgPT4oewogICAgdHlwZTogTE9BRF9DQVNFX1JFUVVFU1QsCiAgICBwYXlsb2FkOiB7CiAgICAgIF9jYXNlCiAgICB9Cn0pCgpleHBvcnQgY29uc3QgbG9hZENhc2VTdWNjZXNzID0gX2Nhc2UgPT4oewogICAgCn0p</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmFkZExpc3RlbmVyKCdkaWRGb2N1cycsIHRoaXMuX25hdmlnYXRpb25Gb2N1cy5iaW5kKHRoaXMpKSwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5zdGF0ZS5oYXNEYXRhICYmKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
