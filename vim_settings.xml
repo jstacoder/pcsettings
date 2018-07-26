@@ -118,6 +118,12 @@
         <mark key="." line="73" column="16" />
         <mark key="^" line="73" column="16" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/displayBackButton.js" timestamp="1532632383619">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/icons/Close.js" timestamp="1519167003351">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="16" column="52" />
@@ -251,12 +257,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" timestamp="1532541460434">
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" timestamp="1532632291979">
         <mark key="'" line="68" column="4" />
-        <mark key="[" line="82" column="39" />
-        <mark key="]" line="84" column="4" />
+        <mark key="[" line="87" column="4" />
+        <mark key="]" line="87" column="4" />
         <mark key="^" line="84" column="4" />
-        <mark key="." line="84" column="4" />
+        <mark key="." line="87" column="4" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/index.js" timestamp="1532472736913">
         <mark key="[" line="3" column="11" />
@@ -739,11 +745,11 @@
         <mark key="^" line="11" column="115" />
         <mark key="." line="11" column="115" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/reducers/index.js" timestamp="1532561571125">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/index.js" timestamp="1532632135590">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="42" column="21" />
+        <mark key="^" line="42" column="21" />
+        <mark key="." line="42" column="21" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/focus/locationsReset.js" timestamp="1520618387074">
         <mark key="[" line="6" column="22" />
@@ -763,11 +769,11 @@
         <mark key="^" line="42" column="20" />
         <mark key="." line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/AppMainTab.js" timestamp="1532630093346">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="118" column="27" />
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/AppMainTab.js" timestamp="1532633179263">
+        <mark key="[" line="116" column="4" />
+        <mark key="]" line="117" column="21" />
+        <mark key="." line="117" column="21" />
+        <mark key="^" line="117" column="21" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/template_tags/file_access.py" timestamp="1514404202096">
         <mark key="[" line="9" column="16" />
@@ -1253,8 +1259,8 @@
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/TasksStack.js" timestamp="1521070000071">
-        <mark key="[" line="10" column="2" />
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/TasksStack.js" timestamp="1532631959076">
+        <mark key="[" line="24" column="27" />
         <mark key="]" line="10" column="13" />
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
@@ -1804,6 +1810,12 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/MessagesStack.js" timestamp="1532633367054">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="28" column="20" />
+        <mark key="^" line="28" column="20" />
+        <mark key="." line="28" column="20" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/actions/homeData.js" timestamp="1532544011081">
         <mark key="[" line="22" column="39" />
         <mark key="]" line="22" column="15" />
@@ -1833,6 +1845,13 @@
         <mark key="]" line="3" column="19" />
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/components/HeaderLeft.js" timestamp="1532633381960">
+        <mark key="'" line="16" column="33" />
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="16" column="33" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/edit_form_entry_ajax.html" timestamp="1525727566860">
         <mark key="[" line="72" column="0" />
@@ -1914,7 +1933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/git/casepeer-app/src/reducers/calendar/events.js" />
       <jump line="36" column="0" filename="$USER_HOME$/git/casepeer-app/src/actions/types.js" />
       <jump line="75" column="43" filename="$USER_HOME$/git/casepeer/casepeer/evently/types.py" />
       <jump line="90" column="23" filename="$USER_HOME$/git/casepeer/casepeer/evently/types.py" />
@@ -2014,13 +2032,14 @@
       <jump line="42" column="28" filename="$USER_HOME$/git/casepeer-app/src/components/CPTabBar.js" />
       <jump line="84" column="25" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
       <jump line="181" column="73" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
+      <jump line="16" column="33" filename="$USER_HOME$/git/casepeer-app/src/components/HeaderLeft.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>D</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2038,7 +2057,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
