@@ -400,12 +400,12 @@
         <mark key="." line="1071" column="0" />
         <mark key="^" line="1063" column="76" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1532643538273">
-        <mark key="'" line="134" column="47" />
-        <mark key="[" line="125" column="15" />
-        <mark key="]" line="125" column="15" />
-        <mark key="^" line="84" column="11" />
-        <mark key="." line="125" column="15" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1532645312019">
+        <mark key="'" line="135" column="47" />
+        <mark key="[" line="82" column="32" />
+        <mark key="]" line="126" column="15" />
+        <mark key="^" line="85" column="11" />
+        <mark key="." line="126" column="15" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/.env" timestamp="1532452580335">
         <mark key="[" line="0" column="0" />
@@ -1351,11 +1351,11 @@
         <mark key="^" line="126" column="78" />
         <mark key="." line="126" column="78" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/package.json" timestamp="1532630013458">
-        <mark key="[" line="42" column="40" />
-        <mark key="]" line="42" column="32" />
-        <mark key="^" line="42" column="32" />
-        <mark key="." line="42" column="32" />
+      <file name="$USER_HOME$/git/casepeer-app/package.json" timestamp="1532645685813">
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="43" column="32" />
+        <mark key="^" line="43" column="32" />
+        <mark key="." line="43" column="32" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/serializers.py" timestamp="1532111554379">
         <mark key="[" line="38" column="49" />
