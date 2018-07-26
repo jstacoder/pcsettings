@@ -473,6 +473,11 @@
         <mark key="^" line="23" column="35" />
         <mark key="." line="23" column="35" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/HomeStack.js" timestamp="1532627274749">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/case.js" timestamp="1532557033987">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="32" />
@@ -2010,7 +2015,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>`</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2028,7 +2033,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
