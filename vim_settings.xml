@@ -9,7 +9,6 @@
         <mark key="^" line="1" column="41" />
         <mark key="." line="1" column="41" />
       </file>
-      <file name="/CPTabBar.js" timestamp="1532563743319" />
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/CZRLetterSpanish_old.py" timestamp="1526000481003">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="5" />
@@ -99,6 +98,12 @@
         <mark key="]" line="506" column="30" />
         <mark key="." line="506" column="30" />
         <mark key="^" line="506" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/tasksData.js" timestamp="1532642592971">
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="38" />
+        <mark key="^" line="35" column="38" />
+        <mark key="." line="35" column="38" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/error.js" timestamp="1517528493327">
         <mark key="[" line="3" column="24" />
@@ -196,7 +201,6 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation/src/navigators/createNavigator.js" timestamp="1532566517571" />
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/wizard_view.html" timestamp="1524509603960">
         <mark key="[" line="3" column="103" />
         <mark key="]" line="3" column="103" />
@@ -378,7 +382,6 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation-tabs/dist/views/BottomTabBar.js" timestamp="1532565155017" />
       <file name="$USER_HOME$/git/casepeer/compose/daphne/entrypoint.sh" timestamp="1529434315605">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="82" />
@@ -391,18 +394,18 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/caseplan/views.py" timestamp="1532623049111" />
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/case/client/add_new_case.html" timestamp="1525903276876">
         <mark key="[" line="1071" column="0" />
         <mark key="]" line="1071" column="0" />
         <mark key="." line="1071" column="0" />
         <mark key="^" line="1063" column="76" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1532559863891">
-        <mark key="[" line="341" column="53" />
-        <mark key="]" line="341" column="50" />
-        <mark key="^" line="341" column="50" />
-        <mark key="." line="341" column="50" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1532642578780">
+        <mark key="'" line="138" column="47" />
+        <mark key="[" line="138" column="19" />
+        <mark key="]" line="138" column="47" />
+        <mark key="^" line="138" column="47" />
+        <mark key="." line="138" column="47" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/.env" timestamp="1532452580335">
         <mark key="[" line="0" column="0" />
@@ -872,7 +875,6 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation/src/react-navigation.js" timestamp="1532624465862" />
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/api.py" timestamp="1507660544190">
         <mark key="[" line="5" column="75" />
         <mark key="]" line="10" column="7" />
@@ -1180,7 +1182,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation-deprecated-tab-navigator/src/views/TabBarBottom.js" timestamp="1532624500834" />
       <file name="/fragment.py" timestamp="1532038080633">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
@@ -1302,7 +1303,6 @@
         <mark key="^" line="94" column="28" />
         <mark key="." line="94" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation-tabs/dist/utils/createTabNavigator.js" timestamp="1532565767785" />
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/caseworker/lastname.js" timestamp="1517538607780">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="9" column="11" />
@@ -1513,7 +1513,6 @@
         <mark key="^" line="16" column="83" />
         <mark key="." line="16" column="83" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/graphene_django_extras/types.py" timestamp="1532538848733" />
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/helpers.py" timestamp="1527182269562">
         <mark key="[" line="42" column="42" />
         <mark key="]" line="42" column="47" />
@@ -1939,7 +1938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/git/casepeer-app/src/actions/types.js" />
       <jump line="75" column="43" filename="$USER_HOME$/git/casepeer/casepeer/evently/types.py" />
       <jump line="90" column="23" filename="$USER_HOME$/git/casepeer/casepeer/evently/types.py" />
       <jump line="17" column="0" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
@@ -2039,6 +2037,7 @@
       <jump line="84" column="25" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
       <jump line="181" column="73" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="16" column="33" filename="$USER_HOME$/git/casepeer-app/src/components/HeaderLeft.js" />
+      <jump line="138" column="47" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
