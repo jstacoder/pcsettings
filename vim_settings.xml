@@ -1270,6 +1270,13 @@
         <mark key="." line="98" column="32" />
         <mark key="^" line="98" column="32" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" timestamp="1532628168341">
+        <mark key="'" line="84" column="25" />
+        <mark key="[" line="206" column="19" />
+        <mark key="]" line="206" column="25" />
+        <mark key="." line="206" column="25" />
+        <mark key="^" line="206" column="25" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/safe/fullcalendar-2.8.0/fullcalendar.css" timestamp="1511286379571">
         <mark key="[" line="1313" column="11" />
         <mark key="]" line="1314" column="25" />
@@ -1909,7 +1916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="33" filename="$USER_HOME$/git/casepeer/casepeer/evently/schema.py" />
       <jump line="43" column="32" filename="$USER_HOME$/git/casepeer/casepeer/evently/schema.py" />
       <jump line="17" column="0" filename="$USER_HOME$/git/casepeer-app/src/reducers/calendar/events.js" />
       <jump line="36" column="0" filename="$USER_HOME$/git/casepeer-app/src/actions/types.js" />
@@ -2009,13 +2015,14 @@
       <jump line="363" column="30" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
       <jump line="9" column="60" filename="$USER_HOME$/git/casepeer-app/src/components/CPTabBar.js" />
       <jump line="42" column="28" filename="$USER_HOME$/git/casepeer-app/src/components/CPTabBar.js" />
+      <jump line="84" column="25" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>!</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2033,7 +2040,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -2042,37 +2049,37 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFTkRfU0VBUkNIX1JFUVVFU1QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaW5kZXg6IHJvdXRlSX0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgb3BlblRhc2tzID0gb3BlblRhc2tzLmZpbHRlcih0aGlzLnRhc2tGaWx0ZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0b2tlbjogIiR7dGhpcy5wcm9wcy5hdXRoLnRva2VufSIsCiAgICAgICAgICAgICAgY2FzZTogIiR7ZGF0YS5jYXNlSWR9IiwKICAgICAgICAgICAgICBkaXJlY3RlZFRvOiAiJHtkYXRhLmRpcmVjdGVkVG9JZH0iLAogICAgICAgICAgICAgIG5vdGVDYXRlZ29yeTogIiR7ZGF0YS5ub3RlQ2F0ZWdvcnlJZH0iLAogICAgICAgICAgICAgIG5vdGU6ICIke2RhdGEubm90ZX0iCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLnNlYXJjaFZhbHVlKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0b2tlbjogIiR7dGhpcy5wcm9wcy5hdXRoLnRva2VufSIsCiAgICAgICAgICAgICAgY2FzZTogIiR7ZGF0YS5jYXNlSWR9IiwKICAgICAgICAgICAgICBkaXJlY3RlZFRvOiAiJHtkYXRhLmRpcmVjdGVkVG9JZH0iLAogICAgICAgICAgICAgIG5vdGVDYXRlZ29yeTogIiR7ZGF0YS5ub3RlQ2F0ZWdvcnlJZH0iLAogICAgICAgICAgICAgIG5vdGU6ICIke2RhdGEubm90ZX0iCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0b2tlbjogIiR7dGhpcy5wcm9wcy5hdXRoLnRva2VufSIsCiAgICAgICAgICAgICAgY2FzZTogIiR7ZGF0YS5jYXNlSWR9IiwKICAgICAgICAgICAgICBkaXJlY3RlZFRvOiAiJHtkYXRhLmRpcmVjdGVkVG9JZH0iLAogICAgICAgICAgICAgIG5vdGVDYXRlZ29yeTogIiR7ZGF0YS5ub3RlQ2F0ZWdvcnlJZH0iLAogICAgICAgICAgICAgIG5vdGU6ICIke2RhdGEubm90ZX0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKGFzeW5jIChyZXNvbHZlLCByZWplY3QpID0+IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5vdGUgPSBTdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaW5kZXg6IHJvdXRlSX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5vdGUgPSBncmFwaGVuZS5TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsYXN0U2NyZWVuTmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0b2tlbjogIiR7dGhpcy5wcm9wcy5hdXRoLnRva2VufSIsCiAgICAgICAgICAgICAgY2FzZTogIiR7ZGF0YS5jYXNlSWR9IiwKICAgICAgICAgICAgICBkaXJlY3RlZFRvOiAiJHtkYXRhLmRpcmVjdGVkVG9JZH0iLAogICAgICAgICAgICAgIG5vdGVDYXRlZ29yeTogIiR7ZGF0YS5ub3RlQ2F0ZWdvcnlJZH0iLAogICAgICAgICAgICAgIG5vdGU6ICIke2RhdGEubm90ZX0iCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxhc3RTY3JlZW5OYW1lIGZyb20gJy4vbGFzdFNjcmVlbk5hbWUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0b2tlbjogIiR7dGhpcy5wcm9wcy5hdXRoLnRva2VufSIsCiAgICAgICAgICAgICAgY2FzZTogIiR7ZGF0YS5jYXNlSWR9IiwKICAgICAgICAgICAgICBkaXJlY3RlZFRvOiAiJHtkYXRhLmRpcmVjdGVkVG9JZH0iLAogICAgICAgICAgICAgIG5vdGVDYXRlZ29yeTogIiR7ZGF0YS5ub3RlQ2F0ZWdvcnlJZH0iLAogICAgICAgICAgICAgIG5vdGU6ICIke2RhdGEubm90ZX0iCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
