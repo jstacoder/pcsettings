@@ -193,6 +193,7 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation/src/navigators/createNavigator.js" timestamp="1532566517571" />
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/wizard_view.html" timestamp="1524509603960">
         <mark key="[" line="3" column="103" />
         <mark key="]" line="3" column="103" />
@@ -235,11 +236,11 @@
         <mark key="^" line="54" column="20" />
         <mark key="." line="54" column="20" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/reducers/calendar/index.js" timestamp="1531862549187">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="6" column="35" />
-        <mark key="^" line="6" column="35" />
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/calendar/index.js" timestamp="1532566881900">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="5" column="35" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/navigators/AppDrawer.js" timestamp="1532459475363">
         <mark key="[" line="28" column="20" />
@@ -368,6 +369,7 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation-tabs/dist/views/BottomTabBar.js" timestamp="1532565155017" />
       <file name="$USER_HOME$/git/casepeer/compose/daphne/entrypoint.sh" timestamp="1529434315605">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="82" />
@@ -500,13 +502,6 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/NavigationService.js" timestamp="1532384220962">
-        <mark key="'" line="32" column="19" />
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="13" />
-        <mark key="^" line="31" column="11" />
-        <mark key="." line="32" column="13" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/RepToHealthProvider.py" timestamp="1525999767842">
         <mark key="[" line="5" column="5" />
         <mark key="]" line="5" column="5" />
@@ -620,13 +615,6 @@
         <mark key="]" line="22" column="47" />
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/types.js" timestamp="1532559090482">
-        <mark key="'" line="53" column="67" />
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="6" column="60" />
-        <mark key="^" line="6" column="60" />
-        <mark key="." line="6" column="60" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/view_form_wizard.html" timestamp="1525731237808">
         <mark key="[" line="0" column="0" />
@@ -814,11 +802,11 @@
         <mark key="^" line="1" column="57" />
         <mark key="." line="1" column="57" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/CPTabBar.js" timestamp="1532564246653">
-        <mark key="[" line="1" column="67" />
-        <mark key="]" line="1" column="67" />
-        <mark key="^" line="1" column="67" />
-        <mark key="." line="1" column="67" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/CPTabBar.js" timestamp="1532566230276">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="117" column="25" />
+        <mark key="^" line="117" column="25" />
+        <mark key="." line="117" column="25" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/_90DayLetter_NewName.py" timestamp="1525999839873">
         <mark key="[" line="6" column="5" />
@@ -867,13 +855,6 @@
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" timestamp="1532041021489">
-        <mark key="'" line="364" column="8" />
-        <mark key="[" line="354" column="0" />
-        <mark key="]" line="354" column="0" />
-        <mark key="." line="354" column="0" />
-        <mark key="^" line="337" column="33" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/api.py" timestamp="1507660544190">
         <mark key="[" line="5" column="75" />
@@ -1166,13 +1147,6 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/AltAgenda.js" timestamp="1532367213026">
-        <mark key="'" line="37" column="16" />
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="16" />
-        <mark key="^" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/embed_form_snippet.html" timestamp="1525902348207">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="13" />
@@ -1287,13 +1261,6 @@
         <mark key="." line="98" column="32" />
         <mark key="^" line="98" column="32" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/Spinner.js" timestamp="1532469259237">
-        <mark key="'" line="34" column="9" />
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="34" column="9" />
-        <mark key="^" line="34" column="9" />
-        <mark key="." line="34" column="9" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/safe/fullcalendar-2.8.0/fullcalendar.css" timestamp="1511286379571">
         <mark key="[" line="1313" column="11" />
         <mark key="]" line="1314" column="25" />
@@ -1312,6 +1279,7 @@
         <mark key="^" line="94" column="28" />
         <mark key="." line="94" column="28" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation-tabs/dist/utils/createTabNavigator.js" timestamp="1532565767785" />
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/caseworker/lastname.js" timestamp="1517538607780">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="9" column="11" />
@@ -1600,12 +1568,10 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/reducers/focus/index.js" timestamp="1532372287327">
-        <mark key="'" line="2" column="43" />
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="2" column="43" />
-        <mark key="^" line="2" column="43" />
-        <mark key="." line="2" column="43" />
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/focus/index.js" timestamp="1532566954754">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/case/documents/document_category_links.html" timestamp="1527713132992">
         <mark key="[" line="4" column="19" />
@@ -1745,13 +1711,6 @@
         <mark key="]" line="7" column="5" />
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/recentCases.js" timestamp="1532544925847">
-        <mark key="'" line="54" column="59" />
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="54" column="59" />
-        <mark key="^" line="54" column="59" />
-        <mark key="." line="54" column="59" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/casepeer_theme/templates/fobi-overrides/view_form_entry.html" timestamp="1526422918359">
         <mark key="[" line="6" column="24" />
@@ -2040,8 +1999,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBsYXN0U2NyZWVuTmFtZSwK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2068,18 +2027,27 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFTkRfU0VBUkNIX1JFUVVFU1QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvblByZXNzPXt0aGlzLmhhbmRsZVByZXNzfQo=</text>
+        <text encoding="base64">ICBsYXN0U2NyZWVuTmFtZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uUHJlc3M9eygpPT50aGlzLl9zZWxlY3RJdGVtKF9jYXNlKX0K</text>
+        <text encoding="base64">aW1wb3J0IGxhc3RTY3JlZW5OYW1lIGZyb20gJy4vbGFzdFNjcmVlbk5hbWUnCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9mZnNldCBmcm9tICcuL29mZnNldCcK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBvblByZXNzPXt0aGlzLmhhbmRsZVByZXNzfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uUHJlc3M9eygpPT50aGlzLl9zZWxlY3RJdGVtKF9jYXNlKX0K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC50aGVuKCgpID0+IHRoaXMuc2V0U3RhdGUoeyBsb2FkaW5nOiBmYWxzZSB9KSkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>//
     // executeQuery(`{
     //   searchCases (name: &quot;${this.props.Search.searchText}&quot;) {
@@ -2177,10 +2145,13 @@
     //   }
     // }`)</text>
       </register>
-      <register name="5" type="2">
+      <register name="w" type="4">
+        <text>C</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>componentDidMount(){
       const {
         props: {
@@ -2198,18 +2169,6 @@
       } = this
       setLastScreenName(lastScreenName)
   }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="w" type="4">
-        <text>C</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGFzazogVGFza1ZpZXcK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2FzZTogQ2FzZVZpZXcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2264,9 +2223,9 @@
         <entry>.w</entry>
         <entry>e</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>s</entry>
         <entry>W</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
