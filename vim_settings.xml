@@ -1526,12 +1526,12 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="85" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1532630753049">
-        <mark key="'" line="119" column="33" />
-        <mark key="[" line="72" column="84" />
-        <mark key="]" line="73" column="73" />
-        <mark key="." line="73" column="73" />
-        <mark key="^" line="73" column="73" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1532640235701">
+        <mark key="'" line="120" column="33" />
+        <mark key="[" line="91" column="33" />
+        <mark key="]" line="92" column="47" />
+        <mark key="." line="92" column="47" />
+        <mark key="^" line="92" column="47" />
       </file>
       <file name="$USER_HOME$/git/casepeer/node_modules/react-treebeard/lib/themes/default.js" timestamp="1513880427017">
         <mark key="[" line="12" column="10" />
@@ -1852,12 +1852,12 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/HeaderLeft.js" timestamp="1532640031556">
+      <file name="$USER_HOME$/git/casepeer-app/src/components/HeaderLeft.js" timestamp="1532640188377">
         <mark key="'" line="17" column="33" />
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="26" />
         <mark key="^" line="17" column="56" />
-        <mark key="." line="17" column="4" />
+        <mark key="." line="18" column="26" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/edit_form_entry_ajax.html" timestamp="1525727566860">
         <mark key="[" line="72" column="0" />
@@ -2045,7 +2045,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2063,7 +2063,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
