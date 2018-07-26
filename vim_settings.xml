@@ -803,11 +803,12 @@
         <mark key="^" line="1" column="57" />
         <mark key="." line="1" column="57" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/CPTabBar.js" timestamp="1532621948531">
-        <mark key="[" line="51" column="20" />
-        <mark key="]" line="51" column="13" />
-        <mark key="^" line="51" column="13" />
-        <mark key="." line="51" column="13" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/CPTabBar.js" timestamp="1532625306181">
+        <mark key="'" line="9" column="60" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/_90DayLetter_NewName.py" timestamp="1525999839873">
         <mark key="[" line="6" column="5" />
@@ -857,6 +858,7 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation/src/react-navigation.js" timestamp="1532624465862" />
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/api.py" timestamp="1507660544190">
         <mark key="[" line="5" column="75" />
         <mark key="]" line="10" column="7" />
@@ -1166,6 +1168,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation-deprecated-tab-navigator/src/views/TabBarBottom.js" timestamp="1532624500834" />
       <file name="/fragment.py" timestamp="1532038080633">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
@@ -1901,7 +1904,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="42" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="114" column="37" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="75" column="33" filename="$USER_HOME$/git/casepeer/casepeer/evently/schema.py" />
       <jump line="43" column="32" filename="$USER_HOME$/git/casepeer/casepeer/evently/schema.py" />
@@ -2001,13 +2003,14 @@
       <jump line="26" column="47" filename="$USER_HOME$/git/casepeer-app/src/components/CaseCard.js" />
       <jump line="360" column="43" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
       <jump line="363" column="30" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
+      <jump line="9" column="60" filename="$USER_HOME$/git/casepeer-app/src/components/CPTabBar.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgaW5kZXg6IHJvdXRlSX0K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2034,132 +2037,37 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFTkRfU0VBUkNIX1JFUVVFU1QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5vdGUgPSBTdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaW5kZXg6IHJvdXRlSX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5vdGUgPSBncmFwaGVuZS5TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsYXN0U2NyZWVuTmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0b2tlbjogIiR7dGhpcy5wcm9wcy5hdXRoLnRva2VufSIsCiAgICAgICAgICAgICAgY2FzZTogIiR7ZGF0YS5jYXNlSWR9IiwKICAgICAgICAgICAgICBkaXJlY3RlZFRvOiAiJHtkYXRhLmRpcmVjdGVkVG9JZH0iLAogICAgICAgICAgICAgIG5vdGVDYXRlZ29yeTogIiR7ZGF0YS5ub3RlQ2F0ZWdvcnlJZH0iLAogICAgICAgICAgICAgIG5vdGU6ICIke2RhdGEubm90ZX0iCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGxhc3RTY3JlZW5OYW1lIGZyb20gJy4vbGFzdFNjcmVlbk5hbWUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0b2tlbjogIiR7dGhpcy5wcm9wcy5hdXRoLnRva2VufSIsCiAgICAgICAgICAgICAgY2FzZTogIiR7ZGF0YS5jYXNlSWR9IiwKICAgICAgICAgICAgICBkaXJlY3RlZFRvOiAiJHtkYXRhLmRpcmVjdGVkVG9JZH0iLAogICAgICAgICAgICAgIG5vdGVDYXRlZ29yeTogIiR7ZGF0YS5ub3RlQ2F0ZWdvcnlJZH0iLAogICAgICAgICAgICAgIG5vdGU6ICIke2RhdGEubm90ZX0iCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9mZnNldCBmcm9tICcuL29mZnNldCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0b2tlbjogIiR7dGhpcy5wcm9wcy5hdXRoLnRva2VufSIsCiAgICAgICAgICAgICAgY2FzZTogIiR7ZGF0YS5jYXNlSWR9IiwKICAgICAgICAgICAgICBkaXJlY3RlZFRvOiAiJHtkYXRhLmRpcmVjdGVkVG9JZH0iLAogICAgICAgICAgICAgIG5vdGVDYXRlZ29yeTogIiR7ZGF0YS5ub3RlQ2F0ZWdvcnlJZH0iLAogICAgICAgICAgICAgIG5vdGU6ICIke2RhdGEubm90ZX0iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvblByZXNzPXt0aGlzLmhhbmRsZVByZXNzfQo=</text>
+        <text encoding="base64">ICAgIG5vdGUgPSBTdHJpbmcoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uUHJlc3M9eygpPT50aGlzLl9zZWxlY3RJdGVtKF9jYXNlKX0K</text>
+        <text encoding="base64">ICAgIG5vdGUgPSBncmFwaGVuZS5TdHJpbmcoKQo=</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHRoaXMuc2V0U3RhdGUoeyBsb2FkaW5nOiBmYWxzZSB9KSkK</text>
+        <text encoding="base64">ICBsYXN0U2NyZWVuTmFtZSwK</text>
       </register>
-      <register name="9" type="4">
-        <text>//
-    // executeQuery(`{
-    //   searchCases (name: &quot;${this.props.Search.searchText}&quot;) {
-    //     id casename criticalnote caseclosed doi
-    //     statutedate waiveStatute overrideStatute overrideStatuteDate
-    //     caseclient {
-    //       id firstname lastname gender dob
-    //       phone1 phone1ext phone1type addresstype1
-    //       street1address1 street2address1 addresscity1 addressstate1 zip1
-    //       phone2 phone2ext phone2type addresstype2
-    //       street1address2 street2address2 addresscity2 addressstate2 zip2
-    //       phone3 phone3ext phone3type addresstype3
-    //       street1address3 street2address3 addresscity3 addressstate3 zip3
-    //     }
-    //     clientPhoto: casephotoSet (keyClientPhoto: true) {
-    //       photo
-    //     }
-    //     clientPdPhoto: casephotoSet (keyPdPhoto: true) {
-    //       photo
-    //     }
-    //     carpropertydamageSet {
-    //       id plate year make model final estimate totalloss framedamage damage
-    //     }
-    //     plaintiffinsuranceSet {
-    //       id
-    //       insurance {
-    //         id noinsurance insurancePolicyNumber insuranceClaimNumber
-    //         insuranceContact {
-    //           id company firstname lastname
-    //           addresses { id street1 street2 city state zipcode }
-    //           phones { id phone phoneext phoneType { name } }
-    //           emails { id email }
-    //         }
-    //       }
-    //     }
-    //     healthliensSet {
-    //       id treatmentDescription recordsDate recordsState billingDate billingState originalCost
-    //       contact {
-    //         id company firstname lastname
-    //         addresses { id street1 street2 city state zipcode }
-    //         phones { id phone phoneext phoneType { name } }
-    //         emails { id email }
-    //       }
-    //     }
-    //     casetasksSet(archived: false, complete: false) {
-    //       id task taskDueDate
-    //       directedto { firstname lastname }
-    //     }
-    //     casenoteSet {
-    //       id note created
-    //       createdby { firstname lastname }
-    //     }
-    //     caseDefendants {
-    //       id
-    //       contact {
-    //         id firstname lastname company
-    //         addresses { id street1 street2 city state zipcode }
-    //         phones { id phone phoneext phoneType { name } }
-    //         emails { id email }
-    //       }
-    //       defendantinsuranceSet {
-    //         id
-    //         insurance {
-    //           id insuranceClaimNumber insurancePolicyNumber noinsurance
-    //           policyLimit { name }
-    //           liabilityClaim { name }
-    //           liabilityPercent { name }
-    //           coverage { name }
-    //           insuranceContact { id company firstname lastname }
-    //           insuranceAdjusterLink {
-    //             adjusterContact {
-    //               id firstname lastname company
-    //               addresses { id street1 street2 city state zipcode }
-    //               phones { id phone phoneext phoneType { name } }
-    //               emails { id email }
-    //             }
-    //           }
-    //         }
-    //       }
-    //     }
-    //     caseconnect { id casename }
-    //     casetype { name }
-    //     casestatus { name closed }
-    //     injuries { id current }
-    //     primaryContact { firstname lastname }
-    //     supervisingAttorney { firstname lastname }
-    //     leadAttorney { firstname lastname }
-    //     caseAssistant { firstname lastname }
-    //     caseManager { firstname lastname }
-    //     intakeWorker: intakeworker { firstname lastname }
-    //     lienNegotiator { firstname lastname }
-    //     litigationAssistant { firstname lastname }
-    //     litigationAttorney { firstname lastname }
-    //     incident { description }
-    //   }
-    // }`)</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGxhc3RTY3JlZW5OYW1lIGZyb20gJy4vbGFzdFNjcmVlbk5hbWUnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
