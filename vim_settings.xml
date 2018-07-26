@@ -1714,6 +1714,12 @@
         <mark key="^" line="14" column="45" />
         <mark key="." line="14" column="45" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/MessageView.js" timestamp="1532639837398">
+        <mark key="[" line="33" column="92" />
+        <mark key="]" line="171" column="35" />
+        <mark key="^" line="171" column="35" />
+        <mark key="." line="171" column="35" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/urls.py" timestamp="1530121497894">
         <mark key="[" line="10" column="71" />
         <mark key="]" line="11" column="81" />
@@ -1846,12 +1852,12 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/HeaderLeft.js" timestamp="1532633458121">
-        <mark key="'" line="16" column="33" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="17" column="17" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/HeaderLeft.js" timestamp="1532640031556">
+        <mark key="'" line="17" column="33" />
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="17" column="56" />
+        <mark key="." line="17" column="4" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/edit_form_entry_ajax.html" timestamp="1525727566860">
         <mark key="[" line="72" column="0" />
@@ -2039,7 +2045,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>D</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2057,7 +2063,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -2066,37 +2072,37 @@
         <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmFkZExpc3RlbmVyKCd3aWxsQmx1cicsIHRoaXMuX25hdmlnYXRpb25CbHVyLmJpbmQodGhpcykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxOYXZpZ2F0aW9uRXZlbnRzIG9uV2lsbEZvY3VzPXt0aGlzLm9uV2lsbEZvY3VzfSAvPgo=</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWN0aW9ucy5zZXREaXNwbGF5QmFja0J1dHRvbk9mZigpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxOYXZpZ2F0aW9uRXZlbnRzIG9uV2lsbEZvY3VzPXt0aGlzLm9uV2lsbEZvY3VzfSAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpdGVtOiByb3dEYXRhLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0eXBlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpdGVtOiByb3dEYXRhLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0eXBlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXRlOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zOiB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXRlOiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpdGVtOiByb3dEYXRhLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
