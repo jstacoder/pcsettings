@@ -9,6 +9,7 @@
         <mark key="^" line="1" column="41" />
         <mark key="." line="1" column="41" />
       </file>
+      <file name="/CPTabBar.js" timestamp="1532563743319" />
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/CZRLetterSpanish_old.py" timestamp="1526000481003">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="5" />
@@ -201,6 +202,7 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation/src/navigators/createNavigator.js" timestamp="1532566517571" />
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/wizard_view.html" timestamp="1524509603960">
         <mark key="[" line="3" column="103" />
         <mark key="]" line="3" column="103" />
@@ -219,12 +221,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/LoadingOverlay.js" timestamp="1532709383814">
+      <file name="$USER_HOME$/git/casepeer-app/src/components/LoadingOverlay.js" timestamp="1532710516523">
         <mark key="'" line="7" column="44" />
         <mark key="[" line="26" column="27" />
         <mark key="]" line="26" column="28" />
         <mark key="." line="26" column="28" />
-        <mark key="^" line="25" column="48" />
+        <mark key="^" line="25" column="46" />
       </file>
       <file name="$USER_HOME$/git/casepeer/.env" timestamp="1529099838778">
         <mark key="[" line="85" column="1" />
@@ -389,6 +391,7 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation-tabs/dist/views/BottomTabBar.js" timestamp="1532565155017" />
       <file name="$USER_HOME$/git/casepeer/compose/daphne/entrypoint.sh" timestamp="1529434315605">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="82" />
@@ -401,6 +404,7 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/caseplan/views.py" timestamp="1532623049111" />
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/case/client/add_new_case.html" timestamp="1525903276876">
         <mark key="[" line="1071" column="0" />
         <mark key="]" line="1071" column="0" />
@@ -909,6 +913,7 @@
         <mark key="." line="354" column="0" />
         <mark key="^" line="337" column="33" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation/src/react-navigation.js" timestamp="1532624465862" />
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/api.py" timestamp="1507660544190">
         <mark key="[" line="5" column="75" />
         <mark key="]" line="10" column="7" />
@@ -1222,6 +1227,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation-deprecated-tab-navigator/src/views/TabBarBottom.js" timestamp="1532624500834" />
       <file name="/fragment.py" timestamp="1532038080633">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
@@ -1318,12 +1324,12 @@
         <mark key="." line="98" column="32" />
         <mark key="^" line="98" column="32" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/Spinner.js" timestamp="1532709538231">
+      <file name="$USER_HOME$/git/casepeer-app/src/components/Spinner.js" timestamp="1532710496008">
         <mark key="'" line="34" column="9" />
-        <mark key="[" line="33" column="2" />
-        <mark key="]" line="33" column="2" />
-        <mark key="^" line="34" column="9" />
-        <mark key="." line="33" column="2" />
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="9" />
+        <mark key="^" line="27" column="9" />
+        <mark key="." line="27" column="9" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" timestamp="1532631823386">
         <mark key="'" line="84" column="25" />
@@ -1350,6 +1356,8 @@
         <mark key="^" line="94" column="28" />
         <mark key="." line="94" column="28" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-native/Libraries/Components/View/ViewPropTypes.js" timestamp="1532710463438" />
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation-tabs/dist/utils/createTabNavigator.js" timestamp="1532565767785" />
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/caseworker/lastname.js" timestamp="1517538607780">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="9" column="11" />
@@ -1373,6 +1381,12 @@
         <mark key="]" line="19" column="174" />
         <mark key="^" line="19" column="174" />
         <mark key="." line="19" column="174" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/components/CPIndicator.js" timestamp="1532709989385">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="62" />
+        <mark key="^" line="14" column="62" />
+        <mark key="." line="14" column="62" />
       </file>
       <file name="$USER_HOME$/git/casepeer/config/settings/common.py" timestamp="1532622885861">
         <mark key="[" line="523" column="10" />
@@ -1567,6 +1581,7 @@
         <mark key="^" line="16" column="83" />
         <mark key="." line="16" column="83" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/graphene_django_extras/types.py" timestamp="1532538848733" />
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/helpers.py" timestamp="1527182269562">
         <mark key="[" line="42" column="42" />
         <mark key="]" line="42" column="47" />
