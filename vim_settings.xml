@@ -1062,12 +1062,12 @@
         <mark key="^" line="254" column="18" />
         <mark key="." line="248" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1532971985322">
-        <mark key="'" line="168" column="51" />
-        <mark key="[" line="218" column="85" />
-        <mark key="]" line="220" column="10" />
-        <mark key="." line="220" column="10" />
-        <mark key="^" line="220" column="10" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1532975089865">
+        <mark key="'" line="184" column="51" />
+        <mark key="[" line="84" column="7" />
+        <mark key="]" line="79" column="11" />
+        <mark key="." line="79" column="11" />
+        <mark key="^" line="79" column="11" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/ProviderVerification.py" timestamp="1526000294575">
         <mark key="[" line="15" column="5" />
@@ -2140,7 +2140,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2158,7 +2158,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
