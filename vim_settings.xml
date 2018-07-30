@@ -546,6 +546,11 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-native-calendars/src/calendar-list/index.js" timestamp="1532983802013">
+        <mark key="[" line="174" column="36" />
+        <mark key="]" line="174" column="36" />
+        <mark key="." line="174" column="36" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/navigators/NavigationService.js" timestamp="1532384220962">
         <mark key="'" line="32" column="19" />
         <mark key="[" line="32" column="13" />
@@ -965,6 +970,13 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-native-calendars/src/agenda/index.js" timestamp="1532984403575">
+        <mark key="'" line="229" column="61" />
+        <mark key="[" line="373" column="86" />
+        <mark key="]" line="373" column="89" />
+        <mark key="^" line="373" column="89" />
+        <mark key="." line="373" column="89" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/PlaintiffLetter.py" timestamp="1525999655225">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="5" />
@@ -1062,8 +1074,12 @@
         <mark key="^" line="254" column="18" />
         <mark key="." line="248" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1532978010912">
-        <mark key="'" line="192" column="60" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1532985265590">
+        <mark key="'" line="44" column="46" />
+        <mark key="[" line="168" column="50" />
+        <mark key="]" line="168" column="49" />
+        <mark key="." line="168" column="49" />
+        <mark key="^" line="168" column="49" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/ProviderVerification.py" timestamp="1526000294575">
         <mark key="[" line="15" column="5" />
@@ -1683,6 +1699,11 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/focus/index.js" timestamp="1532566954754">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/case/documents/document_category_links.html" timestamp="1527713132992">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="6" column="31" />
@@ -2030,9 +2051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="7" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
-      <jump line="71" column="11" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
-      <jump line="82" column="7" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
       <jump line="85" column="15" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
       <jump line="83" column="11" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
       <jump line="22" column="6" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
@@ -2130,13 +2148,16 @@
       <jump line="334" column="49" filename="$USER_HOME$/git/casepeer-app/src/screens/Login.js" />
       <jump line="168" column="51" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="192" column="60" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
+      <jump line="44" column="46" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
+      <jump line="224" column="4" filename="$USER_HOME$/git/casepeer-app/node_modules/react-native-calendars/src/agenda/index.js" />
+      <jump line="229" column="61" filename="$USER_HOME$/git/casepeer-app/node_modules/react-native-calendars/src/agenda/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1pbkhlaWdodDogNzAsCg==</text>
+        <text encoding="base64">ICBzICAgICAgIHNjcm9sbEVuYWJsZWQ9e3RydWV9Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2154,55 +2175,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwvXD4=</text>
+        <text>removeClipped</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGhlaWdodDogKGl0ZW0uY2FzZSAmJiB0aGlzLmhhc1N0YXJ0T3JFbmQoaXRlbSkpICYmIDExMCB8fCA3MCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1pbkhlaWdodDogNzAsCg==</text>
+        <text encoding="base64">ICBzICAgICAgIHNjcm9sbEVuYWJsZWQ9e3RydWV9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZFN0ciwgaXRtLnN0YXJ0LCBmbXRTdHIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1heERhdGU9e3VuZGVmaW5lZH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vY29uc29sZS5sb2coKikK</text>
+        <text encoding="base64">ICAgICAgICAgIG1pbkRhdGU9e3VuZGVmaW5lZH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3RoaXMuaGFzfQo=</text>
+        <text encoding="base64">ICAgICAgLy8gZGF0ZVN0ciA9IChuZXcgRGF0ZShpdG0uc3RhcnQuc3BsaXQoJ1QnKVswXSkpLnRvSVNPU3RyaW5nKCkuc3BsaXQoJ1QnKVswXQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Jwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgZFN0ciA9IGRhdGVGbnMuZm9ybWF0KGRhdGVGbnMucGFyc2UoaXRtLnN0YXJ0LCBmbXRTdHIgLCBuZXcgRGF0ZSksICJ5LUxMLWRkIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZShTQ1JFRU5fTkFNRVMuREVUQUlMLCB7IGl0ZW06IHRoaXMucHJvcHMuYXV0aC5fY2FzZSB9KQo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgZm10U3RyID0gYHktTEwtZGQnVCdISDptbTpzcyR7aXRtLnN0YXJ0LnNwbGl0KCcnKS5pbmNsdWRlcygnLicpICYmICcuU1NTU1NTJyB8fCAnJ314YAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZShTQ1JFRU5fTkFNRVMuREVUQUlMLCB7IGl0ZW06IHRoaXMucHJvcHMuYXV0aC5fY2FzZSB9KQo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuY3JlYXRlRXZlbnRPYmplY3QoKQo=</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMucHJvcHMuYWN0aW9ucy5yZW5kZXJDYXNlVmlldyh0aGlzLnByb3BzLmNhc2UuaWQpCg==</text>
+        <text encoding="base64">ICAgIGxldCBtb250aHMgPSB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50cykK</text>
+        <text encoding="base64">ICAgICAgICAgIG1pbkhlaWdodDogNzAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwvXD4=</last-search>
+      <last-search>removeClipped</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwvXD4=</last-pattern>
+      <last-pattern>removeClipped</last-pattern>
       <last-replace>formfillers</last-replace>
       <last-substitute encoding="base64">XDwvXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2210,7 +2231,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlcnJvclw+</entry>
         <entry>+**+*</entry>
         <entry>+</entry>
         <entry encoding="base64">XDwrXD4=</entry>
@@ -2230,6 +2250,7 @@
         <entry encoding="base64">XDwjXD4=</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry encoding="base64">XDwvXD4=</entry>
+        <entry>removeClipped</entry>
       </history-search>
       <history-cmd>
         <entry>Pw</entry>
@@ -2245,12 +2266,12 @@
         <entry>.w</entry>
         <entry>q</entry>
         <entry>s</entry>
-        <entry>W</entry>
         <entry>w\</entry>
         <entry>e</entry>
         <entry>&quot;w</entry>
         <entry>we</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
