@@ -1073,12 +1073,12 @@
         <mark key="^" line="254" column="18" />
         <mark key="." line="248" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1533072343337">
-        <mark key="'" line="71" column="1" />
-        <mark key="[" line="342" column="40" />
-        <mark key="]" line="342" column="10" />
-        <mark key="." line="342" column="10" />
-        <mark key="^" line="342" column="10" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1533074938441">
+        <mark key="'" line="210" column="75" />
+        <mark key="[" line="210" column="67" />
+        <mark key="]" line="210" column="67" />
+        <mark key="." line="210" column="67" />
+        <mark key="^" line="210" column="67" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/ProviderVerification.py" timestamp="1526000294575">
         <mark key="[" line="15" column="5" />
@@ -2045,7 +2045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="51" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
       <jump line="142" column="4" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
       <jump line="151" column="0" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
       <jump line="155" column="7" filename="$USER_HOME$/git/casepeer/config/settings/local.py" />
@@ -2145,6 +2144,7 @@
       <jump line="353" column="19" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="354" column="25" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="72" column="1" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
+      <jump line="210" column="75" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2172,7 +2172,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>theme</text>
+        <text>w</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGhlaWdodDogKGl0ZW0uY2FzZSAmJiB0aGlzLmhhc1N0YXJ0T3JFbmQoaXRlbSkpICYmIDExMCB8fCA3MCwK</text>
@@ -2215,17 +2215,16 @@
       </register>
     </registers>
     <search>
-      <last-search>theme</last-search>
+      <last-search>w</last-search>
       <last-offset />
-      <last-pattern>theme</last-pattern>
+      <last-pattern>w</last-pattern>
       <last-replace>formfillers</last-replace>
       <last-substitute encoding="base64">XDwvXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>+</entry>
         <entry encoding="base64">XDwrXD4=</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxURVNUX0RJU0NPVkVSX1RPUF9MRVZFTFw+</entry>
@@ -2245,9 +2244,9 @@
         <entry encoding="base64">XDwvXD4=</entry>
         <entry>removeClipped</entry>
         <entry>theme</entry>
+        <entry>w</entry>
       </history-search>
       <history-cmd>
-        <entry>Pw</entry>
         <entry>w\]</entry>
         <entry>WQ</entry>
         <entry>ww</entry>
@@ -2266,6 +2265,7 @@
         <entry>wq</entry>
         <entry>W</entry>
         <entry>ws</entry>
+        <entry>?w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
