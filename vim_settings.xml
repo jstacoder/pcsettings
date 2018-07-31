@@ -1073,9 +1073,9 @@
         <mark key="^" line="254" column="18" />
         <mark key="." line="248" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1533070313269">
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1533071141904">
         <mark key="'" line="72" column="1" />
-        <mark key="[" line="170" column="10" />
+        <mark key="[" line="170" column="8" />
         <mark key="]" line="170" column="9" />
         <mark key="." line="170" column="9" />
         <mark key="^" line="170" column="9" />
@@ -2151,7 +2151,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2169,7 +2169,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>theme</text>
