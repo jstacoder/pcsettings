@@ -81,6 +81,12 @@
         <mark key="^" line="1" column="79" />
         <mark key="." line="1" column="72" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/compose/webpack/package.json" timestamp="1533147076887">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="35" />
+        <mark key="^" line="46" column="32" />
+        <mark key="." line="46" column="32" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/defaults/closewindowframe.html" timestamp="1528491661211">
         <mark key="[" line="39" column="4" />
         <mark key="]" line="41" column="0" />
@@ -1001,7 +1007,7 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1533143231350">
+      <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1533146947125">
         <mark key="'" line="8" column="4" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="16" />
@@ -1389,12 +1395,12 @@
         <mark key="^" line="94" column="28" />
         <mark key="." line="94" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" timestamp="1533144917934">
-        <mark key="'" line="445" column="84" />
-        <mark key="[" line="276" column="32" />
-        <mark key="]" line="276" column="26" />
-        <mark key="." line="276" column="26" />
-        <mark key="^" line="276" column="26" />
+      <file name="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" timestamp="1533146739189">
+        <mark key="'" line="1034" column="17" />
+        <mark key="[" line="276" column="103" />
+        <mark key="]" line="277" column="13" />
+        <mark key="." line="277" column="13" />
+        <mark key="^" line="277" column="13" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/caseworker/lastname.js" timestamp="1517538607780">
         <mark key="[" line="3" column="29" />
@@ -2033,6 +2039,11 @@
         <mark key="^" line="40" column="5" />
         <mark key="." line="40" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/package.json" timestamp="1533147087556">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="35" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/compose/django/Dockerfile" timestamp="1526519661533">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="14" />
@@ -2053,18 +2064,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="58" filename="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" />
-      <jump line="316" column="32" filename="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" />
-      <jump line="330" column="8" filename="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client.py" />
-      <jump line="973" column="0" filename="$USER_HOME$/git/casepeer/casepeer/integrations/views.py" />
-      <jump line="190" column="21" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
-      <jump line="198" column="7" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
-      <jump line="199" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
-      <jump line="334" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
-      <jump line="40" column="11" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
-      <jump line="171" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
-      <jump line="78" column="34" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
-      <jump line="380" column="42" filename="$USER_HOME$/git/casepeer-app/src/components/CaseView.js" />
       <jump line="16" column="16" filename="$USER_HOME$/git/casepeer-app/src/screens/AltAgenda.js" />
       <jump line="30" column="16" filename="$USER_HOME$/git/casepeer-app/src/screens/AltAgenda.js" />
       <jump line="55" column="24" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
@@ -2153,13 +2152,25 @@
       <jump line="210" column="4" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
       <jump line="322" column="32" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
       <jump line="435" column="84" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="277" column="13" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="301" column="12" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="1042" column="22" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="1148" column="13" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="1171" column="2" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="1187" column="13" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="1192" column="13" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="145" column="20" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="299" column="23" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="569" column="19" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="972" column="4" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="1034" column="17" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJyZWFjdC1iaWctY2FsZW5kYXIiOiJeMC4xOS4yIiwK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2177,13 +2188,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>moment(edit ? event.start : (event.start || event.date)),</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>rese</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogKGl0ZW0uY2FzZSAmJiB0aGlzLmhhc1N0YXJ0T3JFbmQoaXRlbSkpICYmIDExMCB8fCA3MCwK</text>
+        <text encoding="base64">ICAgICJyZWFjdC1iaWctY2FsZW5kYXIiOiJeMC4xOS4yIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
@@ -2223,9 +2234,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>rese</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>rese</last-pattern>
       <last-replace>formfillers</last-replace>
       <last-substitute encoding="base64">XDwvXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2233,7 +2244,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxURVNUX0RJU0NPVkVSX1RPUF9MRVZFTFw+</entry>
         <entry encoding="base64">XDxFTkRcPg==</entry>
         <entry encoding="base64">XDwpXD4=</entry>
@@ -2253,6 +2263,7 @@
         <entry>theme</entry>
         <entry>w</entry>
         <entry>save</entry>
+        <entry>rese</entry>
       </history-search>
       <history-cmd>
         <entry>w\]</entry>
