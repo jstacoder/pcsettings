@@ -426,7 +426,7 @@
         <mark key="." line="1071" column="0" />
         <mark key="^" line="1063" column="76" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1533238485243">
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1533243526387">
         <mark key="'" line="169" column="47" />
         <mark key="[" line="420" column="44" />
         <mark key="]" line="421" column="45" />
@@ -522,11 +522,6 @@
         <mark key="]" line="13" column="30" />
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/case.js" timestamp="1532728246338">
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/token.js" timestamp="1517528546327">
         <mark key="[" line="3" column="24" />
@@ -1963,6 +1958,12 @@
         <mark key="]" line="30" column="17" />
         <mark key="^" line="30" column="17" />
         <mark key="." line="30" column="17" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpnotifications/models.py" timestamp="1533243659331">
+        <mark key="[" line="307" column="29" />
+        <mark key="]" line="307" column="29" />
+        <mark key="^" line="309" column="33" />
+        <mark key="." line="307" column="29" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/LienReduction.py" timestamp="1526000579825">
         <mark key="[" line="55" column="16" />
@@ -6751,7 +6752,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>_</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6769,7 +6770,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>rese</text>
