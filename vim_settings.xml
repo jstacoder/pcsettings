@@ -426,12 +426,11 @@
         <mark key="." line="1071" column="0" />
         <mark key="^" line="1063" column="76" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1533243526387">
-        <mark key="'" line="169" column="47" />
-        <mark key="[" line="420" column="44" />
-        <mark key="]" line="421" column="45" />
-        <mark key="^" line="421" column="45" />
-        <mark key="." line="421" column="45" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1533246192439">
+        <mark key="'" line="167" column="47" />
+        <mark key="[" line="122" column="15" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/.env" timestamp="1532452580335">
         <mark key="[" line="0" column="0" />
@@ -6751,8 +6750,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoX25vdGUgPSBncmFwaGVuZS5Bcmd1bWVudChncmFwaGVuZS5Cb29sZWFuKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6778,39 +6777,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgdGVzdF9mdW5jKGNvbnRleHQudXNlcik6Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>(case_data.get('casetype')
-                         if not case_data.get('casetype') == '' else None),</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoX25vdGUgPSBncmFwaGVuZS5Bcmd1bWVudChncmFwaGVuZS5Cb29sZWFuKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNld29ya2VyID0gaW5mby5jb250ZXh0LnVzZXIuY2FzZXdvcmtlcgo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNld29ya2VyID0gdXNlci5jYXNld29ya2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDdXNlck1pZGRsZXdhcmUuc2V0X3VzZXIoaW5mby5jb250ZXh0LnVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyID0gaW5mby5jb250ZXh0LnVzZXIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2UgPSBncmFwaGVuZS5GaWVsZChDYXNlTm9kZSkK</text>
+      <register name="4" type="4">
+        <text>(case_data.get('casetype')
+                         if not case_data.get('casetype') == '' else None),</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENhc2V0YXNrcy5vYmplY3RzLm5vbmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNld29ya2VyID0gaW5mby5jb250ZXh0LnVzZXIuY2FzZXdvcmtlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDdXNlck1pZGRsZXdhcmUuc2V0X3VzZXIoaW5mby5jb250ZXh0LnVzZXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENsaWVudC5vYmplY3RzLm5vbmUoKQo=</text>
+        <text encoding="base64">ICAgIGNhc2UgPSBncmFwaGVuZS5GaWVsZChDYXNlTm9kZSkK</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3VzZXJNaWRkbGV3YXJlLnNldF91c2VyKGNhc2V3b3JrZXIudGhldXNlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENhc2V0YXNrcy5vYmplY3RzLm5vbmUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5mby5jb250ZXh0LnVzZXI6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
