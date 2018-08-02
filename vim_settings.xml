@@ -426,12 +426,12 @@
         <mark key="." line="1071" column="0" />
         <mark key="^" line="1063" column="76" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1533233261287">
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1533236263575">
         <mark key="'" line="169" column="47" />
-        <mark key="[" line="116" column="31" />
-        <mark key="]" line="116" column="31" />
-        <mark key="^" line="115" column="4" />
-        <mark key="." line="116" column="31" />
+        <mark key="[" line="417" column="32" />
+        <mark key="]" line="417" column="32" />
+        <mark key="^" line="418" column="57" />
+        <mark key="." line="417" column="32" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/.env" timestamp="1532452580335">
         <mark key="[" line="0" column="0" />
@@ -6751,7 +6751,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6769,7 +6769,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>rese</text>
@@ -6777,38 +6777,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgdGVzdF9mdW5jKGNvbnRleHQudXNlcik6Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBjYXNld29ya2VyX3JlcXVpcmVkCg==</text>
+      <register name="1" type="4">
+        <text>(case_data.get('casetype')
+                         if not case_data.get('casetype') == '' else None),</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDdXNlck1pZGRsZXdhcmUuc2V0X3VzZXIodXNlcikK</text>
+        <text encoding="base64">ICAgICAgICBjYXNld29ya2VyID0gaW5mby5jb250ZXh0LnVzZXIuY2FzZXdvcmtlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiU2F2aW5nOjo6IiwgZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBDdXNlck1pZGRsZXdhcmUuc2V0X3VzZXIoaW5mby5jb250ZXh0LnVzZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiU2F2ZSBldmVudDogIiwgZXZlbnQpCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgPSBncmFwaGVuZS5GaWVsZChDYXNlTm9kZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiQ3VycmVudCB0aW1lem9uZTogIiArIGN1cnJlbnRfdGltZXpvbmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENhc2V0YXNrcy5vYmplY3RzLm5vbmUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYFdlIGFyZSAke2lzTG9hZGluZyA/ICcnIDogJ25vdCAnfWxvYWRpbmdgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9jYWxpemVyLm1lc3NhZ2VzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENsaWVudC5vYmplY3RzLm5vbmUoKQo=</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXZhPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3VzZXJNaWRkbGV3YXJlLnNldF91c2VyKGNhc2V3b3JrZXIudGhldXNlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7ey4uLnRoaXMucHJvcHMuY2hpbGRyZW59fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5mby5jb250ZXh0LnVzZXI6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
