@@ -307,11 +307,11 @@
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/TaskCard.js" timestamp="1532629235877">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="29" />
-        <mark key="^" line="19" column="29" />
-        <mark key="." line="19" column="29" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/TaskCard.js" timestamp="1533320025795">
+        <mark key="[" line="73" column="36" />
+        <mark key="]" line="73" column="39" />
+        <mark key="^" line="73" column="39" />
+        <mark key="." line="73" column="39" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/models.py" timestamp="1517426278674">
         <mark key="[" line="34" column="34" />
@@ -1076,12 +1076,12 @@
         <mark key="^" line="254" column="18" />
         <mark key="." line="248" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1533147862571">
-        <mark key="'" line="429" column="102" />
-        <mark key="[" line="429" column="3" />
-        <mark key="]" line="429" column="8" />
-        <mark key="." line="429" column="8" />
-        <mark key="^" line="429" column="8" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1533320182279">
+        <mark key="'" line="454" column="102" />
+        <mark key="[" line="208" column="46" />
+        <mark key="]" line="208" column="53" />
+        <mark key="." line="208" column="53" />
+        <mark key="^" line="208" column="53" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/ProviderVerification.py" timestamp="1526000294575">
         <mark key="[" line="15" column="5" />
@@ -1392,11 +1392,6 @@
         <mark key="^" line="94" column="28" />
         <mark key="." line="94" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" timestamp="1533228299322">
-        <mark key="[" line="288" column="0" />
-        <mark key="]" line="288" column="0" />
-        <mark key="." line="288" column="0" />
-      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/caseworker/lastname.js" timestamp="1517538607780">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="9" column="11" />
@@ -1488,11 +1483,11 @@
         <mark key="." line="124" column="71" />
         <mark key="^" line="124" column="71" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/CaseLink.js" timestamp="1532721705862">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="24" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/CaseLink.js" timestamp="1533320084994">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="43" column="17" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1530896562975">
         <mark key="[" line="0" column="0" />
@@ -1829,11 +1824,11 @@
         <mark key="^" line="15" column="47" />
         <mark key="." line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/MessageView.js" timestamp="1532711421599">
-        <mark key="[" line="32" column="93" />
-        <mark key="]" line="32" column="93" />
-        <mark key="^" line="171" column="35" />
-        <mark key="." line="32" column="93" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/MessageView.js" timestamp="1533320014873">
+        <mark key="[" line="122" column="33" />
+        <mark key="]" line="122" column="36" />
+        <mark key="^" line="122" column="36" />
+        <mark key="." line="122" column="36" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/urls.py" timestamp="1530121497894">
         <mark key="[" line="10" column="71" />
@@ -6749,8 +6744,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6768,7 +6763,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>await</text>
@@ -6777,37 +6772,40 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YUtleSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbG9yID0gdGhpcy5wcm9wcy5jb2xvciB8fCAnd2hpdGUnCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudHMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNpemUgPSB0aGlzLnByb3BzLnNpemUgfHwgMjAK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMucHJvcHMuYWN0aW9ucy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGljb24gPSB0aGlzLnByb3BzLmljb24gfHwgJ3NwaW5uZXInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXh0cmEgZGF0YTogJywgZXh0cmFEYXRhT2JqKQo=</text>
+      <register name="5" type="4">
+        <text>dateRange: {
+                  start: dateFns.startOfYear(new Date()).toISOString(),
+                  end: dateFns.endOfYear(new Date()).toISOString(),
+              },</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RhdGE6ICcsIGRhdGFPYmopCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBsb2FkIGl0ZW1zIGZvciAke0pTT04uc3RyaW5naWZ5KGRheSl9YCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3RhdGUgPSBwcm9wcyB8fCB0aGlzLnByb3BzCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3VwZGF0aW5nIGV2ZW50cyBmcm9tIHJlZHV4JykK</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE5hdmlnYXRpb25TZXJ2aWNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
