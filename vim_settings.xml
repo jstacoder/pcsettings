@@ -105,11 +105,11 @@
         <mark key="." line="506" column="30" />
         <mark key="^" line="506" column="30" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/tasksData.js" timestamp="1533250891470">
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="35" column="43" />
-        <mark key="." line="35" column="43" />
-        <mark key="^" line="35" column="43" />
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/tasksData.js" timestamp="1533253421598">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="34" column="43" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/error.js" timestamp="1517528493327">
         <mark key="[" line="3" column="24" />
@@ -1263,12 +1263,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/addLoader.js" timestamp="1533251164804">
-        <mark key="'" line="45" column="56" />
-        <mark key="[" line="45" column="13" />
-        <mark key="]" line="45" column="62" />
-        <mark key="^" line="45" column="62" />
-        <mark key="." line="45" column="62" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/addLoader.js" timestamp="1533254033104">
+        <mark key="'" line="53" column="29" />
+        <mark key="[" line="53" column="30" />
+        <mark key="]" line="53" column="30" />
+        <mark key="." line="53" column="30" />
+        <mark key="^" line="53" column="30" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/edit_form_entry.html" timestamp="1525727613699">
         <mark key="[" line="3" column="14" />
@@ -1651,6 +1651,13 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="85" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1533254498468">
+        <mark key="'" line="252" column="154" />
+        <mark key="[" line="252" column="155" />
+        <mark key="]" line="252" column="154" />
+        <mark key="." line="252" column="154" />
+        <mark key="^" line="252" column="154" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/node_modules/react-treebeard/lib/themes/default.js" timestamp="1513880427017">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="28" />
@@ -1862,12 +1869,12 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/recentCases.js" timestamp="1532544925847">
-        <mark key="'" line="54" column="59" />
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="54" column="59" />
-        <mark key="^" line="54" column="59" />
-        <mark key="." line="54" column="59" />
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/recentCases.js" timestamp="1533252425596">
+        <mark key="'" line="64" column="59" />
+        <mark key="[" line="45" column="46" />
+        <mark key="]" line="64" column="59" />
+        <mark key="^" line="64" column="59" />
+        <mark key="." line="64" column="59" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/casepeer_theme/templates/fobi-overrides/view_form_entry.html" timestamp="1526422918359">
         <mark key="[" line="6" column="24" />
@@ -2061,11 +2068,11 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/notification.js" timestamp="1532468768034">
-        <mark key="[" line="82" column="80" />
-        <mark key="]" line="96" column="2" />
-        <mark key="." line="96" column="2" />
-        <mark key="^" line="96" column="2" />
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/notification.js" timestamp="1533252223273">
+        <mark key="[" line="82" column="46" />
+        <mark key="]" line="84" column="66" />
+        <mark key="." line="84" column="66" />
+        <mark key="^" line="84" column="66" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/casepeer_theme/templates/fobi-overrides/_base.html" timestamp="1524182172216">
         <mark key="[" line="0" column="0" />
@@ -2075,8 +2082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="9" filename="$USER_HOME$/git/casepeer-app/src/components/Spinner.js" />
-      <jump line="76" column="36" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
       <jump line="112" column="28" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
       <jump line="231" column="68" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
       <jump line="94" column="23" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
@@ -2175,6 +2180,8 @@
       <jump line="22" column="5" filename="$USER_HOME$/git/casepeer-app/src/actions/queries.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/casepeer-app/src/actions/queries.js" />
       <jump line="45" column="56" filename="$USER_HOME$/git/casepeer-app/src/components/addLoader.js" />
+      <jump line="53" column="29" filename="$USER_HOME$/git/casepeer-app/src/components/addLoader.js" />
+      <jump line="252" column="154" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6758,7 +6765,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6776,46 +6783,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>rese</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYAogICAgICBxdWVyeSBnZXRPcGVuVGFza3MoJGlkOiBJRCl7CiAgICAgICAgb3BlblRhc2tzKGlkOiAkaWQpIHsKICAgICAgICAgIGlkIHRhc2sgdGFza0R1ZURhdGUgY3JlYXRlZAogICAgICAgICBjYXNlIHsgaWQgY2FzZW5hbWUgfQogICAgICAgICAgcHJpb3JpdHkgeyBuYW1lIH0KICAgICAgICAgIGRpcmVjdGVkdG8geyBpZCBmaXJzdG5hbWUgbGFzdG5hbWUgfQogICAgICAgICAgY3JlYXRlZGJ5IHsgaWQgZmlyc3RuYW1lIGxhc3RuYW1lIH0KICAgICAgIH0KICAgIH1gCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YUtleSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBsb2FkaW5nOiB0cnVlIH0sIGFzeW5jICgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmFkZExpc3RlbmVyKCd3aWxsQmx1cicsIHRoaXMuX25hdmlnYXRpb25CbHVyLmJpbmQodGhpcykpLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBpZiAoIXRoaXMuc3RhdGUuaGFzRGF0YSkgewogICAgICByZXR1cm4gKAogICAgICAgIDxTdGF0aWNDb250YWluZXI+CiAgICAgICAgICA8QWN0aXZpdHlJbmRpY2F0b3Igey4uLnRoaXMuaW5kaWNhdG9yUHJvcHN9IC8+CiAgICAgICAgPC9TdGF0aWNDb250YWluZXI+CiAgICAgICkKICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhc2V3b3JrZXIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIExpZmVjeWNsZSAvIGxpc3RlbmVycyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICAoZW5kT2JqLCBrZXkpPT4gZW5kT2JqW2tleV0sCg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgLy8gY29tcG9uZW50RGlkTW91bnQoKSB7CiAgLy8gICB0aGlzLm5hdmlnYXRpb25MaXN0ZW5lcnMgPSBbCiAgLy8gICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5hZGRMaXN0ZW5lcigKICAvLyAgICAgICAnd2lsbEZvY3VzJywgdGhpcy5uYXZpZ2F0aW9uRm9jdXMuYmluZCh0aGlzKQogIC8vICAgICApLAogIC8vICAgXQogIC8vIH0KICAvLwogIC8vIGNvbXBvbmVudFdpbGxVbm1vdW50KCkgewogIC8vICAgdGhpcy5uYXZpZ2F0aW9uTGlzdGVuZXJzLmZvckVhY2gobGlzdGVuZXIgPT4gbGlzdGVuZXIucmVtb3ZlKCkpCiAgLy8gfQogIC8vCiAgLy8gbmF2aWdhdGlvbkZvY3VzID0gYXN5bmMgKCkgPT4gewogIC8vICAgaWYgKCF0aGlzLnN0YXRlLmhhc0RhdGEpIHsKICAvLyAgICAgYXdhaXQgdGhpcy5nZXRUYXNrc0RhdGEoKQogIC8vICAgfQogIC8vIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhS2V5LnNwbGl0KCcuJykucmVkdWNlKAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaGFzRGF0YTogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGRhdGFPYmogIT09IHVuZGVmaW5lZCAmJiBkYXRhT2JqLmxlbmd0aCB8fCBkYXRhT2JqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
