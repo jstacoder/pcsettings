@@ -63,11 +63,12 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/connected-screens.js" timestamp="1533258290865">
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="25" column="83" />
-        <mark key="^" line="25" column="83" />
-        <mark key="." line="25" column="83" />
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/connected-screens.js" timestamp="1533583802494">
+        <mark key="'" line="38" column="87" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="38" column="87" />
+        <mark key="^" line="38" column="87" />
+        <mark key="." line="38" column="87" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/message_center/urls.py" timestamp="1507671259185">
         <mark key="[" line="38" column="22" />
@@ -281,12 +282,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" timestamp="1533582318187">
-        <mark key="'" line="67" column="4" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="69" column="59" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" timestamp="1533584080843">
+        <mark key="'" line="181" column="28" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="180" column="47" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/index.js" timestamp="1533248695302">
         <mark key="]" line="44" column="11" />
@@ -804,6 +805,12 @@
         <mark key="]" line="11" column="115" />
         <mark key="^" line="11" column="115" />
         <mark key="." line="11" column="115" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/index.js" timestamp="1533584299912">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="37" column="12" />
+        <mark key="^" line="37" column="12" />
+        <mark key="." line="37" column="12" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/focus/locationsReset.js" timestamp="1520618387074">
         <mark key="[" line="6" column="22" />
@@ -1960,11 +1967,11 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/MessagesStack.js" timestamp="1532633367054">
-        <mark key="[" line="27" column="3" />
-        <mark key="]" line="28" column="20" />
-        <mark key="^" line="28" column="20" />
-        <mark key="." line="28" column="20" />
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/MessagesStack.js" timestamp="1533583750251">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/actions/homeData.js" timestamp="1532544011081">
         <mark key="[" line="22" column="39" />
@@ -2094,9 +2101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="25" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
-      <jump line="181" column="73" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
-      <jump line="16" column="33" filename="$USER_HOME$/git/casepeer-app/src/components/HeaderLeft.js" />
       <jump line="138" column="47" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
       <jump line="4" column="0" filename="$USER_HOME$/git/casepeer-app/src/components/LoadingOverlay.js" />
       <jump line="251" column="36" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
@@ -2194,13 +2198,16 @@
       <jump line="524" column="4" filename="$USER_HOME$/git/casepeer/casepeer/evently/cpycronofy.py" />
       <jump line="63" column="0" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="70" column="0" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
+      <jump line="182" column="49" filename="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" />
+      <jump line="183" column="28" filename="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" />
+      <jump line="38" column="87" filename="$USER_HOME$/git/casepeer-app/src/navigators/connected-screens.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2218,7 +2225,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2227,60 +2234,37 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YUtleSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5zdGF0ZS5oYXNEYXRhKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKHRoaXMucHJvcHMuYXV0aC5jYXNld29ya2VyLmlkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0cwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnN0YXRlLm1lc3NhZ2VzICYmIHRoaXMuc3RhdGUuZGlzcGxheU1lc3NhZ2VzICYmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZXMK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGF0YQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGlmICghdGhpcy5zdGF0ZS5oYXNEYXRhKSB7CiAgICAgIHJldHVybiAoCiAgICAgICAgPFN0YXRpY0NvbnRhaW5lcj4KICAgICAgICAgIDxBY3Rpdml0eUluZGljYXRvciB7Li4udGhpcy5pbmRpY2F0b3JQcm9wc30gLz4KICAgICAgICA8L1N0YXRpY0NvbnRhaW5lcj4KICAgICAgKQogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
-      <register name="8" type="4">
-        <text>`query ($caseworkerId: ID) {
-    messages (
-      receiver: $caseworkerId,
-      visable: true,
-      orderBy: &quot;-created&quot;
-    ) {
-      results (limit: 10) {
-        id message read archived fromClient
-        created @date
-        case { id casename }
-        sender { id firstname lastname }
-        receiver { id firstname lastname }
-        receiverList { id firstname lastname }
-        messageChain {
-          id message read archived fromClient
-          created @date
-          case { casename }
-          sender { id firstname lastname }
-          receiver { id firstname lastname }
-          receiverList { id firstname lastname }
-        }
-      }
-    }
-  }`,</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IENPTVBMRVRFX1RBU0tfUkVRVUVTVCA9ICdjb21wbGV0ZV90YXNrX3JlcXVlc3QnCg==</text>
+        <text encoding="base64">ICAgIGlmKHRoaXMucHJvcHMuYXV0aC5jYXNld29ya2VyLmlkKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2332,12 +2316,12 @@
         <entry>e</entry>
         <entry>&quot;w</entry>
         <entry>we</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>ws</entry>
         <entry>?w</entry>
         <entry>/console</entry>
         <entry>we\</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
