@@ -1087,12 +1087,10 @@
         <mark key="^" line="254" column="18" />
         <mark key="." line="248" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1533335629573">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="66" column="1" />
-        <mark key="]" line="66" column="1" />
-        <mark key="^" line="251" column="25" />
-        <mark key="." line="66" column="1" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1533573698392">
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="0" />
+        <mark key="." line="236" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/ProviderVerification.py" timestamp="1526000294575">
         <mark key="[" line="15" column="5" />
@@ -2073,6 +2071,11 @@
         <mark key="^" line="40" column="5" />
         <mark key="." line="40" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/package.json" timestamp="1533147087556">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="35" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/compose/django/Dockerfile" timestamp="1526519661533">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="14" />
@@ -2198,8 +2201,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjaGFuZ2VpbmcgZGF5JywgZGF5KQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2226,7 +2229,7 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YUtleSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uQ2FsZW5kYXJUb2dnbGVkPXt0aGlzLmhhbmRsZVRvZ2dsZX0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjaGFuZ2VpbmcgZGF5JywgZGF5KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2235,28 +2238,28 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBnZXRJdGVtQ29sb3IgPSBpdGVtID0+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoYW5kbGVUb2dnbGUgPSBjYWxlbmRhck9wZW5lZCA9PiB7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGB0aGUgY2FsZW5kYXIgaGFzIGJlZW4gdG9nZ2xlZCAke2NhbGVuZGFyT3BlbmVkfWApCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhc2VPYmopCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGB0aGUgY2FsZW5kYXIgaGFzIGJlZW4gdG9nZ2xlZCAke2NhbGVuZGFyT3BlbmVkfWApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGNhc2VzW2ldLmlkID09PSBpZCkgewo=</text>
+        <text encoding="base64">ICBoYW5kbGVUb2dnbGUgPSBjYWxlbmRhck9wZW5lZCA9PiB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NoZWNraW5nJywgY2FzZXNbaV0sICdhZ2FpbnN0JywgaWQpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2FzZU9iaikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NoZWNraW5nJywgY2FzZXNbaV0sICdhZ2FpbnN0JywgaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2hlY2tpbmcnLCBjYXNlc1tpXSwgJ2FnYWluc3QnLCBpZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
