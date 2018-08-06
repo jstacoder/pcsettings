@@ -426,11 +426,11 @@
         <mark key="." line="1071" column="0" />
         <mark key="^" line="1063" column="76" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1533318743099">
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1533578945980">
         <mark key="'" line="167" column="47" />
-        <mark key="[" line="474" column="12" />
-        <mark key="]" line="487" column="63" />
-        <mark key="." line="487" column="63" />
+        <mark key="[" line="510" column="11" />
+        <mark key="]" line="510" column="11" />
+        <mark key="." line="510" column="11" />
         <mark key="^" line="487" column="63" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/.env" timestamp="1532452580335">
@@ -1581,11 +1581,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/CaseView.js" timestamp="1532718334743">
+      <file name="$USER_HOME$/git/casepeer-app/src/components/CaseView.js" timestamp="1533578526427">
         <mark key="'" line="495" column="95" />
-        <mark key="[" line="529" column="34" />
-        <mark key="]" line="529" column="34" />
-        <mark key="." line="529" column="34" />
+        <mark key="[" line="527" column="32" />
+        <mark key="]" line="527" column="32" />
+        <mark key="." line="527" column="32" />
         <mark key="^" line="529" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/59bf097d-52f5-413e-a6fb-666d43aac71c/console_1.sql" timestamp="1514590396314">
@@ -2198,8 +2198,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2313,8 +2313,8 @@
         <entry>ws</entry>
         <entry>?w</entry>
         <entry>/console</entry>
-        <entry>w</entry>
         <entry>we\</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
