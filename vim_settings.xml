@@ -282,12 +282,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" timestamp="1533584080843">
-        <mark key="'" line="181" column="28" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="180" column="47" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" timestamp="1533589353138">
+        <mark key="'" line="180" column="28" />
+        <mark key="[" line="180" column="1" />
+        <mark key="]" line="181" column="15" />
+        <mark key="^" line="181" column="15" />
+        <mark key="." line="181" column="15" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/index.js" timestamp="1533248695302">
         <mark key="]" line="44" column="11" />
@@ -2206,8 +2206,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2225,7 +2225,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
