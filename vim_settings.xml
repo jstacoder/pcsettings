@@ -93,11 +93,10 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/messages.js" timestamp="1532468350480">
-        <mark key="[" line="30" column="45" />
-        <mark key="]" line="59" column="2" />
-        <mark key="^" line="59" column="2" />
-        <mark key="." line="59" column="2" />
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/messages.js" timestamp="1533580768004">
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/cpstripe/views.py" timestamp="1525997493797">
         <mark key="[" line="506" column="28" />
@@ -293,12 +292,12 @@
         <mark key="^" line="44" column="11" />
         <mark key="." line="44" column="11" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/queries.js" timestamp="1533247127617">
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/queries.js" timestamp="1533579717345">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="6" />
-        <mark key="]" line="59" column="1" />
-        <mark key="^" line="59" column="1" />
-        <mark key="." line="59" column="1" />
+        <mark key="[" line="60" column="29" />
+        <mark key="]" line="102" column="9" />
+        <mark key="^" line="102" column="9" />
+        <mark key="." line="102" column="9" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/lettergeneration.py" timestamp="1525998422491">
         <mark key="[" line="28" column="5" />
@@ -680,12 +679,11 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/types.js" timestamp="1533247333540">
-        <mark key="'" line="63" column="67" />
-        <mark key="[" line="28" column="48" />
-        <mark key="]" line="31" column="59" />
-        <mark key="^" line="31" column="59" />
-        <mark key="." line="31" column="59" />
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/types.js" timestamp="1533579462063">
+        <mark key="'" line="66" column="67" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="29" column="60" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/view_form_wizard.html" timestamp="1525731237808">
         <mark key="[" line="0" column="0" />
@@ -2198,8 +2196,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmVzdWx0cwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2217,7 +2215,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2226,37 +2224,60 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YUtleSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0cwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgbWVzc2FnZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PT09Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjaGFuZ2VpbmcgZGF5JywgZGF5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="4">
+        <text>`query ($caseworkerId: ID) {
+    messages (
+      receiver: $caseworkerId,
+      visable: true,
+      orderBy: &quot;-created&quot;
+    ) {
+      results (limit: 10) {
+        id message read archived fromClient
+        created @date
+        case { id casename }
+        sender { id firstname lastname }
+        receiver { id firstname lastname }
+        receiverList { id firstname lastname }
+        messageChain {
+          id message read archived fromClient
+          created @date
+          case { casename }
+          sender { id firstname lastname }
+          receiver { id firstname lastname }
+          receiverList { id firstname lastname }
+        }
+      }
+    }
+  }`,</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnZXRJdGVtQ29sb3IgPSBpdGVtID0+IHsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IENPTVBMRVRFX1RBU0tfUkVRVUVTVCA9ICdjb21wbGV0ZV90YXNrX3JlcXVlc3QnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGB0aGUgY2FsZW5kYXIgaGFzIGJlZW4gdG9nZ2xlZCAke2NhbGVuZGFyT3BlbmVkfWApCg==</text>
+        <text encoding="base64">PT09PT09PT09Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
