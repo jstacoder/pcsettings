@@ -1084,12 +1084,9 @@
         <mark key="^" line="254" column="18" />
         <mark key="." line="248" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1533765056822">
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1533765300931">
         <mark key="'" line="200" column="24" />
-        <mark key="[" line="197" column="13" />
-        <mark key="]" line="200" column="24" />
         <mark key="^" line="200" column="24" />
-        <mark key="." line="200" column="24" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/ProviderVerification.py" timestamp="1526000294575">
         <mark key="[" line="15" column="5" />
@@ -1971,6 +1968,10 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/components/MessageCard.js" timestamp="1533601655624">
+        <mark key="'" line="16" column="42" />
+        <mark key="^" line="16" column="42" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/actions/homeData.js" timestamp="1532544011081">
         <mark key="[" line="22" column="39" />
         <mark key="]" line="22" column="15" />
@@ -2211,7 +2212,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyF0aGlzLmlzTWlkbmlnaHQoaXRlbS5zdGFydCkgPyA8VGV4dD57dGhpcy5mb3JtYXRUaW1lKGl0ZW0uc3RhcnQpfTwvVGV4dD4gOiBudWxsfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlZnJlc2hpbmc9e3RydWV9Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2238,37 +2239,37 @@
         <text encoding="base64">ICAgICAgICAgICAgeyF0aGlzLmlzTWlkbmlnaHQoaXRlbS5zdGFydCkgPyA8VGV4dD57dGhpcy5mb3JtYXRUaW1lKGl0ZW0uc3RhcnQpfTwvVGV4dD4gOiBudWxsfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLi4ucmVzdERhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlZnJlc2hpbmc9e3RydWV9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHNjcm9sbEVuYWJsZWQ9e3RydWV9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgLi4ucmVzdERhdGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiZW5kIjogZGF0YS5lbmRUaW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAic3RhcnQiOiBkYXRhLnN0YXJ0VGltZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAidGl0bGUiOiBkYXRhLnRpdGxlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiZW5kIjogZGF0YS5lbmRUaW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiZmlybSJmaXJtSWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAic3RhcnQiOiBkYXRhLnN0YXJ0VGltZSwK</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiY2FzZSI6IGRhdGEuY2FzZUlkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAidGl0bGUiOiBkYXRhLnRpdGxlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiY3JlYXRlZGJ5IjogdGhpcy5wcm9wcy5hdXRoLmNhc2V3b3JrZXIuaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiZmlybSJmaXJtSWQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
