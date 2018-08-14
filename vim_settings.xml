@@ -426,12 +426,6 @@
         <mark key="." line="1071" column="0" />
         <mark key="^" line="1063" column="76" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1534275281238">
-        <mark key="'" line="233" column="63" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="0" />
-        <mark key="." line="267" column="0" />
-      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/AddMenu.js" timestamp="1534275417193">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
@@ -479,9 +473,6 @@
         <mark key="]" line="6" column="35" />
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/loadedCases.js" timestamp="1533663931711">
-        <mark key="." line="8" column="37" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/DocxTests.py" timestamp="1526000489877">
         <mark key="[" line="1" column="5" />
@@ -796,6 +787,9 @@
         <mark key="^" line="11" column="115" />
         <mark key="." line="11" column="115" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/index.js" timestamp="1533661750965">
+        <mark key="[" line="34" column="13" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/focus/locationsReset.js" timestamp="1520618387074">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="35" />
@@ -837,6 +831,9 @@
         <mark key="]" line="25" column="21" />
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
+      </file>
+      <file name="/dummy.sql" timestamp="1533333441795">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cbv_theme/create_form_wizard_entry.html" timestamp="1524867037658">
         <mark key="[" line="2" column="0" />
@@ -1052,6 +1049,13 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/containers/index.js" timestamp="1534281718405">
+        <mark key="'" line="486" column="48" />
+        <mark key="[" line="490" column="9" />
+        <mark key="]" line="490" column="18" />
+        <mark key="^" line="490" column="18" />
+        <mark key="." line="490" column="18" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/config/payment_validator_middleware.py" timestamp="1508971125583">
         <mark key="[" line="37" column="11" />
         <mark key="]" line="37" column="44" />
@@ -1076,9 +1080,12 @@
         <mark key="^" line="254" column="18" />
         <mark key="." line="248" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1533765300931">
-        <mark key="'" line="202" column="24" />
-        <mark key="^" line="202" column="24" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1534281634538">
+        <mark key="'" line="186" column="24" />
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/ProviderVerification.py" timestamp="1526000294575">
         <mark key="[" line="15" column="5" />
@@ -1261,6 +1268,9 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="/Python Console" timestamp="1533333490143">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1532038080633">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
@@ -1340,9 +1350,6 @@
       </file>
       <file name="$USER_HOME$/git/casepeer/config/settings/local.py" timestamp="1534274304648">
         <mark key="[" line="132" column="9" />
-        <mark key="]" line="135" column="27" />
-        <mark key="^" line="135" column="27" />
-        <mark key="." line="135" column="27" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/navigators/index.js" timestamp="1518719179822">
         <mark key="[" line="0" column="15" />
@@ -1439,11 +1446,8 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/config/settings/common.py" timestamp="1534273966106">
-        <mark key="[" line="601" column="33" />
-        <mark key="]" line="601" column="34" />
-        <mark key="^" line="601" column="34" />
-        <mark key="." line="601" column="34" />
+      <file name="/evently_cronofycaseworker [cpdb@localhost]" timestamp="1533333016846">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/requirements/new.txt" timestamp="1521222046002">
         <mark key="[" line="0" column="21" />
@@ -1961,10 +1965,6 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/MessageCard.js" timestamp="1533601655624">
-        <mark key="'" line="16" column="42" />
-        <mark key="^" line="16" column="42" />
-      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/actions/homeData.js" timestamp="1532544011081">
         <mark key="[" line="22" column="39" />
         <mark key="]" line="22" column="15" />
@@ -2099,9 +2099,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="380" column="32" filename="$USER_HOME$/git/casepeer-app/node_modules/react-native-calendars/src/agenda/index.js" />
-      <jump line="26" column="15" filename="$USER_HOME$/git/casepeer-app/node_modules/react-native-calendars/src/agenda/index.js" />
-      <jump line="27" column="4" filename="$USER_HOME$/git/casepeer-app/node_modules/react-native-calendars/src/agenda/index.js" />
       <jump line="349" column="62" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="353" column="19" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="354" column="25" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
@@ -2199,13 +2196,16 @@
       <jump line="43" column="21" filename="$USER_HOME$/git/casepeer-app/src/components/AddMenu.js" />
       <jump line="230" column="32" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
       <jump line="236" column="63" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
+      <jump line="462" column="2" filename="$USER_HOME$/git/casepeer-app/src/containers/index.js" />
+      <jump line="419" column="1" filename="$USER_HOME$/git/casepeer-app/src/containers/index.js" />
+      <jump line="486" column="48" filename="$USER_HOME$/git/casepeer-app/src/containers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2223,46 +2223,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEuY2FzZUlkKQo=</text>
+        <text encoding="base64">ICBwYWRkaW5nVmVydGljYWw6IDEwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICB9fT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyZWF0ZUNhc2UoY2FzZT1Ob25lLCBvaz1GYWxzZSwgZXJyb3JzPWRpY3QobWVzc2FnZXM9W2UubWVzc2FnZV0pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogMTEwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGVuKGNhc2VfdHlwZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1pbkhlaWdodDogOTAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHlwZShjYXNlX3R5cGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcmdpbkJvdHRvbTogMzAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2FzZV90eXBlX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcmdpblRvcDogMjAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2FzZV90eXBlKQogICAgICAgICAgICBwcmludCh0eXBlKGNhc2VfdHlwZSkpCiAgICAgICAgICAgIHByaW50KGxlbihjYXNlX3R5cGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcmdpblJpZ2h0OiAxMCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmc6IDEwLAo=</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGJvcmRlclJhZGl1czogMywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkaXJlY3RlZFRvSWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
