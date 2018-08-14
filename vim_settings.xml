@@ -433,13 +433,6 @@
         <mark key="^" line="390" column="52" />
         <mark key="." line="390" column="52" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/AddMenu.js" timestamp="1533762426363">
-        <mark key="'" line="137" column="41" />
-        <mark key="[" line="84" column="47" />
-        <mark key="]" line="137" column="41" />
-        <mark key="." line="137" column="41" />
-        <mark key="^" line="137" column="41" />
-      </file>
       <file name="$USER_HOME$/git/casepeer-app/.env" timestamp="1533667169911">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="23" />
@@ -1803,12 +1796,6 @@
         <mark key="]" line="25" column="59" />
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/forms/TaskForm.js" timestamp="1533762556710">
-        <mark key="[" line="72" column="35" />
-        <mark key="]" line="73" column="53" />
-        <mark key="." line="73" column="53" />
-        <mark key="^" line="73" column="53" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_overviews.py" timestamp="1508370665661">
         <mark key="[" line="179" column="50" />
