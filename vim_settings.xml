@@ -305,12 +305,12 @@
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/TaskCard.js" timestamp="1533762346188">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="82" column="13" />
-        <mark key="]" line="82" column="89" />
-        <mark key="." line="82" column="89" />
-        <mark key="^" line="82" column="89" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/TaskCard.js" timestamp="1534290094678">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="42" column="23" />
+        <mark key="." line="42" column="23" />
+        <mark key="^" line="42" column="23" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/models.py" timestamp="1517426278674">
         <mark key="[" line="34" column="34" />
@@ -1146,11 +1146,12 @@
         <mark key="^" line="30" column="109" />
         <mark key="." line="30" column="109" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Form.js" timestamp="1533762534097">
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="67" />
-        <mark key="^" line="22" column="67" />
-        <mark key="." line="22" column="67" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Form.js" timestamp="1534290691032">
+        <mark key="'" line="28" column="62" />
+        <mark key="[" line="28" column="60" />
+        <mark key="]" line="28" column="62" />
+        <mark key="^" line="28" column="62" />
+        <mark key="." line="28" column="62" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/app.py" timestamp="1528150667195">
         <mark key="[" line="11" column="25" />
@@ -1450,6 +1451,12 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/components/forms/TaskNoteForm.js" timestamp="1534290403196">
+        <mark key="[" line="66" column="45" />
+        <mark key="]" line="66" column="44" />
+        <mark key="^" line="66" column="44" />
+        <mark key="." line="66" column="44" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/assets/js/apps/react-dropzone/index.jsx" timestamp="1526939619805">
         <mark key="[" line="126" column="69" />
         <mark key="]" line="126" column="78" />
@@ -1663,12 +1670,12 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="85" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1534289295945">
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1534291603254">
         <mark key="'" line="67" column="23" />
-        <mark key="[" line="64" column="46" />
-        <mark key="]" line="67" column="23" />
-        <mark key="^" line="67" column="23" />
-        <mark key="." line="67" column="23" />
+        <mark key="[" line="62" column="31" />
+        <mark key="]" line="62" column="43" />
+        <mark key="^" line="62" column="43" />
+        <mark key="." line="62" column="43" />
       </file>
       <file name="$USER_HOME$/git/casepeer/node_modules/react-treebeard/lib/themes/default.js" timestamp="1513880427017">
         <mark key="[" line="12" column="10" />
@@ -1694,6 +1701,7 @@
         <mark key="^" line="14" column="47" />
         <mark key="." line="14" column="47" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/native-base/src/basic/ToastContainer.js" timestamp="1534290996685" />
       <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/safe/fullcalendar-2.8.0/fullcalendar.min.css" timestamp="1511286460424">
         <mark key="[" line="57" column="11" />
         <mark key="]" line="58" column="25" />
@@ -2083,7 +2091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="75" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="12" column="4" filename="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" />
       <jump line="292" column="32" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
       <jump line="439" column="17" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
@@ -2183,13 +2190,14 @@
       <jump line="167" column="8" filename="$USER_HOME$/git/casepeer-app/src/screens/MessageView.js" />
       <jump line="166" column="30" filename="$USER_HOME$/git/casepeer-app/src/screens/MessageView.js" />
       <jump line="67" column="23" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
+      <jump line="28" column="62" filename="$USER_HOME$/git/casepeer-app/src/screens/Form.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHRoaXMucHJvcHMuYWN0aW9ucy5yZWdpc3RlckZvclB1c2hOb3RpZmljYXRpb25zQXN5bmMoKQogICAgICAgICAgdGhpcy5wcm9wcy5hY3Rpb25zLnVwZGF0ZVRvdWNoZWRUb2tlbk9uKCkK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2207,7 +2215,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2285,7 +2293,6 @@
         <entry>console</entry>
       </history-search>
       <history-cmd>
-        <entry>r</entry>
         <entry>qw</entry>
         <entry>sw</entry>
         <entry>q</entry>
@@ -2304,6 +2311,7 @@
         <entry>W</entry>
         <entry>e</entry>
         <entry>.w</entry>
+        <entry>w:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
