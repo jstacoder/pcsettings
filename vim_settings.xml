@@ -290,12 +290,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/queries.js" timestamp="1534352559466">
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/queries.js" timestamp="1534354385716">
         <mark key="'" line="153" column="58" />
         <mark key="[" line="353" column="41" />
-        <mark key="]" line="153" column="58" />
-        <mark key="^" line="153" column="58" />
-        <mark key="." line="153" column="58" />
+        <mark key="]" line="353" column="40" />
+        <mark key="^" line="353" column="40" />
+        <mark key="." line="353" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" timestamp="1520637230251">
         <mark key="[" line="5" column="12" />
@@ -1446,8 +1446,12 @@
         <mark key="." line="87" column="80" />
         <mark key="^" line="154" column="30" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/Toast.js" timestamp="1534352245085">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/Toast.js" timestamp="1534354833630">
+        <mark key="'" line="75" column="37" />
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+        <mark key="^" line="31" column="19" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/testpages/fobi_urls.py" timestamp="1524771600251">
         <mark key="[" line="15" column="100" />
@@ -1694,6 +1698,12 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="85" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1534354751291">
+        <mark key="[" line="76" column="34" />
+        <mark key="]" line="77" column="7" />
+        <mark key="^" line="77" column="7" />
+        <mark key="." line="77" column="7" />
       </file>
       <file name="$USER_HOME$/git/casepeer/node_modules/react-treebeard/lib/themes/default.js" timestamp="1513880427017">
         <mark key="[" line="12" column="10" />
@@ -2120,7 +2130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="964" column="42" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
       <jump line="1005" column="25" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
       <jump line="1006" column="25" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
       <jump line="1009" column="25" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
@@ -2220,13 +2229,14 @@
       <jump line="8" column="6" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
       <jump line="66" column="46" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
       <jump line="149" column="58" filename="$USER_HOME$/git/casepeer-app/src/actions/queries.js" />
+      <jump line="62" column="37" filename="$USER_HOME$/git/casepeer-app/src/components/Toast.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>{</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2244,7 +2254,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2253,37 +2263,37 @@
         <text encoding="base64">ICAgICAgICAgIGF3YWl0IHRoaXMucHJvcHMuYWN0aW9ucy5yZWdpc3RlckZvclB1c2hOb3RpZmljYXRpb25zQXN5bmMoKQogICAgICAgICAgdGhpcy5wcm9wcy5hY3Rpb25zLnVwZGF0ZVRvdWNoZWRUb2tlbk9uKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtcm9vdC10b2FzdCI6ICJeMy4wLjEiLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRvYXN0TXNnID0gbWVzc2FnZSB8fCB0aGlzLm1lc3NhZ2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhub3RpZmljYXRpb24sIHRoaXMudG9hc3QpCg==</text>
+        <text encoding="base64">ICAgICAgfSwgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9KQo=</text>
+        <text encoding="base64">ICAgICAgc3RkZGF0ZTogewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIHBvc2l0aW9uOiBUb2FzdC5wb3NpdGlvbnMuVE9QLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRvcCA9IHRoaXMucHJvcHMucG9zaXRpb24gPT0gJ3RvcCcgPyAnMTAlJyA6ICc4MCUnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIGRlbGF5OiAwLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9wYWNpdHkgPSB0aGlzLmFuaW1hdGVkT3BhY2l0eVZhbHVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIGhpZGVPblByZXNzOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtcm9vdC10b2FzdCI6ICJeMy4wLjEiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIGFuaW1hdGlvbjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhub3RpZmljYXRpb24sIHRoaXMudG9hc3QpCg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIHNoYWRvdzogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAvLyB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIGR1cmF0aW9uOiBUb2FzdC5kdXJhdGlvbnMuU0hPUlQsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgIHBvc2l0aW9uOiBUb2FzdC5wb3NpdGlvbnMuVE9QLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
