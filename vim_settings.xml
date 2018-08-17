@@ -573,6 +573,12 @@
         <mark key="^" line="31" column="11" />
         <mark key="." line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/redux/src/compose.js" timestamp="1534527080366">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/RepToHealthProvider.py" timestamp="1525999767842">
         <mark key="[" line="5" column="5" />
         <mark key="]" line="5" column="5" />
@@ -1108,12 +1114,12 @@
         <mark key="^" line="254" column="18" />
         <mark key="." line="248" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1534526430010">
-        <mark key="'" line="19" column="52" />
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="19" column="59" />
-        <mark key="^" line="19" column="59" />
-        <mark key="." line="19" column="59" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1534529609879">
+        <mark key="'" line="267" column="34" />
+        <mark key="[" line="126" column="37" />
+        <mark key="]" line="126" column="36" />
+        <mark key="." line="126" column="36" />
+        <mark key="^" line="126" column="36" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/ProviderVerification.py" timestamp="1526000294575">
         <mark key="[" line="15" column="5" />
@@ -2152,7 +2158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="56" filename="$USER_HOME$/git/casepeer-app/src/components/addLoader.js" />
       <jump line="53" column="29" filename="$USER_HOME$/git/casepeer-app/src/components/addLoader.js" />
       <jump line="252" column="154" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
       <jump line="255" column="54" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
@@ -2252,13 +2257,14 @@
       <jump line="5" column="29" filename="$USER_HOME$/git/casepeer-app/src/screens/MessageView.js" />
       <jump line="248" column="15" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="18" column="52" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
+      <jump line="255" column="34" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgZ2V0IGNhc2V3b3JrZXJJZCgpewogICAgcmV0dXJuIHRoaXMucHJvcHMuYXV0aC5jYXNld29ya2VyLmlkCiAgfQogIA==</text>
+        <text>w</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2276,46 +2282,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWN0aW9ucy5zZXRIZWFkZXJMZWZ0Q29tcG9uZW50KCdiYWNrSWNvbicpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdGF0ZS5kYXRlUmFuZ2UsIGRhdGVGbnMpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgZ2V0IGNhc2V3b3JrZXJJZCgpewogICAgcmV0dXJuIHRoaXMucHJvcHMuYXV0aC5jYXNld29ya2VyLmlkCiAgfQogIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUocHJldlN0YXRlID0+ICh7ZXZlbnRzOiB7Li4ucHJldlN0YXRlLmV2ZW50cywgLi4uZXZlbnRzfX0pKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbXBvbmVudE5hbWUsIEhFQURFUl9DT01QT05FTlRfTkFNRVMpCg==</text>
+        <text encoding="base64">ICB3aXRoTmF2aWdhdGlvbiwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgZ2V0IGNhc2V3b3JrZXJJZCgpewogICAgcmV0dXJuIHRoaXMucHJvcHMuYXV0aC5jYXNld29ya2VyLmlkCiAgfQogIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbXBvbmVudE5hbWUsIEhFQURFUl9DT01QT05FTlRfTkFNRVMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGFtYnVyZ2VySWNvbiwgQmFja0ljb24gfSBmcm9tICcuL2ljb25zJwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSGFtYnVyZ2VySWNvbiwgQmFja0ljb24gfSBmcm9tICcuL2ljb25zJwo=</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBnb0JhY2sgJiYgc3RhdGUgJiYgc3RhdGUucm91dGVOYW1lID09PSAnTWVzc2FnZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2359,7 +2365,6 @@
         <entry>q</entry>
         <entry>s</entry>
         <entry>w\</entry>
-        <entry>we</entry>
         <entry>?w</entry>
         <entry>/console</entry>
         <entry>we\</entry>
@@ -2373,6 +2378,7 @@
         <entry>W</entry>
         <entry>ws</entry>
         <entry>e</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
