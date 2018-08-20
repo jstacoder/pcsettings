@@ -323,11 +323,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/icons/Back.js" timestamp="1534466033336">
-        <mark key="[" line="24" column="34" />
-        <mark key="]" line="24" column="38" />
-        <mark key="^" line="24" column="38" />
-        <mark key="." line="24" column="38" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/icons/Back.js" timestamp="1534782578724">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="21" column="64" />
+        <mark key="^" line="21" column="64" />
+        <mark key="." line="21" column="64" />
       </file>
       <file name="$USER_HOME$/git/casepeer/custom_fobi_plugins/fields/casepeer_address_input/base.py" timestamp="1525881908409">
         <mark key="[" line="1" column="53" />
@@ -585,12 +585,12 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/Navigator.js" timestamp="1534462748143">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="48" column="36" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/Navigator.js" timestamp="1534782377062">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="47" column="39" />
+        <mark key="]" line="48" column="42" />
+        <mark key="." line="48" column="42" />
+        <mark key="^" line="48" column="42" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/iportal/IntakePacket.py" timestamp="1526000616141">
         <mark key="[" line="7" column="5" />
