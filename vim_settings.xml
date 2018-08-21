@@ -612,9 +612,9 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/Navigator.js" timestamp="1534808967983">
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/Navigator.js" timestamp="1534890907369">
         <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
+        <mark key="]" line="60" column="43" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="44" column="39" />
       </file>
@@ -929,11 +929,12 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="85" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1534873186656">
-        <mark key="'" line="324" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1534890893541">
+        <mark key="'" line="327" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="43" />
+        <mark key="." line="57" column="2" />
+        <mark key="^" line="62" column="41" />
       </file>
       <file name="$USER_HOME$/git/casepeer/node_modules/react-treebeard/lib/themes/default.js" timestamp="1513880427017">
         <mark key="[" line="12" column="10" />
@@ -1170,11 +1171,11 @@
         <mark key="^" line="20" column="86" />
         <mark key="." line="20" column="86" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/notification.js" timestamp="1533252223273">
-        <mark key="[" line="82" column="46" />
-        <mark key="]" line="84" column="66" />
-        <mark key="." line="84" column="66" />
-        <mark key="^" line="84" column="66" />
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/notification.js" timestamp="1534890357984">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="94" column="33" />
+        <mark key="." line="94" column="33" />
+        <mark key="^" line="94" column="33" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/Dropdown.js" timestamp="1533689213715">
         <mark key="[" line="53" column="49" />
@@ -1738,12 +1739,12 @@
         <mark key="^" line="14" column="23" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/containers/index.js" timestamp="1534888835159">
+      <file name="$USER_HOME$/git/casepeer-app/src/containers/index.js" timestamp="1534891124672">
         <mark key="'" line="2" column="39" />
-        <mark key="[" line="531" column="11" />
-        <mark key="]" line="531" column="11" />
-        <mark key="^" line="531" column="11" />
-        <mark key="." line="531" column="11" />
+        <mark key="[" line="540" column="20" />
+        <mark key="]" line="541" column="13" />
+        <mark key="^" line="541" column="13" />
+        <mark key="." line="541" column="13" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/select_wizard.html" timestamp="1523038529540">
         <mark key="[" line="0" column="0" />
@@ -2352,7 +2353,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>-</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2370,13 +2371,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucHJvcHMuYWN0aW9ucy5zZXRMb2FkaW5nT2ZmKCkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnV0UgR09UJywgbm90aWZpY2F0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG5hdmlnYXRpb25TZXJ2aWNlLm5hdmlnYXRlKHRoaXMucHJvcHMuZm9jdXMubGFzdFNjcmVlbk5hbWUpIHx8IHRoaXMucHJvcHMubmF2aWdhdGlvbi5wb3AoKQo=</text>
@@ -2448,7 +2449,6 @@
         <entry>console</entry>
       </history-search>
       <history-cmd>
-        <entry>sw</entry>
         <entry>q</entry>
         <entry>s</entry>
         <entry>w\</entry>
@@ -2467,6 +2467,7 @@
         <entry>&quot;w</entry>
         <entry>ew</entry>
         <entry>:w</entry>
+        <entry>a</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
