@@ -27,12 +27,6 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/connected-screens.js" timestamp="1534804098486">
-        <mark key="'" line="18" column="87" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/git/casepeer-app/.babelrc" timestamp="1527209702695">
         <mark key="[" line="1" column="72" />
         <mark key="]" line="1" column="72" />
@@ -81,12 +75,11 @@
         <mark key="^" line="209" column="80" />
         <mark key="." line="209" column="80" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Login.js" timestamp="1534798974202">
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Login.js" timestamp="1534872990689">
         <mark key="'" line="185" column="10" />
-        <mark key="[" line="325" column="29" />
-        <mark key="]" line="327" column="51" />
-        <mark key="." line="327" column="51" />
-        <mark key="^" line="327" column="51" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/question_input/widgets.py" timestamp="1525382298083">
         <mark key="[" line="6" column="51" />
@@ -593,11 +586,11 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1534871541635">
-        <mark key="'" line="260" column="34" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="." line="255" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1534872895650">
+        <mark key="[" line="259" column="76" />
+        <mark key="]" line="259" column="75" />
+        <mark key="." line="259" column="75" />
+        <mark key="^" line="259" column="75" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/CZRLetterAddendum.py" timestamp="1525999696364">
         <mark key="[" line="3" column="5" />
@@ -944,6 +937,12 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="85" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1534873186656">
+        <mark key="'" line="324" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/node_modules/react-treebeard/lib/themes/default.js" timestamp="1513880427017">
         <mark key="[" line="12" column="10" />
@@ -1739,12 +1738,12 @@
         <mark key="^" line="59" column="18" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/AppMainStack.js" timestamp="1534801280959">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="2" />
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/AppMainStack.js" timestamp="1534872573079">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
         <mark key="^" line="14" column="23" />
-        <mark key="." line="18" column="2" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/App.js" timestamp="1534807823174">
         <mark key="'" line="115" column="0" />
@@ -2365,7 +2364,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExPQ0FMX05HUk9LX1RVTk5FTAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2383,46 +2382,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpbGxGb2N1cyA9ICgpID0+ewogICAgICB0aGlzLnByb3BzLmFjdGlvbnMuc2V0SGVhZGVyTGVmdENvbXBvbmVudChIRUFERVJfQ09NUE9ORU5UX05BTUVTLkJBQ0spCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucHJvcHMuYWN0aW9ucy5zZXRMb2FkaW5nT2ZmKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExPQ0FMX05HUk9LX1RVTk5FTAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUsIHRoaXMuc3RhdGUuZGF0ZVJhbmdlKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWN0aW9ucy5zZXRMb2FkaW5nT2ZmKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy9hd2FpdCB0aGlzLnByb3BzLmFjdGlvbnMucmVxdWVzdEV2ZW50cyh0aGlzLnN0YXRlLmRhdGVSYW5nZS5zdGFydCwgdGhpcy5zdGF0ZS5kYXRlUmFuZ2UuZW5kLCB0aGlzLnByb3BzLmF1dGguY2FzZXdvcmtlci5pZCkK</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWN0aW9ucy5zZXRMb2FkaW5nT24oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHsgaXRlbXMgfSA9IHRoaXMuc3RhdGVdCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2F3YWl0IHRoaXMucHJvcHMuYWN0aW9ucy5yZXF1ZXN0RXZlbnRzKGRhdGVGbnMuc3RhcnRPZlllYXIoZGF5LmRhdGVTdHJpbmcpLCBkYXRlRm5zLmVuZE9mWWVhcihkYXkuZGF0ZVN0cmluZyksIHRoaXMucHJvcHMuYXV0aC5jYXNld29ya2VyLmlkKQo=</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdGF0ZS5kYXRlUmFuZ2UsIGN1cnJlbnRZZWFyKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWN0aW9ucy5zZXRMb2FkaW5nT24oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xvYWRpbmcgbmV4dCByYW5nZScsIGRheSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5hY3Rpb25zLnNldExvYWRpbmdPbigpCg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdGF0ZS5kYXRlUmFuZ2UsIGRhdGVGbnMpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdGF0ZS5ldmVudHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IC8vIGNvbm5lY3QobG9hZGFwU3RhdGVUb1Byb3BzKCdnbG9iYWxOYXZpZ2F0b3InKSwgbWFwRGlzcGF0Y2hUb1Byb3BzKSwK</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
