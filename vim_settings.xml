@@ -226,11 +226,6 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/node_modules/native-base/index.d.ts" timestamp="1534293032175">
-        <mark key="[" line="1053" column="0" />
-        <mark key="]" line="1053" column="0" />
-        <mark key="." line="1053" column="0" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/DocxTests.py" timestamp="1526000489877">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="5" />
@@ -346,11 +341,7 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/icons/Back.js" timestamp="1534870603574">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1534892481734" />
       <file name="$USER_HOME$/git/casepeer/custom_fobi_plugins/fields/casepeer_address_input/base.py" timestamp="1525881908409">
         <mark key="[" line="1" column="53" />
         <mark key="]" line="21" column="36" />
@@ -424,11 +415,6 @@
         <mark key="]" line="12" column="41" />
         <mark key="^" line="6" column="5" />
         <mark key="." line="12" column="41" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/reducers/index.js" timestamp="1534798510124">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/Overlay.js" timestamp="1532646873959">
         <mark key="[" line="24" column="64" />
@@ -527,12 +513,12 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1533146947125">
-        <mark key="'" line="8" column="4" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="16" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="12" column="16" />
+      <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1534892883476">
+        <mark key="'" line="13" column="1" />
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="42" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_settlement.py" timestamp="1525998342817">
         <mark key="[" line="1786" column="13" />
@@ -777,11 +763,6 @@
         <mark key="]" line="94" column="28" />
         <mark key="^" line="94" column="28" />
         <mark key="." line="94" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/evently/views.py" timestamp="1533334850703">
-        <mark key="[" line="362" column="0" />
-        <mark key="]" line="362" column="0" />
-        <mark key="." line="362" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1527791220641">
         <mark key="[" line="3" column="0" />
@@ -2234,11 +2215,6 @@
         <mark key="^" line="40" column="5" />
         <mark key="." line="40" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/package.json" timestamp="1533147087556">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="35" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/compose/django/Dockerfile" timestamp="1526519661533">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="14" />
@@ -2247,7 +2223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="44" filename="$USER_HOME$/git/casepeer-app/src/components/addLoader.js" />
       <jump line="43" column="0" filename="$USER_HOME$/git/casepeer-app/src/components/TaskCard.js" />
       <jump line="136" column="2" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="96" column="26" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
@@ -2347,6 +2322,7 @@
       <jump line="102" column="35" filename="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" />
       <jump line="3" column="30" filename="$USER_HOME$/git/casepeer-app/src/components/AddMenu.js" />
       <jump line="210" column="3" filename="$USER_HOME$/git/casepeer-app/src/components/AddMenu.js" />
+      <jump line="13" column="1" filename="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
