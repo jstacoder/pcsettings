@@ -287,6 +287,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" timestamp="1534974311503">
+        <mark key="[" line="90" column="6" />
+        <mark key="]" line="90" column="7" />
+        <mark key="^" line="82" column="35" />
+        <mark key="." line="90" column="7" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/icons/Search.js" timestamp="1534870756504">
         <mark key="[" line="20" column="46" />
         <mark key="]" line="20" column="86" />
@@ -1445,11 +1451,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" timestamp="1534972969654">
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="13" column="59" />
-        <mark key="^" line="13" column="59" />
-        <mark key="." line="13" column="59" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" timestamp="1534974265206">
+        <mark key="'" line="96" column="37" />
+        <mark key="[" line="240" column="10" />
+        <mark key="]" line="243" column="1" />
+        <mark key="^" line="243" column="1" />
+        <mark key="." line="243" column="1" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/safe/fullcalendar-2.8.0/fullcalendar.css" timestamp="1511286379571">
         <mark key="[" line="1313" column="11" />
@@ -2201,7 +2208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="41" filename="$USER_HOME$/git/casepeer-app/src/components/AddMenu.js" />
       <jump line="195" column="38" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="200" column="24" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="66" column="23" filename="$USER_HOME$/git/casepeer-app/src/components/AddMenu.js" />
@@ -2301,6 +2307,7 @@
       <jump line="237" column="31" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
       <jump line="226" column="41" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
       <jump line="122" column="9" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
+      <jump line="96" column="37" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2334,37 +2341,37 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnV0UgR09UJywgbm90aWZpY2F0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uRW5kUmVhY2hlZFRocmVzaG9sZD17MC4xfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtc2cpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhc2tzRGF0YSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxOdW1Ub1JlbmRlcj17MTB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWVzc2FnZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codGFzaywgaW5kZXgsIHJlc3QsIGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hlcmUnLCBtZXNzYWdlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhc2ssIGluZGV4LCByZXN0LCBhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgc2VhcmNoVmFsdWUgPSBzZWFyY2hWYWx1ZS50b0xvd2VyQ2FzZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIG9uRW5kUmVhY2hlZFRocmVzaG9sZD17MC4xfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFyZ3MpCg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvblJlZnJlc2g9e3RoaXMuc2V0VGFza3NEYXRhfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxOdW1Ub1JlbmRlcj17MTB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZWZyZXNoaW5nPXt0aGlzLnN0YXRlLmxvYWRpbmd9Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2codGFzaywgaW5kZXgsIHJlc3QsIGFyZ3MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
