@@ -2123,6 +2123,9 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/evently/serializers.py" timestamp="1534976991921">
+        <mark key="[" line="182" column="43" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/edit_form_entry_ajax.html" timestamp="1525727566860">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
