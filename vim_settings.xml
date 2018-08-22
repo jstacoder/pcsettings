@@ -1456,12 +1456,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" timestamp="1534966499288">
-        <mark key="'" line="226" column="41" />
-        <mark key="[" line="122" column="9" />
-        <mark key="]" line="122" column="10" />
-        <mark key="." line="122" column="10" />
-        <mark key="^" line="236" column="30" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" timestamp="1534967722090">
+        <mark key="'" line="127" column="9" />
+        <mark key="[" line="238" column="21" />
+        <mark key="]" line="244" column="34" />
+        <mark key="." line="244" column="34" />
+        <mark key="^" line="244" column="34" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/safe/fullcalendar-2.8.0/fullcalendar.css" timestamp="1511286379571">
         <mark key="[" line="1313" column="11" />
@@ -2222,7 +2222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="19" filename="$USER_HOME$/git/casepeer-app/src/components/AddMenu.js" />
       <jump line="137" column="41" filename="$USER_HOME$/git/casepeer-app/src/components/AddMenu.js" />
       <jump line="195" column="38" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
       <jump line="200" column="24" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
@@ -2322,13 +2321,14 @@
       <jump line="21" column="15" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
       <jump line="237" column="31" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
       <jump line="226" column="41" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
+      <jump line="122" column="9" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>d</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2346,7 +2346,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2424,7 +2424,6 @@
         <entry>console</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>s</entry>
         <entry>w\</entry>
         <entry>?w</entry>
@@ -2443,6 +2442,7 @@
         <entry>Pw</entry>
         <entry>ws</entry>
         <entry>e</entry>
+        <entry>w]</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
