@@ -326,6 +326,9 @@
         <mark key="." line="109" column="72" />
         <mark key="^" line="109" column="72" />
       </file>
+      <file name="/cpdb.public.evently_eventbase [cpdb@localhost]" timestamp="1534979764251">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/models.py" timestamp="1517426278674">
         <mark key="[" line="34" column="34" />
         <mark key="]" line="35" column="20" />
@@ -689,6 +692,12 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1534980047821">
+        <mark key="[" line="2323" column="19" />
+        <mark key="]" line="2320" column="23" />
+        <mark key="^" line="2320" column="23" />
+        <mark key="." line="2320" column="23" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/add_form_element_entry.html" timestamp="1525725895113">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="7" column="16" />
@@ -882,6 +891,9 @@
         <mark key="]" line="25" column="21" />
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
+      </file>
+      <file name="/dummy.sql" timestamp="1534979774924">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cbv_theme/create_form_wizard_entry.html" timestamp="1524867037658">
         <mark key="[" line="2" column="0" />
@@ -1329,6 +1341,9 @@
         <mark key="]" line="3" column="10" />
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
+      </file>
+      <file name="/Python Console" timestamp="1534978442743">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532038080633">
         <mark key="[" line="0" column="0" />
@@ -2318,7 +2333,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2336,7 +2351,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2414,7 +2429,6 @@
         <entry>console</entry>
       </history-search>
       <history-cmd>
-        <entry>s</entry>
         <entry>w\</entry>
         <entry>?w</entry>
         <entry>/console</entry>
@@ -2433,6 +2447,7 @@
         <entry>ws</entry>
         <entry>e</entry>
         <entry>w]</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
