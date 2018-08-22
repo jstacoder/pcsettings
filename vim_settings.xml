@@ -1456,12 +1456,11 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" timestamp="1534967840126">
-        <mark key="'" line="127" column="9" />
-        <mark key="[" line="245" column="33" />
-        <mark key="]" line="246" column="41" />
-        <mark key="." line="246" column="41" />
-        <mark key="^" line="246" column="41" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" timestamp="1534972154375">
+        <mark key="[" line="122" column="31" />
+        <mark key="]" line="122" column="63" />
+        <mark key="^" line="122" column="63" />
+        <mark key="." line="122" column="63" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/safe/fullcalendar-2.8.0/fullcalendar.css" timestamp="1511286379571">
         <mark key="[" line="1313" column="11" />
@@ -1768,9 +1767,6 @@
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1534963550149">
         <mark key="'" line="326" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/node_modules/react-treebeard/lib/themes/default.js" timestamp="1513880427017">
         <mark key="[" line="12" column="10" />
