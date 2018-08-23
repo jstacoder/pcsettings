@@ -1065,12 +1065,12 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1534892883476">
-        <mark key="'" line="13" column="1" />
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="42" />
-        <mark key="^" line="11" column="42" />
-        <mark key="." line="11" column="42" />
+      <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1535066974462">
+        <mark key="'" line="17" column="1" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="13" column="49" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="13" column="49" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_settlement.py" timestamp="1525998342817">
         <mark key="[" line="1786" column="13" />
@@ -2346,7 +2346,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>l</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2364,13 +2364,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4Y2x1ZGUocmVsYXRlZF9zdGF0dXRlX19jYXNlc3RhdHVzX19jbG9zZWQ9VHJ1ZSkgXAo=</text>
+        <text encoding="base64">UlVOIG5wbSBjb25maWcgc2V0IHJlZ2lzdHJ5IGh0dHA6Ly9yZWdpc3RyeS5ucG1qcy5vcmcvICYmIFwKICAgIG5wbSBpbnN0YWxsIC1nIHdlYnBhY2sgd2VicGFjay1kZXYtc2VydmVyICYmIFwKICAgIG5wbSBpbnN0YWxsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjcHJpbnQgZXZlbnQK</text>
