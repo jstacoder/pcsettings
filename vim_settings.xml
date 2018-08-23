@@ -475,6 +475,13 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/evently/models.py" timestamp="1534981851205">
+        <mark key="'" line="206" column="12" />
+        <mark key="[" line="205" column="29" />
+        <mark key="]" line="205" column="67" />
+        <mark key="." line="205" column="67" />
+        <mark key="^" line="205" column="67" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/templatetags/string_templatetags.py" timestamp="1523053604261">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -692,11 +699,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1534980047821">
-        <mark key="[" line="2323" column="19" />
-        <mark key="]" line="2320" column="23" />
-        <mark key="^" line="2320" column="23" />
-        <mark key="." line="2320" column="23" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1534982630621">
+        <mark key="[" line="2280" column="27" />
+        <mark key="]" line="2280" column="27" />
+        <mark key="^" line="2279" column="23" />
+        <mark key="." line="2280" column="27" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/add_form_element_entry.html" timestamp="1525725895113">
         <mark key="[" line="3" column="26" />
@@ -1492,6 +1499,12 @@
         <mark key="^" line="94" column="28" />
         <mark key="." line="94" column="28" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/evently/views.py" timestamp="1534982189802">
+        <mark key="[" line="330" column="32" />
+        <mark key="]" line="330" column="26" />
+        <mark key="^" line="330" column="26" />
+        <mark key="." line="330" column="26" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1527791220641">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="0" />
@@ -2138,9 +2151,6 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/evently/serializers.py" timestamp="1534976991921">
-        <mark key="[" line="182" column="43" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/edit_form_entry_ajax.html" timestamp="1525727566860">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -2227,10 +2237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="24" filename="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" />
-      <jump line="66" column="23" filename="$USER_HOME$/git/casepeer-app/src/components/AddMenu.js" />
-      <jump line="43" column="21" filename="$USER_HOME$/git/casepeer-app/src/components/AddMenu.js" />
-      <jump line="230" column="32" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
       <jump line="236" column="63" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
       <jump line="462" column="2" filename="$USER_HOME$/git/casepeer-app/src/containers/index.js" />
       <jump line="419" column="1" filename="$USER_HOME$/git/casepeer-app/src/containers/index.js" />
@@ -2327,13 +2333,17 @@
       <jump line="122" column="9" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
       <jump line="96" column="37" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
       <jump line="106" column="19" filename="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" />
+      <jump line="842" column="35" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="821" column="29" filename="$USER_HOME$/git/casepeer/assets/js/calendar.jsx" />
+      <jump line="205" column="67" filename="$USER_HOME$/git/casepeer/casepeer/evently/models.py" />
+      <jump line="206" column="12" filename="$USER_HOME$/git/casepeer/casepeer/evently/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>#</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2351,46 +2361,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnV0UgR09UJywgbm90aWZpY2F0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmV4Y2x1ZGUocmVsYXRlZF9zdGF0dXRlX19jYXNlc3RhdHVzX19jbG9zZWQ9VHJ1ZSkgXAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtc2cpCg==</text>
+        <text encoding="base64">ICAgICAgICAjcHJpbnQgZXZlbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhc2tzRGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzZWxlY3RlZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWVzc2FnZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtc2cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hlcmUnLCBtZXNzYWdlcykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhc2tzRGF0YSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2VhcmNoVmFsdWUgPSBzZWFyY2hWYWx1ZS50b0xvd2VyQ2FzZSgpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWVzc2FnZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uRW5kUmVhY2hlZFRocmVzaG9sZD17MC4xfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hlcmUnLCBtZXNzYWdlcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgc2VhcmNoVmFsdWUgPSBzZWFyY2hWYWx1ZS50b0xvd2VyQ2FzZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxOdW1Ub1JlbmRlcj17MTB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9uRW5kUmVhY2hlZFRocmVzaG9sZD17MC4xfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codGFzaywgaW5kZXgsIHJlc3QsIGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFyZ3MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2441,13 +2451,13 @@
         <entry>W</entry>
         <entry>&quot;w</entry>
         <entry>ew</entry>
-        <entry>:w</entry>
         <entry>a</entry>
         <entry>Pw</entry>
         <entry>ws</entry>
         <entry>e</entry>
         <entry>w]</entry>
         <entry>Lw</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
