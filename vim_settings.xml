@@ -829,6 +829,12 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/urls.py" timestamp="1535147938296">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="51" />
+        <mark key="." line="8" column="15" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cal_rules.html" timestamp="1530209435714">
         <mark key="[" line="61" column="65" />
         <mark key="]" line="61" column="74" />
@@ -1370,7 +1376,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Python Console" timestamp="1535128076585">
+      <file name="/Python Console" timestamp="1535147948011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532038080633">
@@ -1487,6 +1493,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/views.py" timestamp="1535147677436">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/navigators/NotificationStack.js" timestamp="1534801136741">
         <mark key="'" line="3" column="55" />
@@ -2372,8 +2381,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXNzaW9uX21hbmFnZXIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2391,7 +2400,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2477,7 +2486,6 @@
         <entry>w:w</entry>
         <entry>.w</entry>
         <entry>we</entry>
-        <entry>W</entry>
         <entry>&quot;w</entry>
         <entry>ew</entry>
         <entry>Pw</entry>
@@ -2489,6 +2497,7 @@
         <entry>a</entry>
         <entry>sw</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
