@@ -249,8 +249,8 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/.env" timestamp="1535128630920">
-        <mark key="[" line="89" column="42" />
+      <file name="$USER_HOME$/git/casepeer/.env" timestamp="1535393926983">
+        <mark key="[" line="65" column="31" />
         <mark key="]" line="89" column="41" />
         <mark key="." line="89" column="41" />
         <mark key="^" line="89" column="41" />
@@ -1264,7 +1264,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Python Console" timestamp="1535386036644">
+      <file name="/Python Console" timestamp="1535393950244">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1535392614517">
