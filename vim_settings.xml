@@ -767,11 +767,11 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/urls.py" timestamp="1535149870020">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="51" />
-        <mark key="." line="8" column="15" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/urls.py" timestamp="1535391569836">
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="15" />
+        <mark key="^" line="32" column="15" />
+        <mark key="." line="32" column="15" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cal_rules.html" timestamp="1530209435714">
         <mark key="[" line="61" column="65" />
@@ -2203,7 +2203,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5wbSBpbnN0YWxsCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15ob29rJCcsIGhhbmRsZV93ZWJob29rLCBuYW1lPSdxYl9ob29rJykK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2227,7 +2227,7 @@
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIG5wbSBjb25maWcgc2V0IHJlZ2lzdHJ5IGh0dHA6Ly9yZWdpc3RyeS5ucG1qcy5vcmcvICYmIFwKICAgIG5wbSBpbnN0YWxsIC1nIHdlYnBhY2sgd2VicGFjay1kZXYtc2VydmVyICYmIFwKICAgIG5wbSBpbnN0YWxsCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15ob29rJCcsIGhhbmRsZV93ZWJob29rLCBuYW1lPSdxYl9ob29rJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG5wbSBpbnN0YWxsCg==</text>
@@ -2317,8 +2317,8 @@
         <entry>:w</entry>
         <entry>a</entry>
         <entry>sw</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
