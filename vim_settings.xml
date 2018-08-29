@@ -1717,10 +1717,9 @@
         <mark key="^" line="20" column="34" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/CaseView.js" timestamp="1535566069894">
-        <mark key="[" line="133" column="1" />
-        <mark key="]" line="141" column="28" />
-        <mark key="." line="141" column="28" />
-        <mark key="^" line="141" column="28" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="28" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/create_form_entry_ajax.html" timestamp="1525473515574">
         <mark key="[" line="0" column="0" />
