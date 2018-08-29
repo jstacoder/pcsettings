@@ -375,6 +375,7 @@
         <mark key="^" line="57" column="4" />
         <mark key="." line="56" column="4" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-native/Libraries/BatchedBridge/NativeModules.js" timestamp="1535565807336" />
       <file name="$USER_HOME$/git/casepeer-app/src/components/Form.js" timestamp="1517617631755">
         <mark key="[" line="66" column="43" />
         <mark key="]" line="66" column="42" />
@@ -1079,13 +1080,6 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" timestamp="1535136477043">
-        <mark key="'" line="41" column="8" />
-        <mark key="[" line="34" column="49" />
-        <mark key="]" line="46" column="30" />
-        <mark key="^" line="46" column="30" />
-        <mark key="." line="46" column="30" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" timestamp="1535387293335">
         <mark key="'" line="14" column="1" />
         <mark key="[" line="12" column="0" />
@@ -1722,11 +1716,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/CaseView.js" timestamp="1535565429476">
-        <mark key="[" line="137" column="37" />
-        <mark key="]" line="137" column="19" />
-        <mark key="." line="137" column="19" />
-        <mark key="^" line="137" column="19" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/CaseView.js" timestamp="1535566069894">
+        <mark key="[" line="133" column="1" />
+        <mark key="]" line="141" column="28" />
+        <mark key="." line="141" column="28" />
+        <mark key="^" line="141" column="28" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/create_form_entry_ajax.html" timestamp="1525473515574">
         <mark key="[" line="0" column="0" />
