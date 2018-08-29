@@ -1722,11 +1722,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/CaseView.js" timestamp="1534887734412">
-        <mark key="[" line="589" column="15" />
-        <mark key="]" line="595" column="10" />
-        <mark key="." line="595" column="10" />
-        <mark key="^" line="595" column="10" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/CaseView.js" timestamp="1535565429476">
+        <mark key="[" line="137" column="37" />
+        <mark key="]" line="137" column="19" />
+        <mark key="." line="137" column="19" />
+        <mark key="^" line="137" column="19" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/create_form_entry_ajax.html" timestamp="1525473515574">
         <mark key="[" line="0" column="0" />
@@ -2385,8 +2385,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYWRkcmVzc2VzW2luZGV4XSkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2410,7 +2410,7 @@
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15ob29rJCcsIGhhbmRsZV93ZWJob29rLCBuYW1lPSdxYl9ob29rJykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYWRkcmVzc2VzW2luZGV4XSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEFjY291bnRCYXNlZEV4cGVuc2VMaW5lLCBBY2NvdW50QmFzZWRFeHBlbnNlTGluZURldGFpbCwK</text>
