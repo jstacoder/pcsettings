@@ -294,12 +294,12 @@
         <mark key="." line="95" column="30" />
         <mark key="^" line="95" column="30" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/navigators/DetailDrawer.js" timestamp="1535589029430">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="27" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/DetailDrawer.js" timestamp="1535590834207">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+        <mark key="." line="15" column="25" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/calendar_rules.py" timestamp="1534542871630">
         <mark key="[" line="1461" column="5" />
@@ -2371,8 +2371,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdlc3R1cmVzRW5hYmxlZDogZmFsc2UsCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2390,7 +2390,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
