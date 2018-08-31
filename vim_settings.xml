@@ -333,12 +333,12 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/tests.js" timestamp="1535744337058">
-        <mark key="'" line="14" column="28" />
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="14" column="28" />
-        <mark key="^" line="14" column="28" />
-        <mark key="." line="14" column="28" />
+      <file name="$USER_HOME$/git/casepeer-app/src/tests.js" timestamp="1535751046576">
+        <mark key="'" line="8" column="10" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="22" column="26" />
+        <mark key="^" line="22" column="26" />
+        <mark key="." line="22" column="26" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/_60DayLetterSpanish_NewName.py" timestamp="1526000017685">
         <mark key="[" line="8" column="1" />
@@ -1825,12 +1825,12 @@
         <mark key="." line="33" column="55" />
         <mark key="^" line="33" column="55" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/utils/constants.js" timestamp="1535480360527">
+      <file name="$USER_HOME$/git/casepeer-app/src/utils/constants.js" timestamp="1535749838715">
         <mark key="'" line="7" column="22" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="7" column="22" />
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="8" column="62" />
+        <mark key="." line="8" column="62" />
+        <mark key="^" line="8" column="62" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/add_folder.html" timestamp="1532716287344">
         <mark key="[" line="64" column="4" />
@@ -2284,10 +2284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="0" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
-      <jump line="8" column="6" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
-      <jump line="66" column="46" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
-      <jump line="149" column="58" filename="$USER_HOME$/git/casepeer-app/src/actions/queries.js" />
       <jump line="62" column="37" filename="$USER_HOME$/git/casepeer-app/src/components/Toast.js" />
       <jump line="107" column="37" filename="$USER_HOME$/git/casepeer-app/src/components/Toast.js" />
       <jump line="40" column="25" filename="$USER_HOME$/git/casepeer-app/src/navigators/Navigator.js" />
@@ -2384,13 +2380,17 @@
       <jump line="38" column="27" filename="$USER_HOME$/git/casepeer-app/gulpfile.babel.js" />
       <jump line="70" column="2" filename="$USER_HOME$/git/casepeer-app/gulpfile.babel.js" />
       <jump line="14" column="28" filename="$USER_HOME$/git/casepeer-app/src/tests.js" />
+      <jump line="19" column="29" filename="$USER_HOME$/git/casepeer-app/src/tests.js" />
+      <jump line="24" column="10" filename="$USER_HOME$/git/casepeer-app/src/tests.js" />
+      <jump line="27" column="2" filename="$USER_HOME$/git/casepeer-app/src/tests.js" />
+      <jump line="7" column="10" filename="$USER_HOME$/git/casepeer-app/src/tests.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAucGlwZShwcm9jZXNzLnN0ZG91dCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgZmV0Y2hDYXNlIH0gZnJvbSAnLi9hY3Rpb25zL2Nhc2UnCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2417,37 +2417,37 @@
         <text encoding="base64">ICAgIC5waXBlKGJ1ZmZlcigpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAucGlwZShwcm9jZXNzLnN0ZG91dCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgZmV0Y2hDYXNlIH0gZnJvbSAnLi9hY3Rpb25zL2Nhc2UnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAub24oJ2Vycm9yJywgZXJyPT57CiAgICAgICAgICBjb25zb2xlLmxvZyhgZXJvcjogJHtlcnJ9YCkKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAucGlwZShwcm9jZXNzLnN0ZG91dCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAudHJhbnNmb3JtKGFsaWFzaWZ5LCBhbGlhc0NvbmZpZykK</text>
+        <text encoding="base64">ICAgICAgICAub24oJ2Vycm9yJywgZXJyPT57CiAgICAgICAgICBjb25zb2xlLmxvZyhgZXJvcjogJHtlcnJ9YCkKICAgICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5waXBlKGJ1ZmZlcigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAudHJhbnNmb3JtKGFsaWFzaWZ5LCBhbGlhc0NvbmZpZykK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIC5waXBlKGJ1ZmZlcigpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlbmFtZSwgdHlwZW9mIGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">ICAgIC5waXBlKGJ1ZmZlcigpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1bmRsZXIuYWRkKCcuL3NyYy90ZXN0cy5qcycpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlbmFtZSwgdHlwZW9mIGZpbGVuYW1lKQo=</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB1cGRhdGVzIGFuZCBmaXhzIGZvciByZWFjdC1uYXZpZ2F0aW9uIDIuMAo=</text>
+        <text encoding="base64">ICAgIGJ1bmRsZXIuYWRkKCcuL3NyYy90ZXN0cy5qcycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiB1cGRhdGVzIGFuZCBmaXhzIGZvciByZWFjdC1uYXZpZ2F0aW9uIDIuMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
