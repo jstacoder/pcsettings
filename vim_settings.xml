@@ -333,11 +333,12 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/tests.js" timestamp="1526949448526">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="0" column="29" />
+      <file name="$USER_HOME$/git/casepeer-app/src/tests.js" timestamp="1535744337058">
+        <mark key="'" line="14" column="28" />
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="14" column="28" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/_60DayLetterSpanish_NewName.py" timestamp="1526000017685">
         <mark key="[" line="8" column="1" />
@@ -519,6 +520,13 @@
         <mark key="]" line="10" column="19" />
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" timestamp="1535136477043">
+        <mark key="'" line="41" column="8" />
+        <mark key="[" line="34" column="49" />
+        <mark key="]" line="46" column="30" />
+        <mark key="^" line="46" column="30" />
+        <mark key="." line="46" column="30" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_settlement.py" timestamp="1525998342817">
         <mark key="[" line="1786" column="13" />
@@ -906,11 +914,12 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/gulpfile.babel.js" timestamp="1535742510665">
-        <mark key="'" line="70" column="2" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="37" column="4" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/gulpfile.babel.js" timestamp="1535744183610">
+        <mark key="'" line="74" column="2" />
+        <mark key="[" line="47" column="30" />
+        <mark key="]" line="48" column="17" />
+        <mark key="." line="48" column="17" />
+        <mark key="^" line="48" column="17" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/case/tasks/task_completion_note.html" timestamp="1527110229174">
         <mark key="[" line="16" column="71" />
@@ -2275,7 +2284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="0" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
       <jump line="300" column="0" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
       <jump line="8" column="6" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
       <jump line="66" column="46" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
@@ -2375,13 +2383,14 @@
       <jump line="32" column="0" filename="$USER_HOME$/git/casepeer-app/gulpfile.babel.js" />
       <jump line="38" column="27" filename="$USER_HOME$/git/casepeer-app/gulpfile.babel.js" />
       <jump line="70" column="2" filename="$USER_HOME$/git/casepeer-app/gulpfile.babel.js" />
+      <jump line="14" column="28" filename="$USER_HOME$/git/casepeer-app/src/tests.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAub24oJ2Vycm9yJywgZXJyPT57CiAgICAgICAgICBjb25zb2xlLmxvZyhgZXJvcjogJHtlcnJ9YCkKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAucGlwZShwcm9jZXNzLnN0ZG91dCkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2408,37 +2417,37 @@
         <text encoding="base64">ICAgIC5waXBlKGJ1ZmZlcigpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAub24oJ2Vycm9yJywgZXJyPT57CiAgICAgICAgICBjb25zb2xlLmxvZyhgZXJvcjogJHtlcnJ9YCkKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAucGlwZShwcm9jZXNzLnN0ZG91dCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAudHJhbnNmb3JtKGFsaWFzaWZ5LCBhbGlhc0NvbmZpZykK</text>
+        <text encoding="base64">ICAgICAgICAub24oJ2Vycm9yJywgZXJyPT57CiAgICAgICAgICBjb25zb2xlLmxvZyhgZXJvcjogJHtlcnJ9YCkKICAgICAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5waXBlKGJ1ZmZlcigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAudHJhbnNmb3JtKGFsaWFzaWZ5LCBhbGlhc0NvbmZpZykK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIC5waXBlKGJ1ZmZlcigpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlbmFtZSwgdHlwZW9mIGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">ICAgIC5waXBlKGJ1ZmZlcigpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ1bmRsZXIuYWRkKCcuL3NyYy90ZXN0cy5qcycpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlbmFtZSwgdHlwZW9mIGZpbGVuYW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB1cGRhdGVzIGFuZCBmaXhzIGZvciByZWFjdC1uYXZpZ2F0aW9uIDIuMAo=</text>
+        <text encoding="base64">ICAgIGJ1bmRsZXIuYWRkKCcuL3NyYy90ZXN0cy5qcycpCg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiB1cGRhdGVzIGFuZCBmaXhzIGZvciByZWFjdC1uYXZpZ2F0aW9uIDIuMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2488,7 +2497,6 @@
         <entry>ws</entry>
         <entry>e</entry>
         <entry>w]</entry>
-        <entry>Lw</entry>
         <entry>:w</entry>
         <entry>a</entry>
         <entry>sw</entry>
@@ -2496,6 +2504,7 @@
         <entry>d</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
