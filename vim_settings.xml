@@ -954,11 +954,12 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="85" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1536174890787">
-        <mark key="'" line="166" column="6" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Home.js" timestamp="1536181208866">
+        <mark key="'" line="171" column="6" />
+        <mark key="[" line="135" column="22" />
+        <mark key="]" line="136" column="24" />
+        <mark key="." line="136" column="24" />
+        <mark key="^" line="136" column="24" />
       </file>
       <file name="$USER_HOME$/git/casepeer/node_modules/react-treebeard/lib/themes/default.js" timestamp="1513880427017">
         <mark key="[" line="12" column="10" />
@@ -2231,12 +2232,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/recentCases.js" timestamp="1536175020400">
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/recentCases.js" timestamp="1536181510813">
         <mark key="'" line="8" column="56" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="70" column="45" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="57" column="32" />
+        <mark key="]" line="71" column="13" />
+        <mark key="^" line="71" column="13" />
+        <mark key="." line="71" column="13" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/BillingRequest.py" timestamp="1526000466804">
         <mark key="[" line="5" column="6" />
@@ -2454,7 +2455,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goc2V0TG9hZGluZ1JlY2VudENhc2VzKHRydWUpKQo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmF1dGguY2FzZXdvcmtlci5pZCAmJiAhdGhpcy5wcm9wcy5hdXRoLmNhc2V3b3JrZXIubG9hZGluZy5yZWNlbnRDYXNlcykgewo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2472,46 +2473,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>U</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMYXlvdXRBbmltYXRpb24uY29uZmlndXJlTmV4dChMYXlvdXRBbmltYXRpb24uUHJlc2V0cy5lYXNlSW5FYXNlT3V0KQo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmF1dGguY2FzZXdvcmtlci5pZCAmJiAhdGhpcy5wcm9wcy5hdXRoLmNhc2V3b3JrZXIubG9hZGluZy5yZWNlbnRDYXNlcykgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goc2V0TG9hZGluZ1JlY2VudENhc2VzKHRydWUpKQo=</text>
+        <text encoding="base64">ICAgICAgfSwgMjUwMCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSwgMjUwMCkK</text>
+        <text encoding="base64">ICAgICAgc2V0VGltZW91dCggYXN5bmMgKCk9PiB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2V0VGltZW91dChhc3luYyAoKT0+IHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmF1dGguY2FzZXdvcmtlci5pZCAmJiAhdGhpcy5wcm9wcy5hdXRoLmNhc2V3b3JrZXIubG9hZGluZy5yZWNlbnRDYXNlcykgewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5hY3Rpb25zLnNldExvYWRpbmdSZWNlbnRDYXNlcygpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2goc2V0TG9hZGluZ1JlY2VudENhc2VzKHRydWUpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfSwgMjUwMCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgc2V0VGltZW91dChhc3luYyAoKT0+IHsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5uYXZpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmF1dGguY2FzZXdvcmtlci5pZCAmJiAhdGhpcy5wcm9wcy5hdXRoLmNhc2V3b3JrZXIubG9hZGluZy5yZWNlbnRDYXNlcykgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWN0aW9ucy51cGRhdGVTZWFyY2hUZXh0KCcnKQogICAgCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5hY3Rpb25zLnNldExvYWRpbmdSZWNlbnRDYXNlcygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
