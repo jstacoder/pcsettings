@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/casepeer-app/start_app.py" timestamp="1535480529788">
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="12" column="37" />
-        <mark key="^" line="12" column="60" />
-        <mark key="." line="12" column="37" />
+      <file name="$USER_HOME$/git/casepeer-app/start_app.py" timestamp="1536275351863">
+        <mark key="'" line="13" column="38" />
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="40" />
+        <mark key="^" line="13" column="40" />
+        <mark key="." line="13" column="40" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/test.html" timestamp="1505756564327">
         <mark key="[" line="2" column="24" />
@@ -464,6 +465,12 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/App.js" timestamp="1536276305120">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/compose/requirements/daphne.txt" timestamp="1528838163011">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="14" />
@@ -831,11 +838,11 @@
         <mark key="^" line="126" column="78" />
         <mark key="." line="126" column="78" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/package.json" timestamp="1536269216098">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+      <file name="$USER_HOME$/git/casepeer-app/package.json" timestamp="1536275534791">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/caseId.js" timestamp="1532477169847">
         <mark key="[" line="7" column="33" />
@@ -965,11 +972,10 @@
         <mark key="^" line="177" column="3" />
         <mark key="." line="195" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/app.json" timestamp="1536269209093">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="30" column="27" />
-        <mark key="^" line="30" column="27" />
-        <mark key="." line="30" column="27" />
+      <file name="$USER_HOME$/git/casepeer-app/app.json" timestamp="1536275376688">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/uploader/views.py" timestamp="1530911267293">
         <mark key="[" line="664" column="76" />
@@ -2041,11 +2047,11 @@
         <mark key="^" line="54" column="11" />
         <mark key="." line="54" column="11" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/addBackButton.js" timestamp="1536274247390">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="30" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/addBackButton.js" timestamp="1536276929029">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="14" column="55" />
+        <mark key="^" line="14" column="55" />
+        <mark key="." line="14" column="55" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-2045940410/-183260405/graphene_django_extras/types.py" timestamp="1521496661856">
         <mark key="[" line="167" column="0" />
@@ -2374,7 +2380,6 @@
       <jump line="23" column="67" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
       <jump line="27" column="4" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
       <jump line="34" column="8" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
-      <jump line="13" column="13" filename="$USER_HOME$/git/casepeer-app/start_app.py" />
       <jump line="7" column="22" filename="$USER_HOME$/git/casepeer-app/src/utils/constants.js" />
       <jump line="17" column="4" filename="$USER_HOME$/git/casepeer-app/src/navigators/DetailDrawer.js" />
       <jump line="32" column="0" filename="$USER_HOME$/git/casepeer-app/gulpfile.babel.js" />
@@ -2411,13 +2416,14 @@
       <jump line="57" column="27" filename="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" />
       <jump line="239" column="25" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
       <jump line="249" column="0" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
+      <jump line="13" column="38" filename="$USER_HOME$/git/casepeer-app/start_app.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2luIHdpbGwgZm9jdXMnKQo=</text>
+        <text encoding="base64">RXhwby5yZWdpc3RlclJvb3RDb21wb25lbnQoQXBwKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2435,46 +2441,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2luIHdpbGwgZm9jdXMnKQo=</text>
+        <text encoding="base64">ICAgIC8vICAgICB0aGlzLnByb3BzLmFjdGlvbnMuc2V0SGVhZGVyTGVmdENvbXBvbmVudChIRUFERVJfQ09NUE9ORU5UX05BTUVTLkJBQ0spCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">RXhwby5yZWdpc3RlclJvb3RDb21wb25lbnQoQXBwKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5saXN0ZW5lcnMuZm9yRWFjaChsaXN0ZW5lciA9PiBsaXN0ZW5lci5yZW1vdmUoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxVbm1vdW50KCl7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEV4cG8gZnJvbSAnZXhwbycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8L1JlYWN0LkZyYWdtZW50PiovfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICB7LyovPiovfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24uYWRkTGlzdGVuZXIoJ3dpbGxCbHVyJywgdGhpcy53aWxsQmx1ci5iaW5kKHRoaXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKm9uRGlkQmx1cj17dGhpcy5kaWRCbHVyLmJpbmQodGhpcyl9Ki99Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24uYWRkTGlzdGVuZXIoJ2RpZEZvY3VzJyx0aGlzLmRpZEZvY3VzLmJpbmQodGhpcykpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKm9uV2lsbEZvY3VzPXt0aGlzLndpbGxGb2N1cy5iaW5kKHRoaXMpfSovfQo=</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5saXN0ZW5lcnMgPSBbCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKm9uV2lsbEJsdXI9e3RoaXMud2lsbEJsdXIuYmluZCh0aGlzKX0qL30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxNb3VudCgpewo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKm9uRGlkRm9jdXM9e3RoaXMuZGlkRm9jdXMuYmluZCh0aGlzKX0qL30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2521,7 +2527,6 @@
         <entry>Pw</entry>
         <entry>ws</entry>
         <entry>w]</entry>
-        <entry>:w</entry>
         <entry>a</entry>
         <entry>sw</entry>
         <entry>d</entry>
@@ -2532,6 +2537,7 @@
         <entry>ew</entry>
         <entry>w'</entry>
         <entry>w\</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
