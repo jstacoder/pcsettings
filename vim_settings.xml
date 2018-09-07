@@ -2047,11 +2047,11 @@
         <mark key="^" line="54" column="11" />
         <mark key="." line="54" column="11" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/addBackButton.js" timestamp="1536276929029">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="14" column="55" />
-        <mark key="^" line="14" column="55" />
-        <mark key="." line="14" column="55" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/addBackButton.js" timestamp="1536279043341">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="31" />
+        <mark key="." line="30" column="31" />
+        <mark key="^" line="30" column="31" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-2045940410/-183260405/graphene_django_extras/types.py" timestamp="1521496661856">
         <mark key="[" line="167" column="0" />
@@ -2422,8 +2422,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RXhwby5yZWdpc3RlclJvb3RDb21wb25lbnQoQXBwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2441,46 +2441,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vICAgICB0aGlzLnByb3BzLmFjdGlvbnMuc2V0SGVhZGVyTGVmdENvbXBvbmVudChIRUFERVJfQ09NUE9ORU5UX05BTUVTLkJBQ0spCg==</text>
+      <register name="0" type="4">
+        <text>nextProps.navigation.state.key)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RXhwby5yZWdpc3RlclJvb3RDb21wb25lbnQoQXBwKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEV4cG8gZnJvbSAnZXhwbycK</text>
+        <text encoding="base64">ICAgIGdldFNuYXBzaG90QmVmb3JlVXBkYXRlKCl7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8L1JlYWN0LkZyYWdtZW50PiovfQo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyB2aWV3cyA9IG5ldyBNYXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7LyovPiovfQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy52aWV3cy5zZXQodGhpcy5wcm9wcy5uYXZpZ2F0aW9uLnN0YXRlLnJvdXRlTmFtZSwgdGhpdSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKm9uRGlkQmx1cj17dGhpcy5kaWRCbHVyLmJpbmQodGhpcyl9Ki99Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKm9uV2lsbEZvY3VzPXt0aGlzLndpbGxGb2N1cy5iaW5kKHRoaXMpfSovfQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy52aWV3cyA9IHt9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKm9uV2lsbEJsdXI9e3RoaXMud2lsbEJsdXIuYmluZCh0aGlzKX0qL30K</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudERpZE1vdW50KCl7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKm9uRGlkRm9jdXM9e3RoaXMuZGlkRm9jdXMuYmluZCh0aGlzKX0qL30K</text>
+        <text encoding="base64">RXhwby5yZWdpc3RlclJvb3RDb21wb25lbnQoQXBwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
