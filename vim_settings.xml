@@ -422,12 +422,12 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Notifications.js" timestamp="1536344108694">
-        <mark key="'" line="109" column="30" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="109" column="30" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Notifications.js" timestamp="1536345217601">
+        <mark key="'" line="111" column="30" />
+        <mark key="[" line="58" column="27" />
+        <mark key="]" line="59" column="4" />
+        <mark key="^" line="59" column="4" />
+        <mark key="." line="59" column="4" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/SpanishWelcomeLetter.py" timestamp="1525999579392">
         <mark key="[" line="12" column="42" />
@@ -2402,7 +2402,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9wcy5ub3RpZmljYXRpb24ubm90aWZpY2F0aW9ucy5sZW5ndGgpIHsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2426,7 +2426,7 @@
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmFjdGlvbnMuc2V0SGVhZGVyTGVmdENvbXBvbmVudChIRUFERVJfQ09NUE9ORU5UX05BTUVTLkhBTUJVUkdFUikK</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9wcy5ub3RpZmljYXRpb24ubm90aWZpY2F0aW9ucy5sZW5ndGgpIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
