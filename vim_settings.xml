@@ -131,11 +131,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" timestamp="1536184662092">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="16" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" timestamp="1536345936222">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="45" column="0" />
         <mark key="^" line="11" column="16" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/icons/Search.js" timestamp="1534870756504">
         <mark key="[" line="20" column="46" />
@@ -2402,7 +2402,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9wcy5ub3RpZmljYXRpb24ubm90aWZpY2F0aW9ucy5sZW5ndGgpIHsK</text>
+        <text encoding="base64">CiAgZ2V0RGF0YVNvdXJjZSA9ICgpID0+IHsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2429,37 +2429,37 @@
         <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9wcy5ub3RpZmljYXRpb24ubm90aWZpY2F0aW9ucy5sZW5ndGgpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">CiAgZ2V0RGF0YVNvdXJjZSA9ICgpID0+IHsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfWVsc2Ugewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYodGhpcy5wcm9wcy5pc0ZvY3VzZWQpewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2V0TWVzc2FnZXMoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmFjdGlvbnMuc2V0SGVhZGVyTGVmdENvbXBvbmVudChIRUFERVJfQ09NUE9ORU5UX05BTUVTLkhBTUJVUkdFUikK</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgfWVsc2Ugewo=</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmFjdGlvbnMuc2V0SGVhZGVyTGVmdENvbXBvbmVudChIRUFERVJfQ09NUE9ORU5UX05BTUVTLkJBQ0spCg==</text>
+        <text encoding="base64">ICAgICAgaWYodGhpcy5wcm9wcy5pc0ZvY3VzZWQpewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFNldCh2aWV3cy5rZXlzKCkpLmZvckVhY2goa2V5ID0+IHsKICAgICAgICB2aWV3cy5zZXQoa2V5LCBmYWxzZSkKICAgICAgfSkKICAgICAgdmlld3Muc2V0KHRoaXMubmFtZSwgdGhpcy5wcm9wcy5pc0ZvY3VzZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
