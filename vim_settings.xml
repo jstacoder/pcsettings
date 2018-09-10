@@ -252,7 +252,7 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1536599784861">
+      <file name="/GraphQL.result.json" timestamp="1536600751588">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/evently/models.py" timestamp="1534981851205">
@@ -645,6 +645,9 @@
         <mark key="]" line="52" column="15" />
         <mark key="^" line="52" column="15" />
         <mark key="." line="52" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/q.graphql" timestamp="1536600848884">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/web/webpack.config.js" timestamp="1536100902692">
         <mark key="'" line="20" column="49" />
@@ -1370,6 +1373,9 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
+      <file name="/GraphQL.variables.json" timestamp="1536600845774">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/focus/case.js" timestamp="1520538103796">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="0" />
@@ -1439,6 +1445,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/graphql.config.json" timestamp="1536600812534">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="10" column="48" />
+        <mark key="^" line="10" column="48" />
+        <mark key="." line="10" column="48" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/apps.py" timestamp="1512511103566">
         <mark key="[" line="0" column="0" />
@@ -2195,7 +2207,7 @@
         <mark key="^" line="11" column="81" />
         <mark key="." line="11" column="81" />
       </file>
-      <file name="/Django Console" timestamp="1529432593862">
+      <file name="/Django Console" timestamp="1536600914766">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -2416,8 +2428,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goc2V0TG9hZGluZyhmYWxzZSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2444,37 +2456,50 @@
         <text encoding="base64">ICAgICAgZGlzcGF0Y2goc2V0TG9hZGluZyhmYWxzZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text>&quot;README_request&quot;: &quot;To request the schema from a url instead, remove the 'file' JSON property above (and optionally delete the default graphql.schema.json file).&quot;,
+    &quot;request&quot;: {
+      &quot;url&quot;: &quot;http://--graphql-server--/path-to-schema-json-or-introspection-endpoint&quot;,
+      &quot;method&quot;: &quot;POST&quot;,
+      &quot;README_postIntrospectionQuery&quot;: &quot;Whether to POST an introspectionQuery to the url. If the url always returns the schema JSON, set to false and consider using GET&quot;,
+      &quot;postIntrospectionQuery&quot;: true,
+      &quot;README_options&quot;: &quot;See the 'Options' section at https://github.com/then/then-request&quot;,
+      &quot;options&quot;: {
+        &quot;headers&quot;: {
+          &quot;user-agent&quot;: &quot;JS GraphQL&quot;
+        }
+      }
+    }
+  },</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvawo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGlzbWlzcyhub3RpZmljYXRpb25JZDogJG5vdGlmaWNhdGlvbklkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG11dGF0aW9uIGRpc21pc3NOb3RpZmljYXRpb24oJG5vdGlmaWNhdGlvbklkOiBJbnQhKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5ID0gYAo=</text>
+        <text encoding="base64">ICAgICAgZGlzbWlzcyhub3RpZmljYXRpb25JZDogJG5vdGlmaWNhdGlvbklkKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICAgIG11dGF0aW9uIGRpc21pc3NOb3RpZmljYXRpb24oJG5vdGlmaWNhdGlvbklkOiBJbnQhKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBgCg==</text>
+        <text encoding="base64">ICAgIHF1ZXJ5ID0gYAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
