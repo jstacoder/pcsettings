@@ -364,11 +364,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1536685717899">
-        <mark key="[" line="2984" column="26" />
-        <mark key="]" line="2984" column="41" />
-        <mark key="^" line="2984" column="41" />
-        <mark key="." line="2984" column="41" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1536686872001">
+        <mark key="[" line="2981" column="21" />
+        <mark key="]" line="2988" column="31" />
+        <mark key="." line="2988" column="31" />
+        <mark key="^" line="2988" column="31" />
       </file>
       <file name="$USER_HOME$/git/casepeer/custom_fobi_plugins/fields/casepeer_address_input/base.py" timestamp="1525881908409">
         <mark key="[" line="1" column="53" />
@@ -2801,7 +2801,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjYXNlcGVlci5jcHFiLmNwX3F1aWNrYm9va3MgaW1wb3J0IENwUXVpY2tCb29rcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jYXNlLmNhc2Vub3RlX3NldC5jcmVhdGUoCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2828,7 +2828,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3RlPW5vdGUgKyAnJHthbW91bnQ6LC4yZn0gY29zdCB0byB7cGF5ZWV9LicuZm9ybWF0KGFtb3VudD1yZXN1bHQuYW1vdW50LCBwYXllZT1wYXllZSksCiAgICAgICAgICAgICAgICAgICAgY3JlYXRlZGJ5PWdldF9jYXNld29ya2VyKHJlcXVlc3QudXNlciksCiAgICAgICAgICAgICAgICAgICAgY2FzZWNhdGVnb3J5PSdhdXRvX25vdGUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjYXNlcGVlci5jcHFiLmNwX3F1aWNrYm9va3MgaW1wb3J0IENwUXVpY2tCb29rcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jYXNlLmNhc2Vub3RlX3NldC5jcmVhdGUoCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2838,44 +2838,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjYXNlcGVlci5jcHFiLm1vZGVscyBpbXBvcnQgUUJPQXV0aGVudGljYXRpb24K</text>
+        <text encoding="base64">ZnJvbSBjYXNlcGVlci5jcHFiLmNwX3F1aWNrYm9va3MgaW1wb3J0IENwUXVpY2tCb29rcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcGF5X2Nvc3Qoc2VsZiwgY3cpOgogICAgICAgICAgICB0aGVfdGltZSA9IHRpbWV6b25lLmxvY2FsdGltZSh0aW1lem9uZS5ub3coKSkK</text>
+        <text encoding="base64">ZnJvbSBjYXNlcGVlci5jcHFiLm1vZGVscyBpbXBvcnQgUUJPQXV0aGVudGljYXRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcyBDb3N0KG9iamVjdCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcGF5X2Nvc3Qoc2VsZiwgY3cpOgogICAgICAgICAgICB0aGVfdGltZSA9IHRpbWV6b25lLmxvY2FsdGltZSh0aW1lem9uZS5ub3coKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcyBDb3N0KG9iamVjdCk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGRqYW5nby51dGlscyBpbXBvcnQgdGltZXpvbmUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGRqYW5nby51dGlscyBpbXBvcnQgdGltZXpvbmUK</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;README_request&quot;: &quot;To request the schema from a url instead, remove the 'file' JSON property above (and optionally delete the default graphql.schema.json file).&quot;,
-    &quot;request&quot;: {
-      &quot;url&quot;: &quot;http://--graphql-server--/path-to-schema-json-or-introspection-endpoint&quot;,
-      &quot;method&quot;: &quot;POST&quot;,
-      &quot;README_postIntrospectionQuery&quot;: &quot;Whether to POST an introspectionQuery to the url. If the url always returns the schema JSON, set to false and consider using GET&quot;,
-      &quot;postIntrospectionQuery&quot;: true,
-      &quot;README_options&quot;: &quot;See the 'Options' section at https://github.com/then/then-request&quot;,
-      &quot;options&quot;: {
-        &quot;headers&quot;: {
-          &quot;user-agent&quot;: &quot;JS GraphQL&quot;
-        }
-      }
-    }
-  },</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
