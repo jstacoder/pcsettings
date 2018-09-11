@@ -364,11 +364,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1536689789366">
-        <mark key="[" line="2982" column="32" />
-        <mark key="]" line="2983" column="30" />
-        <mark key="." line="2983" column="30" />
-        <mark key="^" line="2983" column="30" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1536693650527">
+        <mark key="[" line="2887" column="19" />
+        <mark key="]" line="2888" column="26" />
+        <mark key="." line="2888" column="26" />
+        <mark key="^" line="2888" column="26" />
       </file>
       <file name="$USER_HOME$/git/casepeer/custom_fobi_plugins/fields/casepeer_address_input/base.py" timestamp="1525881908409">
         <mark key="[" line="1" column="53" />
