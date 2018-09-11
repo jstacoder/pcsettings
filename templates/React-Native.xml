@@ -1,0 +1,37 @@
+<templateSet group="React-Native">
+  <template name="imr" value="import React from 'react'" description="import react" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="imrc" value="import React, { Component } from 'react'" description="import react and component" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="imrp" value="import React, { PureComponent } from 'react'" description="import react and PureComponent" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="styl" value="const $NewCompName$ = styled($SELECTION$)`&#10;  $styles$&#10;`" description="styleize component" toReformat="false" toShortenFQNames="true">
+    <variable name="NewCompName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="styles" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="expcomp" value="export default class $ComponentName$ extends React.Component {&#10;  render(){&#10;    return (&#10;      $JSX$&#10;    )&#10;  }&#10;}" description="export a component" toReformat="false" toShortenFQNames="true">
+    <variable name="ComponentName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="JSX" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rnpage" value="import React, { Component } from 'react'&#10;import { &#10;  Container, Content, Body, &#10;  Left, Right, Header, &#10;  Footer, List, Text &#10;} from 'native-base'&#10;import { Grid, Row, Col } from 'react-native-easy-grid'&#10;&#10;export default class $ClassName$ extends Component {&#10;  render(){&#10;    return (&#10;      &lt;Container&gt;&#10;        &lt;Header&gt;&#10;          &lt;Left&gt;&lt;Text&gt;Left&lt;/Text&gt;&lt;/Left&gt;&#10;          &lt;Body&gt;&lt;Text&gt;Body&lt;/Text&gt;&lt;/Body&gt;&#10;          &lt;Right&gt;&lt;Text&gt;Right&lt;/Text&gt;&lt;/Right&gt;&#10;        &lt;/Header&gt;&#10;        &lt;Content&gt;&#10;          &lt;Grid&gt;&#10;            &lt;Row&gt;&lt;/Row&gt;&#10;            &lt;Col&gt;&lt;/Col&gt;&#10;          &lt;/Grid&gt;          &#10;        &lt;/Content&gt;&#10;        &lt;Footer&gt;&lt;Row&gt;&lt;Text&gt;footer&lt;/Text&gt;&lt;/Row&gt;&lt;/Footer&gt;&#10;      &lt;/Container&gt;&#10;    )&#10;  }&#10;}" description="basic react native page" toReformat="false" toShortenFQNames="true">
+    <variable name="ClassName" expression="capitalize(String)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
