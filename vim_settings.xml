@@ -364,11 +364,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1536625367348">
-        <mark key="[" line="2979" column="17" />
-        <mark key="]" line="2979" column="25" />
-        <mark key="^" line="2979" column="25" />
-        <mark key="." line="2979" column="25" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1536685717899">
+        <mark key="[" line="2984" column="26" />
+        <mark key="]" line="2984" column="41" />
+        <mark key="^" line="2984" column="41" />
+        <mark key="." line="2984" column="41" />
       </file>
       <file name="$USER_HOME$/git/casepeer/custom_fobi_plugins/fields/casepeer_address_input/base.py" timestamp="1525881908409">
         <mark key="[" line="1" column="53" />
@@ -549,12 +549,12 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" timestamp="1536626824795">
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" timestamp="1536685348113">
         <mark key="'" line="27" column="76" />
-        <mark key="[" line="27" column="72" />
-        <mark key="]" line="27" column="76" />
-        <mark key="." line="27" column="76" />
-        <mark key="^" line="27" column="76" />
+        <mark key="[" line="23" column="67" />
+        <mark key="]" line="23" column="82" />
+        <mark key="." line="23" column="82" />
+        <mark key="^" line="23" column="82" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_settlement.py" timestamp="1525998342817">
         <mark key="[" line="1786" column="13" />
@@ -1998,11 +1998,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/views.py" timestamp="1536625847907">
-        <mark key="[" line="82" column="68" />
-        <mark key="]" line="82" column="42" />
-        <mark key="^" line="82" column="42" />
-        <mark key="." line="82" column="42" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/views.py" timestamp="1536684641774">
+        <mark key="[" line="83" column="47" />
+        <mark key="]" line="83" column="3" />
+        <mark key="^" line="83" column="3" />
+        <mark key="." line="83" column="3" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/safe/fullcalendar-2.8.0/fullcalendar.css" timestamp="1511286379571">
         <mark key="[" line="1313" column="11" />
