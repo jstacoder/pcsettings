@@ -508,11 +508,11 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" timestamp="1536781397895">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="18" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="57" column="23" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" timestamp="1536787069326">
+        <mark key="[" line="54" column="29" />
+        <mark key="]" line="54" column="30" />
+        <mark key="." line="54" column="30" />
+        <mark key="^" line="54" column="30" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_settlement.py" timestamp="1536771605577">
         <mark key="[" line="1786" column="13" />
@@ -2589,8 +2589,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dldCcsCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2608,7 +2608,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>dispatch</text>
