@@ -508,11 +508,11 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" timestamp="1536787069326">
-        <mark key="[" line="54" column="29" />
-        <mark key="]" line="54" column="30" />
-        <mark key="." line="54" column="30" />
-        <mark key="^" line="54" column="30" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" timestamp="1536790263430">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="1" column="28" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_settlement.py" timestamp="1536771605577">
         <mark key="[" line="1786" column="13" />
@@ -2589,8 +2589,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2608,7 +2608,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>dispatch</text>
@@ -2617,7 +2617,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc2V0YXR0cihxYl9vYmplY3QsIG1ldGhvZF9uYW1lLCBfaW5qZWN0ZWRfbWV0aG9kKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dldCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2627,22 +2627,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0eXBlcyBpbXBvcnQgTWV0aG9kVHlwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIHdyYXBwZXIoZik6CiAgICAgICAgICAgICAgICBkZWYgaW5uZXIoKmEsICoqayk6CiAgICAgICAgICAgICAgICAgICAga1sncWInXSA9IHNlbGYKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZigqYSwgKiprKQogICAgICAgICAgICAgICAgcmV0dXJuIGlubmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dldCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBpbmplY3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NhdmUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RlbGV0ZScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
@@ -2651,7 +2651,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcWI9c2VsZi5xYl9jbGllbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgcmV0dXJuIF9pbmplY3RlZF9tZXRob2Qoc2VsZiwgKmFyZ3MsICoqa3dhcmdzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
