@@ -829,6 +829,13 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/compose/django/Dockerfile-hack" timestamp="1537229235431">
+        <mark key="'" line="38" column="25" />
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="38" column="15" />
+        <mark key="." line="38" column="15" />
+        <mark key="^" line="38" column="15" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/Button.js" timestamp="1534268524656">
         <mark key="[" line="98" column="16" />
         <mark key="]" line="104" column="19" />
@@ -2353,7 +2360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="23" filename="$USER_HOME$/git/casepeer-app/src/navigators/Navigator.js" />
       <jump line="66" column="12" filename="$USER_HOME$/git/casepeer-app/src/components/CPTabBar.js" />
       <jump line="22" column="35" filename="$USER_HOME$/git/casepeer-app/src/screens/Login.js" />
       <jump line="14" column="23" filename="$USER_HOME$/git/casepeer-app/src/navigators/AppDrawer.js" />
@@ -2453,6 +2459,7 @@
       <jump line="37" column="28" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
       <jump line="38" column="27" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
       <jump line="25" column="4" filename="$USER_HOME$/git/casepeer/casepeer/evently/schema.py" />
+      <jump line="38" column="25" filename="$USER_HOME$/git/casepeer/compose/django/Dockerfile-hack" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2866,7 +2873,7 @@
         <text encoding="base64">ICAgICAgICBlbGYuYWNjb3VudGFudCA9IHNlbGYuYWRkZWRfYnkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2913,7 +2920,6 @@
         <entry>sw</entry>
         <entry>d</entry>
         <entry>e</entry>
-        <entry>wq</entry>
         <entry>ew</entry>
         <entry>w'</entry>
         <entry>:w</entry>
@@ -2922,6 +2928,7 @@
         <entry>w\</entry>
         <entry>Lw</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
