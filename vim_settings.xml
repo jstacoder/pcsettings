@@ -2882,7 +2882,7 @@
         <text encoding="base64">ICAgIG5hbWUgPSAnRXZlbnRSZXNvdXJjZScK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2918,7 +2918,6 @@
         <entry>dispatch</entry>
       </history-search>
       <history-cmd>
-        <entry>w=</entry>
         <entry>w:w</entry>
         <entry>.w</entry>
         <entry>&quot;w</entry>
@@ -2938,6 +2937,7 @@
         <entry>e</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
