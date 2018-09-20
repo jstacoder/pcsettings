@@ -1417,12 +1417,12 @@
         <mark key="." line="26" column="28" />
         <mark key="^" line="25" column="46" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/models.py" timestamp="1537402978278">
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/models.py" timestamp="1537404714476">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="100" column="11" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
         <mark key="^" line="100" column="11" />
-        <mark key="." line="100" column="11" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/_90DayLetterSpanish_NewName.py" timestamp="1526000245495">
         <mark key="[" line="7" column="5" />
@@ -2007,12 +2007,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/views.py" timestamp="1537402521425">
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/views.py" timestamp="1537404353998">
         <mark key="'" line="157" column="34" />
         <mark key="[" line="165" column="0" />
         <mark key="]" line="165" column="28" />
         <mark key="." line="165" column="28" />
-        <mark key="^" line="137" column="0" />
+        <mark key="^" line="140" column="58" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/static/cp/safe/fullcalendar-2.8.0/fullcalendar.css" timestamp="1511286379571">
         <mark key="[" line="1313" column="11" />
@@ -2818,7 +2818,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2836,7 +2836,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dispatch</text>
@@ -2845,7 +2845,7 @@
         <text encoding="base64">ICAgICAgICBmb3IgZW50aXR5IGluIGV2ZW50X25vdGlmaWNhdGlvbi5kYXRhQ2hhbmdlRXZlbnQuZW50aXRpZXM6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHNlbGYuZW50aXR5X25hbWUKICAgICAgICAgICAgICAgIHByaW50IHNlbGYudmFsaWRfb3BlcmF0aW9ucwo=</text>
+        <text encoding="base64">ICAgIGlmIFFCT0F1dGhlbnRpY2F0aW9uLm9iamVjdHMubGFzdCgpLnFiX2NsaWVudC5fdmVyaWZ5X3dlYmhvb2socmVxdWVzdC5ib2R5LCBzaWduYXR1cmUpOgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2855,13 +2855,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBtZXRob2RfZGVjb3JhdG9yKGNzcmZfZXhlbXB0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHNlbGYuZW50aXR5X25hbWUKICAgICAgICAgICAgICAgIHByaW50IHNlbGYudmFsaWRfb3BlcmF0aW9ucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGNsYXNzX2RlY29yYXRvcihjc3JmX2V4ZW1wdCkK</text>
+        <text encoding="base64">ICAgIEBtZXRob2RfZGVjb3JhdG9yKGNzcmZfZXhlbXB0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsYXNzX2RlY29yYXRvcihjc3JmX2V4ZW1wdCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2876,10 +2876,10 @@
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSAnRXZlbnRSZXNvdXJjZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lID0gJ0V2ZW50UmVzb3VyY2UnCg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSAnRXZlbnRSZXNvdXJjZScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
