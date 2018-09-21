@@ -600,11 +600,11 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1537560223189">
-        <mark key="[" line="143" column="6" />
-        <mark key="]" line="158" column="56" />
-        <mark key="." line="158" column="56" />
-        <mark key="^" line="158" column="56" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Calendar.js" timestamp="1537561884653">
+        <mark key="[" line="158" column="37" />
+        <mark key="]" line="158" column="72" />
+        <mark key="." line="158" column="72" />
+        <mark key="^" line="158" column="72" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/ChatInput/Send.js" timestamp="1536098577432">
         <mark key="[" line="33" column="21" />
@@ -2802,8 +2802,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmF2aWdhdGlvbkxpc3RlbmVycyA9IFsKICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmFkZExpc3RlbmVyKAogICAgICAgICdkaWRGb2N1cycsIHRoaXMub25XaWxsRm9jdXMuYmluZCh0aGlzKQogICAgICApCiAgICBdCg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2821,7 +2821,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>dispatch</text>
