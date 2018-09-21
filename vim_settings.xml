@@ -370,7 +370,6 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" timestamp="1537553203967" />
       <file name="$USER_HOME$/git/casepeer/custom_fobi_plugins/fields/casepeer_address_input/base.py" timestamp="1525881908409">
         <mark key="[" line="1" column="53" />
         <mark key="]" line="21" column="36" />
@@ -606,6 +605,12 @@
         <mark key="]" line="30" column="15" />
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/notificationauth.js" timestamp="1537555918556">
+        <mark key="[" line="94" column="25" />
+        <mark key="]" line="100" column="30" />
+        <mark key="^" line="100" column="30" />
+        <mark key="." line="100" column="30" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/CZRLetterAddendum.py" timestamp="1525999696364">
         <mark key="[" line="3" column="5" />
@@ -1742,12 +1747,6 @@
         <mark key="]" line="4" column="29" />
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" timestamp="1537550333072">
-        <mark key="[" line="25" column="51" />
-        <mark key="]" line="25" column="54" />
-        <mark key="^" line="25" column="54" />
-        <mark key="." line="25" column="54" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/form_wizard_snippet.html" timestamp="1525886459671">
         <mark key="[" line="1" column="46" />
