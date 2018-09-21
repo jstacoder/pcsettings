@@ -2024,6 +2024,11 @@
         <mark key="^" line="1314" column="25" />
         <mark key="." line="1314" column="25" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/components/forms/CaseForm.js" timestamp="1537566591169">
+        <mark key="[" line="127" column="9" />
+        <mark key="]" line="127" column="9" />
+        <mark key="." line="127" column="9" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/caseworker/lastname.js" timestamp="1517538607780">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="9" column="11" />
@@ -2815,7 +2820,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Exception</text>
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2833,7 +2838,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>dispatch</text>
