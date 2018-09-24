@@ -802,10 +802,10 @@
         <mark key="^" line="126" column="78" />
         <mark key="." line="126" column="78" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/package.json" timestamp="1537570466617">
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="26" column="32" />
-        <mark key="." line="26" column="32" />
+      <file name="$USER_HOME$/git/casepeer-app/package.json" timestamp="1537830079131">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/caseId.js" timestamp="1532477169847">
         <mark key="[" line="7" column="33" />
@@ -932,6 +932,11 @@
         <mark key="]" line="195" column="0" />
         <mark key="^" line="177" column="3" />
         <mark key="." line="195" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/app.json" timestamp="1537830094703">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/uploader/views.py" timestamp="1537309824302">
         <mark key="[" line="660" column="23" />
