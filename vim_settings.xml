@@ -75,6 +75,12 @@
         <mark key="^" line="209" column="80" />
         <mark key="." line="209" column="80" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/templates/helpers/contact_display/contact.html" timestamp="1537809705454">
+        <mark key="[" line="36" column="41" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/question_input/widgets.py" timestamp="1525382298083">
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="47" />
