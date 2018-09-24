@@ -1339,8 +1339,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/models.py" timestamp="1537548051627">
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/models.py" timestamp="1537832036079">
         <mark key="'" line="14" column="0" />
+        <mark key="[" line="59" column="24" />
+        <mark key="]" line="59" column="28" />
+        <mark key="^" line="59" column="28" />
+        <mark key="." line="59" column="28" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/_90DayLetterSpanish_NewName.py" timestamp="1526000245495">
         <mark key="[" line="7" column="5" />
@@ -1745,6 +1749,7 @@
       <file name="/cpdb.public.litigation_litigationchecklistitem [cpdb@localhost]" timestamp="1537810725415">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/view_mixins.py" timestamp="1537831461144" />
       <file name="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2045940410/1081517165/webpack_loader/loader.py" timestamp="1505944591973">
         <mark key="[" line="93" column="42" />
         <mark key="]" line="37" column="47" />
@@ -1876,7 +1881,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/views.py" timestamp="1537565764398">
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/views.py" timestamp="1537831449288">
         <mark key="[" line="116" column="18" />
         <mark key="]" line="120" column="37" />
         <mark key="^" line="120" column="37" />
@@ -2658,8 +2663,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFBsYXRmb3JtKQo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2677,7 +2682,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
