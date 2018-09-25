@@ -621,11 +621,12 @@
       <file name="$USER_HOME$/git/casepeer-app/q.graphql" timestamp="1536600848884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Form.js" timestamp="1537568448604">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/screens/Form.js" timestamp="1537835431245">
+        <mark key="'" line="28" column="41" />
+        <mark key="[" line="28" column="54" />
+        <mark key="]" line="28" column="77" />
+        <mark key="^" line="28" column="77" />
+        <mark key="." line="28" column="77" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/app.py" timestamp="1528150667195">
         <mark key="[" line="11" column="25" />
@@ -2215,7 +2216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="67" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
       <jump line="34" column="8" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
       <jump line="7" column="22" filename="$USER_HOME$/git/casepeer-app/src/utils/constants.js" />
       <jump line="17" column="4" filename="$USER_HOME$/git/casepeer-app/src/navigators/DetailDrawer.js" />
@@ -2315,6 +2315,7 @@
       <jump line="213" column="16" filename="$USER_HOME$/git/casepeer-app/src/containers/index.js" />
       <jump line="236" column="22" filename="$USER_HOME$/git/casepeer-app/src/containers/index.js" />
       <jump line="279" column="9" filename="$USER_HOME$/git/casepeer-app/src/containers/index.js" />
+      <jump line="19" column="41" filename="$USER_HOME$/git/casepeer-app/src/screens/Form.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2663,8 +2664,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2688,10 +2689,10 @@
         <text>add</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHRoaXMucHJvcHMuYWN0aW9ucy5kb0xvYWRNZXNzYWdlcygpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdGb2N1c2luZyBvbiBhIGZvcm0nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFBsYXRmb3JtKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2701,31 +2702,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnByb3BzLmFjdGlvbnMuZG9Mb2FkTWVzc2FnZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFBsYXRmb3JtKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnByb3BzLmFjdGlvbnMuZG9Mb2FkTWVzc2FnZXMoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gbmV3RGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBuZXdEYXRlLnNldEhvdXJzKGhvdXJzIC0gb2Zmc2V0KQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICByZXR1cm4gbmV3RGF0ZQo=</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGR0LmdldFRpbWUoKSArIGR0LmdldFRpbWV6b25lT2Zmc2V0KCkgKiA2MCAqIDEwMDAK</text>
+        <text encoding="base64">ICBuZXdEYXRlLnNldEhvdXJzKGhvdXJzIC0gb2Zmc2V0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBuZXdEYXRlID0gbmV3IERhdGUoCg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
