@@ -852,12 +852,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/compose/django/Dockerfile-hack" timestamp="1537289598726">
-        <mark key="'" line="38" column="25" />
-        <mark key="[" line="38" column="23" />
-        <mark key="]" line="39" column="29" />
-        <mark key="." line="39" column="29" />
-        <mark key="^" line="39" column="29" />
+      <file name="$USER_HOME$/git/casepeer/compose/django/Dockerfile-hack" timestamp="1538004316480">
+        <mark key="'" line="39" column="25" />
+        <mark key="[" line="37" column="78" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="33" />
+        <mark key="^" line="38" column="33" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/Button.js" timestamp="1534268524656">
         <mark key="[" line="98" column="16" />
@@ -1023,8 +1023,8 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1533758211084">
-        <mark key="[" line="193" column="0" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1538004481698">
+        <mark key="[" line="213" column="18" />
         <mark key="]" line="195" column="0" />
         <mark key="^" line="177" column="3" />
         <mark key="." line="195" column="0" />
