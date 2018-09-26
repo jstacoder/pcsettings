@@ -1057,12 +1057,12 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/HeaderRight.js" timestamp="1537918110459">
-        <mark key="'" line="22" column="57" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="55" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/HeaderRight.js" timestamp="1537919487338">
+        <mark key="'" line="26" column="19" />
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="26" column="19" />
+        <mark key="^" line="26" column="19" />
+        <mark key="." line="26" column="19" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/pronews.py" timestamp="1535387210522">
         <mark key="[" line="21" column="0" />
@@ -1201,12 +1201,12 @@
         <mark key="." line="23" column="8" />
         <mark key="^" line="23" column="8" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/actions/options.js" timestamp="1537918845337">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="80" column="12" />
-        <mark key="]" line="80" column="19" />
-        <mark key="." line="80" column="19" />
-        <mark key="^" line="80" column="19" />
+      <file name="$USER_HOME$/git/casepeer-app/src/actions/options.js" timestamp="1537918943344">
+        <mark key="'" line="83" column="34" />
+        <mark key="[" line="82" column="57" />
+        <mark key="]" line="83" column="34" />
+        <mark key="." line="83" column="34" />
+        <mark key="^" line="83" column="34" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/navigators/MessagesStack.js" timestamp="1536344609370">
         <mark key="[" line="23" column="23" />
@@ -1939,12 +1939,12 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/addHeaderLeftButton.js" timestamp="1537917382546">
-        <mark key="'" line="41" column="47" />
-        <mark key="[" line="50" column="82" />
-        <mark key="]" line="51" column="48" />
-        <mark key="." line="51" column="48" />
-        <mark key="^" line="51" column="48" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/addHeaderLeftButton.js" timestamp="1537919189331">
+        <mark key="'" line="42" column="47" />
+        <mark key="[" line="66" column="61" />
+        <mark key="]" line="67" column="54" />
+        <mark key="." line="67" column="54" />
+        <mark key="^" line="67" column="54" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/storybook/storybook.js" timestamp="1522793519207">
         <mark key="[" line="17" column="16" />
@@ -2398,8 +2398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="54" filename="$USER_HOME$/git/casepeer-app/src/screens/Detail.js" />
-      <jump line="8" column="56" filename="$USER_HOME$/git/casepeer-app/src/actions/recentCases.js" />
       <jump line="97" column="47" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
       <jump line="167" column="4" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
       <jump line="168" column="6" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
@@ -2498,6 +2496,8 @@
       <jump line="22" column="57" filename="$USER_HOME$/git/casepeer-app/src/components/HeaderRight.js" />
       <jump line="82" column="58" filename="$USER_HOME$/git/casepeer-app/src/actions/types.js" />
       <jump line="19" column="16" filename="$USER_HOME$/git/casepeer-app/src/reducers/options/index.js" />
+      <jump line="83" column="34" filename="$USER_HOME$/git/casepeer-app/src/actions/options.js" />
+      <jump line="26" column="19" filename="$USER_HOME$/git/casepeer-app/src/components/HeaderRight.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2846,8 +2846,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEhFQURFUl9DSEFOR0lORyA9ICdzZXRfaGVhZGVyX2NoYW5naW5nJwo=</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2865,7 +2865,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
