@@ -119,6 +119,12 @@
         <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation/src/createNavigationContainer.js" timestamp="1537980462417" />
+      <file name="$USER_HOME$/git/casepeer/.env" timestamp="1537831199282">
+        <mark key="[" line="89" column="40" />
+        <mark key="]" line="89" column="41" />
+        <mark key="." line="89" column="41" />
+        <mark key="^" line="89" column="41" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/dropbox_delete.html" timestamp="1521481317372">
         <mark key="[" line="6" column="171" />
         <mark key="]" line="6" column="146" />
@@ -471,6 +477,12 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/utils/helpers.js" timestamp="1537812753649">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="97" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/compose/requirements/daphne.txt" timestamp="1528838163011">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="14" />
@@ -746,12 +758,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/components/addLoader.js" timestamp="1537806955481">
-        <mark key="'" line="66" column="65" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="88" column="50" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/git/casepeer-app/src/components/addLoader.js" timestamp="1537996218543">
+        <mark key="'" line="67" column="65" />
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="47" column="48" />
+        <mark key="^" line="47" column="48" />
+        <mark key="." line="47" column="48" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/edit_form_entry.html" timestamp="1525727613699">
         <mark key="[" line="3" column="14" />
@@ -2031,6 +2043,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/views.py" timestamp="1537831449288">
+        <mark key="[" line="116" column="18" />
+        <mark key="]" line="120" column="37" />
+        <mark key="^" line="120" column="37" />
+        <mark key="." line="120" column="37" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" timestamp="1537901602686">
         <mark key="[" line="26" column="32" />
         <mark key="]" line="26" column="34" />
@@ -2100,11 +2118,11 @@
         <mark key="^" line="38" column="49" />
         <mark key="." line="38" column="49" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/reducers/utils.js" timestamp="1531438228511">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="29" column="6" />
-        <mark key="^" line="29" column="6" />
-        <mark key="." line="29" column="6" />
+      <file name="$USER_HOME$/git/casepeer-app/src/reducers/utils.js" timestamp="1537996355883">
+        <mark key="[" line="21" column="79" />
+        <mark key="]" line="21" column="95" />
+        <mark key="^" line="21" column="95" />
+        <mark key="." line="21" column="95" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/loading.js" timestamp="1532708483990">
         <mark key="'" line="15" column="23" />
@@ -2855,7 +2873,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2873,7 +2891,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
@@ -2972,8 +2990,8 @@
         <entry>w\</entry>
         <entry>ew</entry>
         <entry>w2</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
