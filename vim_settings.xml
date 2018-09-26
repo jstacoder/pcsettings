@@ -118,6 +118,7 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/git/casepeer-app/node_modules/react-navigation/src/createNavigationContainer.js" timestamp="1537980462417" />
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/integrations/dropbox_delete.html" timestamp="1521481317372">
         <mark key="[" line="6" column="171" />
         <mark key="]" line="6" column="146" />
@@ -627,6 +628,12 @@
         <mark key="]" line="7" column="5" />
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer-app/src/navigators/Navigator.js" timestamp="1537981026385">
+        <mark key="[" line="81" column="18" />
+        <mark key="]" line="76" column="19" />
+        <mark key="^" line="76" column="19" />
+        <mark key="." line="76" column="19" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/iportal/IntakePacket.py" timestamp="1526000616141">
         <mark key="[" line="7" column="5" />
@@ -1884,6 +1891,7 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/cpqb/view_mixins.py" timestamp="1537831461144" />
       <file name="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2045940410/1081517165/webpack_loader/loader.py" timestamp="1505944591973">
         <mark key="[" line="93" column="42" />
         <mark key="]" line="37" column="47" />
