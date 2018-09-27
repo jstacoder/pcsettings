@@ -162,8 +162,11 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538084456383">
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538091833254">
         <mark key="[" line="52" column="63" />
+        <mark key="]" line="68" column="143" />
+        <mark key="^" line="68" column="143" />
+        <mark key="." line="68" column="143" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/lettergeneration.py" timestamp="1535387190232">
         <mark key="[" line="36" column="0" />
