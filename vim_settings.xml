@@ -88,12 +88,6 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/git/casepeer-app/src/screens/Login.js" timestamp="1537913666494">
-        <mark key="'" line="108" column="8" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/question_input/widgets.py" timestamp="1525382298083">
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="47" />
@@ -1044,12 +1038,11 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1538070976440">
-        <mark key="'" line="319" column="24" />
-        <mark key="[" line="294" column="34" />
-        <mark key="]" line="294" column="32" />
-        <mark key="." line="294" column="32" />
-        <mark key="^" line="294" column="32" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1538072885671">
+        <mark key="[" line="280" column="38" />
+        <mark key="]" line="275" column="0" />
+        <mark key="^" line="314" column="35" />
+        <mark key="." line="275" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/app.json" timestamp="1537913853832">
         <mark key="[" line="30" column="26" />
@@ -2351,7 +2344,7 @@
         <mark key="^" line="11" column="81" />
         <mark key="." line="11" column="81" />
       </file>
-      <file name="/Django Console" timestamp="1536600914766">
+      <file name="/Django Console" timestamp="1538073106713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -2958,32 +2951,39 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFyZ3MsIHRoaXMucHJvcHMubmF2aWdhdGlvbi5zdGF0ZSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmNsYXNzIFNlYXJjaFRleHRGaWx0ZXIoZGphbmdvX2ZpbHRlcnMuRmlsdGVyKToKICAgIGRlZiBmaWx0ZXIoc2VsZiwgcXMsIHZhbHVlKToKICAgICAgICBwcmludCB2YWx1ZQoKICAgICAgICByZXN1bHQgPSBzdXBlcihTZWFyY2hUZXh0RmlsdGVyLCBzZWxmKS5maWx0ZXIocXMsIHZhbHVlKQogICAgICAgIHF1ZXJ5ID0gUSgKICAgICAgICBRKAogICAgICAgICAgICBRKGNyZWF0ZWRieV9fZmlyc3RuYW1lX19pY29udGFpbnM9dmFsdWUpIHwgUShjcmVhdGVkYnlfX2xhc3RuYW1lX19pY29udGFpbnM9dmFsdWUpCiAgICAgICAgICAgICApIHwgUSgKICAgICAgICAgICAgICAgbm90ZV9faWNvbnRhaW5zPXZhbHVlCiAgICAgICAgICAgICApIHwgUSgKICAgICAgICAgICAgICAgIFEoCiAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9fZGF5X19pY29udGFpbnM9dmFsdWUKICAgICAgICAgICAgICAgICkgfAogICAgICAgICAgICAgICAgUSgKICAgICAgICAgICAgICAgICAgICBjcmVhdGVkX19tb250aF9faWNvbnRhaW5zPXZhbHVlCiAgICAgICAgICAgICAgICApIHwKICAgICAgICAgICAgICAgIFEoCiAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9feWVhcl9faWNvbnRhaW5zPXZhbHVlCiAgICAgICAgICAgICAgICApCgogICAgICAgICApCiAgICAgICAgKQoKICAgICAgICByZXR1cm4gcmVzdWx0LmZpbHRlcihxdWVyeSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmF2TGlzdGVuZXJzID0gWwogICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24uYWRkTGlzdGVuZXIoJ3dpbGxCbHVyJywgdGhpcy5vbkJsdXIuYmluZCh0aGlzKSkKICAgIF0K</text>
+      <register name="3" type="4">
+        <text>#
+    #
+    #
+    # @classmethod
+    # def filter_for_lookup(cls, f, lookup_type):
+    #     print f
+    #     print lookup_type
+    #     return SearchTextFilter, {}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICApLAogIHdpdGhOYXZpZ2F0aW9uLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBhZGRCYWNrQnV0dG9uKCdOb3RpZmljYXRpb25zJyksCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFyZ3MsIHRoaXMucHJvcHMubmF2aWdhdGlvbi5zdGF0ZSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubmF2TGlzdGVuZXJzID0gWwogICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24uYWRkTGlzdGVuZXIoJ3dpbGxCbHVyJywgdGhpcy5vbkJsdXIuYmluZCh0aGlzKSkKICAgIF0K</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">ICApLAogIHdpdGhOYXZpZ2F0aW9uLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUoKSB7Cg==</text>
+        <text encoding="base64">ICBhZGRCYWNrQnV0dG9uKCdOb3RpZmljYXRpb25zJyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
