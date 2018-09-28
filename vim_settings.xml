@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/FilterComponent.jsx" timestamp="1538171056166">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="46" />
+        <mark key="^" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/documents/new_queuefile_review.html" timestamp="1537228121371">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="41" />
@@ -54,6 +60,13 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/components/Panel.jsx" timestamp="1538173102487">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/reducers/auth/error.js" timestamp="1517528493327">
         <mark key="[" line="3" column="24" />
@@ -162,11 +175,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538153316313">
-        <mark key="[" line="52" column="76" />
-        <mark key="]" line="52" column="78" />
-        <mark key="^" line="52" column="78" />
-        <mark key="." line="52" column="78" />
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538177367451">
+        <mark key="'" line="231" column="22" />
+        <mark key="[" line="294" column="26" />
+        <mark key="]" line="294" column="73" />
+        <mark key="." line="294" column="73" />
+        <mark key="^" line="294" column="73" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/lettergeneration.py" timestamp="1535387190232">
         <mark key="[" line="36" column="0" />
@@ -995,6 +1009,12 @@
       <file name="/cpdb.public.message_center_casemessage [cpdb@localhost]" timestamp="1537814835366">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/cp_client_tabs.py" timestamp="1538172176471">
+        <mark key="[" line="325" column="67" />
+        <mark key="]" line="326" column="0" />
+        <mark key="^" line="326" column="0" />
+        <mark key="." line="326" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/assets/js/index.jsx" timestamp="1510795702359">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1045,7 +1065,7 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1538168691999">
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1538173421690">
         <mark key="'" line="336" column="3" />
         <mark key="[" line="304" column="31" />
         <mark key="]" line="304" column="50" />
@@ -1833,6 +1853,14 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" timestamp="1538177496998">
+        <mark key="a" line="2082" column="0" />
+        <mark key="'" line="2262" column="59" />
+        <mark key="[" line="2061" column="70" />
+        <mark key="]" line="2063" column="53" />
+        <mark key="^" line="2063" column="53" />
+        <mark key="." line="2063" column="53" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/form_wizard_snippet.html" timestamp="1525886459671">
         <mark key="[" line="1" column="46" />
         <mark key="]" line="1" column="40" />
@@ -2493,10 +2521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="30" filename="$USER_HOME$/git/casepeer-app/src/components/addBackButton.js" />
-      <jump line="48" column="28" filename="$USER_HOME$/git/casepeer-app/src/components/addBackButton.js" />
-      <jump line="69" column="8" filename="$USER_HOME$/git/casepeer-app/src/components/addBackButton.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/git/casepeer-app/src/components/addBackButton.js" />
       <jump line="3" column="1" filename="$USER_HOME$/git/casepeer-app/package.json" />
       <jump line="18" column="29" filename="$USER_HOME$/git/casepeer/casepeer/testpages/urls.py" />
       <jump line="6" column="0" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
@@ -2593,6 +2617,10 @@
       <jump line="95" column="24" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
       <jump line="127" column="49" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
       <jump line="133" column="14" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
+      <jump line="21" column="31" filename="$USER_HOME$/git/casepeer/assets/js/apps/components/Panel.jsx" />
+      <jump line="26" column="0" filename="$USER_HOME$/git/casepeer/assets/js/apps/components/Panel.jsx" />
+      <jump line="225" column="22" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
+      <jump line="2262" column="59" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2942,7 +2970,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2960,16 +2988,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>AUTH</text>
+        <text encoding="base64">XDwvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByb290CiAgICAgICAgcHJpbnQgZGlyKGluZm8pCiAgICAgICAgcHJpbnQga3dhcmdzCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLmFjdGl2ZVBhZ2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2979,40 +3007,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBjcmVkZW50aWFscwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnZG9pbmcgaGFzaCcK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ3dlIGFyZSBpbiAnCg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5zdGF0ZS5zdGFydGVkKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnY2FzZV9pZCc6IGNvbnRleHQuZ2V0KCdjYXNlX2lkJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcXVlcnlGdW5jID0gZXhlY3V0ZUdyYXBocWxRdWVyeSgnL2dyYXBocWwvJywgYXhpb3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZW1pbmRlci5yZWZyZXNoX2Zyb21fZGIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpbnN0YW5jZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBidXQgbGV0cyBiZSBzdXJlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBjcmVkZW50aWFscwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>AUTH</last-search>
+      <last-search encoding="base64">XDwvXD4=</last-search>
       <last-offset />
-      <last-pattern>AUTH</last-pattern>
+      <last-pattern encoding="base64">XDwvXD4=</last-pattern>
       <last-replace>formfillers</last-replace>
       <last-substitute encoding="base64">XDwvXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -3024,7 +3052,6 @@
         <entry encoding="base64">XDxSdW50aW1lV2FybmluZ1w+</entry>
         <entry encoding="base64">XDwjXD4=</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
-        <entry encoding="base64">XDwvXD4=</entry>
         <entry>removeClipped</entry>
         <entry>theme</entry>
         <entry>w</entry>
@@ -3040,16 +3067,15 @@
         <entry>width</entry>
         <entry>add</entry>
         <entry>AUTH</entry>
+        <entry encoding="base64">XDwvXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>Pw</entry>
         <entry>w]</entry>
         <entry>a</entry>
         <entry>sw</entry>
         <entry>d</entry>
         <entry>w'</entry>
         <entry>we</entry>
-        <entry>Lw</entry>
         <entry>e</entry>
         <entry>W</entry>
         <entry>ws</entry>
@@ -3061,6 +3087,8 @@
         <entry>wq</entry>
         <entry>w\</entry>
         <entry>:w</entry>
+        <entry>Lw</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
