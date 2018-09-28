@@ -162,11 +162,11 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538091833254">
-        <mark key="[" line="52" column="63" />
-        <mark key="]" line="68" column="143" />
-        <mark key="^" line="68" column="143" />
-        <mark key="." line="68" column="143" />
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538093438120">
+        <mark key="[" line="94" column="21" />
+        <mark key="]" line="95" column="17" />
+        <mark key="^" line="95" column="17" />
+        <mark key="." line="95" column="17" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/lettergeneration.py" timestamp="1535387190232">
         <mark key="[" line="36" column="0" />
@@ -1021,6 +1021,7 @@
         <mark key="^" line="16" column="83" />
         <mark key="." line="16" column="83" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1460778498/-183260405/graphene_django_extras/types.py" timestamp="1538093609919" />
       <file name="$USER_HOME$/git/casepeer/casepeer/integrations/helpers.py" timestamp="1527182269562">
         <mark key="[" line="42" column="42" />
         <mark key="]" line="42" column="47" />
@@ -1045,7 +1046,12 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1538089457692" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1538094029780">
+        <mark key="[" line="336" column="52" />
+        <mark key="]" line="336" column="53" />
+        <mark key="^" line="336" column="53" />
+        <mark key="." line="336" column="53" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/uploader/views.py" timestamp="1537309824302">
         <mark key="[" line="660" column="23" />
         <mark key="]" line="665" column="70" />
@@ -2129,6 +2135,9 @@
         <mark key="]" line="19" column="174" />
         <mark key="^" line="19" column="174" />
         <mark key="." line="19" column="174" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer/config/settings/common.py" timestamp="1538093406155">
+        <mark key="[" line="209" column="55" />
       </file>
       <file name="$USER_HOME$/git/casepeer/requirements/new.txt" timestamp="1521222046002">
         <mark key="[" line="0" column="21" />
