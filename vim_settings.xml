@@ -1582,12 +1582,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1538153761608">
-        <mark key="'" line="529" column="44" />
-        <mark key="[" line="478" column="58" />
-        <mark key="]" line="478" column="71" />
-        <mark key="^" line="478" column="71" />
-        <mark key="." line="478" column="71" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" timestamp="1538156381276">
+        <mark key="'" line="541" column="44" />
+        <mark key="[" line="32" column="7" />
+        <mark key="]" line="32" column="7" />
+        <mark key="^" line="66" column="37" />
+        <mark key="." line="32" column="7" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/.env" timestamp="1533667169911">
         <mark key="[" line="0" column="23" />
@@ -2493,8 +2493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
-      <jump line="57" column="27" filename="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" />
       <jump line="239" column="25" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
       <jump line="249" column="0" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
       <jump line="13" column="38" filename="$USER_HOME$/git/casepeer-app/start_app.py" />
@@ -2593,6 +2591,8 @@
       <jump line="337" column="3" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
       <jump line="210" column="3" filename="$USER_HOME$/git/casepeer/config/settings/common.py" />
       <jump line="218" column="13" filename="$USER_HOME$/git/casepeer/config/settings/common.py" />
+      <jump line="57" column="37" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
+      <jump line="538" column="44" filename="$USER_HOME$/git/casepeer/casepeer/dacase/schema.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2941,8 +2941,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZW1pbmRlci5yZWZyZXNoX2Zyb21fZGIoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>@</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2960,7 +2960,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>AUTH</text>
@@ -3006,7 +3006,7 @@
         <text encoding="base64">UlVOIHlhcm4gZ2xvYmFsIGFkZCB3ZWJwYWNrIHdlYnBhY2stZGV2LXNlcnZlciAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>w\</text>
       </register>
     </registers>
     <search>
@@ -3056,12 +3056,12 @@
         <entry>ws</entry>
         <entry encoding="base64">Pnc=</entry>
         <entry>qw</entry>
-        <entry>w\</entry>
         <entry>ew</entry>
         <entry>w2</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>w\</entry>
       </history-cmd>
       <history-expr />
       <history-input />
