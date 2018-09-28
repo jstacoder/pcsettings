@@ -1046,11 +1046,12 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1538094029780">
-        <mark key="[" line="336" column="52" />
-        <mark key="]" line="336" column="53" />
-        <mark key="^" line="336" column="53" />
-        <mark key="." line="336" column="53" />
+      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" timestamp="1538096236808">
+        <mark key="'" line="337" column="3" />
+        <mark key="[" line="333" column="11" />
+        <mark key="]" line="337" column="3" />
+        <mark key="." line="337" column="3" />
+        <mark key="^" line="337" column="3" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/uploader/views.py" timestamp="1537309824302">
         <mark key="[" line="660" column="23" />
@@ -2470,7 +2471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="4" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
       <jump line="168" column="6" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
       <jump line="280" column="21" filename="$USER_HOME$/git/casepeer-app/src/screens/Home.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/casepeer-app/src/screens/Tasks.js" />
@@ -2570,6 +2570,7 @@
       <jump line="83" column="34" filename="$USER_HOME$/git/casepeer-app/src/actions/options.js" />
       <jump line="26" column="19" filename="$USER_HOME$/git/casepeer-app/src/components/HeaderRight.js" />
       <jump line="310" column="24" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
+      <jump line="337" column="3" filename="$USER_HOME$/git/casepeer/casepeer/dacase/types.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2918,8 +2919,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIHlhcm4gZ2xvYmFsIGFkZCB3ZWJwYWNrIHdlYnBhY2stZGV2LXNlcnZlciAK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2937,7 +2938,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
@@ -2946,7 +2947,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjcmVhdGVkX19tb250aF9faWNvbnRhaW5zPXZhbHVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIHlhcm4gZ2xvYmFsIGFkZCB3ZWJwYWNrIHdlYnBhY2stZGV2LXNlcnZlciAK</text>
+        <text encoding="base64">ICAgICAgICBvbmx5X2ZpZWxkcyA9IGRpY3QoY3JlYXRlZD1ncmFwaGVuZS5EYXRlVGltZSgpLGNhc2VfaWQ9Z3JhcGhlbmUuSUQoKSwgY3JlYXRlZGJ5PUNhc2V3b3JrZXJOb2RlKCksIG5vdGU9Z3JhcGhlbmUuU3RyaW5nKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2956,12 +2957,15 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">UlVOIHlhcm4gZ2xvYmFsIGFkZCB3ZWJwYWNrIHdlYnBhY2stZGV2LXNlcnZlciAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CmNsYXNzIFNlYXJjaFRleHRGaWx0ZXIoZGphbmdvX2ZpbHRlcnMuRmlsdGVyKToKICAgIGRlZiBmaWx0ZXIoc2VsZiwgcXMsIHZhbHVlKToKICAgICAgICBwcmludCB2YWx1ZQoKICAgICAgICByZXN1bHQgPSBzdXBlcihTZWFyY2hUZXh0RmlsdGVyLCBzZWxmKS5maWx0ZXIocXMsIHZhbHVlKQogICAgICAgIHF1ZXJ5ID0gUSgKICAgICAgICBRKAogICAgICAgICAgICBRKGNyZWF0ZWRieV9fZmlyc3RuYW1lX19pY29udGFpbnM9dmFsdWUpIHwgUShjcmVhdGVkYnlfX2xhc3RuYW1lX19pY29udGFpbnM9dmFsdWUpCiAgICAgICAgICAgICApIHwgUSgKICAgICAgICAgICAgICAgbm90ZV9faWNvbnRhaW5zPXZhbHVlCiAgICAgICAgICAgICApIHwgUSgKICAgICAgICAgICAgICAgIFEoCiAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9fZGF5X19pY29udGFpbnM9dmFsdWUKICAgICAgICAgICAgICAgICkgfAogICAgICAgICAgICAgICAgUSgKICAgICAgICAgICAgICAgICAgICBjcmVhdGVkX19tb250aF9faWNvbnRhaW5zPXZhbHVlCiAgICAgICAgICAgICAgICApIHwKICAgICAgICAgICAgICAgIFEoCiAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9feWVhcl9faWNvbnRhaW5zPXZhbHVlCiAgICAgICAgICAgICAgICApCgogICAgICAgICApCiAgICAgICAgKQoKICAgICAgICByZXR1cm4gcmVzdWx0LmZpbHRlcihxdWVyeSkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>#
     #
     #
@@ -2971,23 +2975,20 @@
     #     print lookup_type
     #     return SearchTextFilter, {}</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFyZ3MsIHRoaXMucHJvcHMubmF2aWdhdGlvbi5zdGF0ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmF2TGlzdGVuZXJzID0gWwogICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24uYWRkTGlzdGVuZXIoJ3dpbGxCbHVyJywgdGhpcy5vbkJsdXIuYmluZCh0aGlzKSkKICAgIF0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFyZ3MsIHRoaXMucHJvcHMubmF2aWdhdGlvbi5zdGF0ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICApLAogIHdpdGhOYXZpZ2F0aW9uLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMubmF2TGlzdGVuZXJzID0gWwogICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24uYWRkTGlzdGVuZXIoJ3dpbGxCbHVyJywgdGhpcy5vbkJsdXIuYmluZCh0aGlzKSkKICAgIF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
