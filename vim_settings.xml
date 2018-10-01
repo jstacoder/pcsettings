@@ -104,6 +104,9 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="/cpdb.public.fobi_formelemententry [cpdb@localhost]" timestamp="1538437112089">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/question_input/widgets.py" timestamp="1525382298083">
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="47" />
@@ -496,7 +499,7 @@
         <mark key="." line="53" column="29" />
         <mark key="^" line="53" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1537811857324">
+      <file name="/dummy.sql" timestamp="1538437377078">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cbv_theme/create_form_wizard_entry.html" timestamp="1524867037658">
@@ -534,6 +537,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="39" column="36" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/casepeer_theme/templates/fobi-overrides/form_edit_snippet.html" timestamp="1538437558741">
+        <mark key="[" line="56" column="27" />
+        <mark key="]" line="56" column="30" />
+        <mark key="^" line="56" column="30" />
+        <mark key="." line="56" column="30" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/form_edit_snippet.html" timestamp="1525802676423">
         <mark key="[" line="1" column="63" />
@@ -577,6 +586,9 @@
         <mark key="]" line="77" column="36" />
         <mark key="^" line="77" column="36" />
         <mark key="." line="77" column="36" />
+      </file>
+      <file name="/cpdb.public.fobi_formelement [cpdb@localhost]" timestamp="1538437063708">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/_30DayLetterSpanish_NewName.py" timestamp="1525999860498">
         <mark key="[" line="9" column="5" />
@@ -2997,8 +3009,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtUZENvbXBvbmVudH0gZnJvbSAiLi9UZENvbXBvbmVudCIK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3016,7 +3028,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
