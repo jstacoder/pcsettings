@@ -174,12 +174,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538417956877">
-        <mark key="'" line="129" column="32" />
-        <mark key="[" line="175" column="43" />
-        <mark key="]" line="177" column="36" />
-        <mark key="^" line="177" column="36" />
-        <mark key="." line="177" column="36" />
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538420067763">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="172" column="36" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/lettergeneration.py" timestamp="1535387190232">
         <mark key="[" line="36" column="0" />
@@ -2497,6 +2497,11 @@
         <mark key="^" line="7" column="69" />
         <mark key="." line="7" column="69" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/HighlighterWrapper.jsx" timestamp="1538420093014">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/cpnotifications/schema.py" timestamp="1534889321272">
         <mark key="[" line="67" column="30" />
         <mark key="]" line="67" column="38" />
@@ -2517,12 +2522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="76" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
-      <jump line="41" column="41" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
-      <jump line="37" column="28" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
-      <jump line="38" column="27" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
-      <jump line="25" column="4" filename="$USER_HOME$/git/casepeer/casepeer/evently/schema.py" />
-      <jump line="38" column="25" filename="$USER_HOME$/git/casepeer/compose/django/Dockerfile-hack" />
       <jump line="3009" column="57" filename="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" />
       <jump line="155" column="34" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/views.py" />
       <jump line="611" column="79" filename="$USER_HOME$/git/casepeer/config/settings/common.py" />
@@ -2617,6 +2616,12 @@
       <jump line="126" column="34" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
       <jump line="68" column="63" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
       <jump line="128" column="32" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
+      <jump line="177" column="34" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
+      <jump line="266" column="0" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
+      <jump line="71" column="0" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
+      <jump line="72" column="0" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
+      <jump line="77" column="0" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
+      <jump line="94" column="0" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2966,7 +2971,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXJ6JywgdGhpcy5zdGF0ZSkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2984,16 +2989,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwvXD4=</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7YWN0aXZlRGF0YSwgaW5hY3RpdmVEYXRhLCB0b3RhbENvdW50OiBhY3RpdmVEYXRhLmxlbmd0aH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXJ6JywgdGhpcy5zdGF0ZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3003,40 +3008,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZVVwZGF0ZVsnYWN0aXZlUGFnZSddID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NlbmRpbmcgcmVxdWVzdCBzdGVwMycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYoZmlyc3RTZWFyY2gpewo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLmFjdGl2ZVBhZ2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmlyc3RTZWFyY2ggPT09IHByZXZTdGF0ZS5maWx0ZXJlZC5sZW5ndGggPT09IDAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzZW5kaW5nIHJlcXVlc3Qgc3RlcDInLCB0aGlzLnN0YXRlLmxvYWRpbmcpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBmaXJzdFNlYXJjaAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBpZighcHJldlN0YXRlLnN0YXJ0ZWQpIHsKICAgICAgICAgIHJldHVybiB7c3RhcnRlZDogdHJ1ZX0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHtzdGFydGVkOiBwcmV2U3RhdGUuc3RhcnRlZH0KICAgICAgICB9LCAgKCkgPT4gewogICAgICAgICAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VuZGluZyByZXF1ZXN0IHN0ZXAxJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NlbmRpbmcgcmVxdWVzdCcpCg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGEucHVzaChpbmFjdGl2ZURhdGEuc3BsaWNlKGlkeCwgMSkpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKENBU0VfSUQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihKU09OLnN0cmluZ2lmeShpdG0pLmluY2x1ZGVzKHZhbHVlKSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGluYWN0aXZlRGF0YS5wdXNoKGl0bSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwvXD4=</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwvXD4=</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>formfillers</last-replace>
       <last-substitute encoding="base64">XDwvXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -3044,7 +3049,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3YXJuaW5nc1w+</entry>
         <entry encoding="base64">XDxSdW50aW1lV2FybmluZ1w+</entry>
         <entry encoding="base64">XDwjXD4=</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
@@ -3055,7 +3059,6 @@
         <entry>rese</entry>
         <entry>asy</entry>
         <entry>await</entry>
-        <entry>console</entry>
         <entry>dispatch</entry>
         <entry>min-widthn</entry>
         <entry>min-width</entry>
@@ -3064,6 +3067,8 @@
         <entry>add</entry>
         <entry>AUTH</entry>
         <entry encoding="base64">XDwvXD4=</entry>
+        <entry>consoler</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
