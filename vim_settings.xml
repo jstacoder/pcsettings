@@ -174,12 +174,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538427177693">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="207" column="39" />
-        <mark key="]" line="207" column="26" />
-        <mark key="^" line="207" column="26" />
-        <mark key="." line="207" column="26" />
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538428203825">
+        <mark key="'" line="91" column="55" />
+        <mark key="[" line="91" column="55" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/lettergeneration.py" timestamp="1535387190232">
         <mark key="[" line="36" column="0" />
@@ -2522,7 +2522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3009" column="57" filename="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" />
       <jump line="155" column="34" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/views.py" />
       <jump line="611" column="79" filename="$USER_HOME$/git/casepeer/config/settings/common.py" />
       <jump line="56" column="2" filename="$USER_HOME$/git/casepeer-app/src/screens/Messages.js" />
@@ -2622,6 +2621,7 @@
       <jump line="72" column="0" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
       <jump line="77" column="0" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
       <jump line="94" column="0" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
+      <jump line="90" column="55" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2971,7 +2971,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>h</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2989,7 +2989,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
