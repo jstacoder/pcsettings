@@ -174,12 +174,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538412540301">
-        <mark key="'" line="68" column="63" />
-        <mark key="[" line="126" column="37" />
-        <mark key="]" line="126" column="34" />
-        <mark key="." line="126" column="34" />
-        <mark key="^" line="126" column="34" />
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538417956877">
+        <mark key="'" line="129" column="32" />
+        <mark key="[" line="175" column="43" />
+        <mark key="]" line="177" column="36" />
+        <mark key="^" line="177" column="36" />
+        <mark key="." line="177" column="36" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/lettergeneration.py" timestamp="1535387190232">
         <mark key="[" line="36" column="0" />
@@ -2517,7 +2517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/models.py" />
       <jump line="27" column="76" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
       <jump line="41" column="41" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
       <jump line="37" column="28" filename="$USER_HOME$/git/casepeer/casepeer/cpqb/cp_quickbooks.py" />
@@ -2617,6 +2616,7 @@
       <jump line="160" column="6" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
       <jump line="126" column="34" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
       <jump line="68" column="63" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
+      <jump line="128" column="32" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2966,7 +2966,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHRoaXMub25GZXRjaERhdGEoKQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2984,16 +2984,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKntsb2FkaW5nICYmIDxzcGFuIHN0eWxlPXt7bWFyZ2luTGVmdDogJzNlbSd9fSBjbGFzc05hbWU9eyJmYS01eCBmYS1zcGluIGZhciBmYS1zcGlubmVyLXRoaXJkIn0vPiB8fCAoKi99Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7YWN0aXZlRGF0YSwgaW5hY3RpdmVEYXRhLCB0b3RhbENvdW50OiBhY3RpdmVEYXRhLmxlbmd0aH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHRoaXMub25GZXRjaERhdGEoKQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3003,31 +3003,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZVVwZGF0ZVsnYWN0aXZlUGFnZSddID0gMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9uRmV0Y2hEYXRhKCkK</text>
+        <text encoding="base64">ICAgICAgaWYoZmlyc3RTZWFyY2gpewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfWVsc2V7Cg==</text>
+        <text encoding="base64">ICAgICAgZmlyc3RTZWFyY2ggPT09IHByZXZTdGF0ZS5maWx0ZXJlZC5sZW5ndGggPT09IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKil9Ki99Cg==</text>
+        <text encoding="base64">ICAgIGxldCBmaXJzdFNlYXJjaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKntsb2FkaW5nICYmIDxzcGFuIHN0eWxlPXt7bWFyZ2luTGVmdDogJzNlbSd9fSBjbGFzc05hbWU9eyJmYS01eCBmYS1zcGluIGZhciBmYS1zcGlubmVyLXRoaXJkIn0vPiB8fCAoKi99Cg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGEucHVzaChpbmFjdGl2ZURhdGEuc3BsaWNlKGlkeCwgMSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZihKU09OLnN0cmluZ2lmeShpdG0pLmluY2x1ZGVzKHZhbHVlKSl7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3066,14 +3066,12 @@
         <entry encoding="base64">XDwvXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w]</entry>
         <entry>a</entry>
         <entry>sw</entry>
         <entry>d</entry>
         <entry>w'</entry>
         <entry>we</entry>
         <entry>e</entry>
-        <entry>W</entry>
         <entry>ws</entry>
         <entry encoding="base64">Pnc=</entry>
         <entry>qw</entry>
@@ -3085,6 +3083,8 @@
         <entry>:w</entry>
         <entry>Lw</entry>
         <entry>s</entry>
+        <entry>&quot;w</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
