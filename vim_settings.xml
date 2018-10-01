@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/FilterComponent.jsx" timestamp="1538181088122">
-        <mark key="[" line="4" column="53" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="25" />
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/FilterComponent.jsx" timestamp="1538432687506">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="40" column="26" />
+        <mark key="^" line="40" column="26" />
+        <mark key="." line="40" column="26" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp/documents/new_queuefile_review.html" timestamp="1537228121371">
         <mark key="[" line="7" column="4" />
@@ -174,12 +174,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538429674255">
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538432728177">
         <mark key="'" line="91" column="55" />
-        <mark key="[" line="91" column="43" />
-        <mark key="]" line="91" column="64" />
-        <mark key="^" line="91" column="64" />
-        <mark key="." line="91" column="64" />
+        <mark key="[" line="277" column="15" />
+        <mark key="]" line="282" column="52" />
+        <mark key="^" line="282" column="52" />
+        <mark key="." line="282" column="52" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/lettergeneration.py" timestamp="1535387190232">
         <mark key="[" line="36" column="0" />
@@ -885,10 +885,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/compose/django/Dockerfile-hack" timestamp="1538004316480">
-        <mark key="'" line="38" column="25" />
-        <mark key="[" line="37" column="78" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/Button.js" timestamp="1534268524656">
         <mark key="[" line="98" column="16" />
@@ -1660,6 +1656,12 @@
         <mark key="]" line="4" column="13" />
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/components/panel-heading.jsx" timestamp="1538432852471">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/forms/NoteForm.js" timestamp="1537912239248">
         <mark key="[" line="149" column="23" />
@@ -2971,7 +2973,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>t</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2989,7 +2991,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2998,7 +3000,7 @@
         <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7YWN0aXZlRGF0YSwgaW5hY3RpdmVEYXRhLCB0b3RhbENvdW50OiBhY3RpdmVEYXRhLmxlbmd0aH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9lbT4K</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGRlZmF1bHRWYWx1ZT17ZmlsdGVyLnZhbHVlfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3008,31 +3010,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXJ6JywgdGhpcy5zdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9lbT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NlbmRpbmcgcmVxdWVzdCBzdGVwMycpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXJ6JywgdGhpcy5zdGF0ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLmFjdGl2ZVBhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NlbmRpbmcgcmVxdWVzdCBzdGVwMycpCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLmFjdGl2ZVBhZ2UpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzZW5kaW5nIHJlcXVlc3Qgc3RlcDInLCB0aGlzLnN0YXRlLmxvYWRpbmcpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBpZighcHJldlN0YXRlLnN0YXJ0ZWQpIHsKICAgICAgICAgIHJldHVybiB7c3RhcnRlZDogdHJ1ZX0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHtzdGFydGVkOiBwcmV2U3RhdGUuc3RhcnRlZH0KICAgICAgICB9LCAgKCkgPT4gewogICAgICAgICAg</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VuZGluZyByZXF1ZXN0IHN0ZXAxJykK</text>
       </register>
       <register name="w" type="4">
         <text>C</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NlbmRpbmcgcmVxdWVzdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VuZGluZyByZXF1ZXN0IHN0ZXAxJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKENBU0VfSUQpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NlbmRpbmcgcmVxdWVzdCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3088,8 +3090,8 @@
         <entry>:w</entry>
         <entry>Lw</entry>
         <entry>s</entry>
-        <entry>&quot;w</entry>
         <entry>W</entry>
+        <entry>&quot;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
