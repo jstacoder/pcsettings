@@ -174,12 +174,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538422679323">
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538427177693">
         <mark key="'" line="95" column="0" />
-        <mark key="[" line="221" column="21" />
-        <mark key="]" line="222" column="16" />
-        <mark key="^" line="222" column="16" />
-        <mark key="." line="222" column="16" />
+        <mark key="[" line="207" column="39" />
+        <mark key="]" line="207" column="26" />
+        <mark key="^" line="207" column="26" />
+        <mark key="." line="207" column="26" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/lettergeneration.py" timestamp="1535387190232">
         <mark key="[" line="36" column="0" />
@@ -2970,8 +2970,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9lbT4K</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2989,7 +2989,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
