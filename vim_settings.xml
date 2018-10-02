@@ -923,6 +923,13 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/compose/django/Dockerfile-hack" timestamp="1538506512938">
+        <mark key="'" line="39" column="25" />
+        <mark key="[" line="37" column="77" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="20" />
+        <mark key="^" line="38" column="20" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/src/components/Button.js" timestamp="1534268524656">
         <mark key="[" line="98" column="16" />
         <mark key="]" line="104" column="19" />
@@ -2434,6 +2441,12 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/hack.yml" timestamp="1538506075462">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="126" column="19" />
+        <mark key="^" line="126" column="19" />
+        <mark key="." line="126" column="19" />
+      </file>
       <file name="$USER_HOME$/git/casepeer-app/rnw/config/paths.js" timestamp="1527209195695">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="46" column="26" />
@@ -2986,8 +2999,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIG5wbSBjb25maWcgc2V0IHJlZ2lzdHJ5IGh0dHA6Ly9yZWdpc3RyeS5ucG0ub3JnLyAmJiBcCg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3005,7 +3018,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
