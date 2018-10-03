@@ -1884,6 +1884,9 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" timestamp="1538608215874">
+        <mark key="'" line="2369" column="16" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/form_wizard_snippet.html" timestamp="1525886459671">
         <mark key="[" line="1" column="46" />
         <mark key="]" line="1" column="40" />
@@ -2552,7 +2555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="524" column="1" filename="$USER_HOME$/git/casepeer/casepeer/cp_utilities/cp_classes.py" />
       <jump line="11" column="0" filename="$USER_HOME$/git/casepeer/casepeer/message_center/models.py" />
       <jump line="38" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" />
       <jump line="3" column="0" filename="$USER_HOME$/git/casepeer/casepeer/integrations/forms.py" />
@@ -2652,6 +2654,7 @@
       <jump line="2" column="3" filename="$USER_HOME$/git/casepeer/compose/webpack/Dockerfile" />
       <jump line="300" column="0" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
       <jump line="308" column="0" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
+      <jump line="2369" column="16" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
