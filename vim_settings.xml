@@ -854,7 +854,6 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/dacase/media_forms.py" timestamp="1538518464247" />
       <file name="$USER_HOME$/git/casepeer-app/src/navigators/CalendarStack.js" timestamp="1534800978320">
         <mark key="[" line="27" column="52" />
         <mark key="]" line="15" column="13" />
@@ -1124,7 +1123,6 @@
         <mark key="^" line="7" column="45" />
         <mark key="." line="7" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1538439907946" />
       <file name="$USER_HOME$/git/casepeer/casepeer/schema.py" timestamp="1506118402848">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1884,7 +1882,7 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" timestamp="1538608215874">
+      <file name="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" timestamp="1538610718674">
         <mark key="'" line="2369" column="16" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/templates/fobi-overrides/form_wizard_snippet.html" timestamp="1525886459671">
