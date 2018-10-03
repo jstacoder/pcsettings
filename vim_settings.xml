@@ -15,6 +15,9 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/wrapper.jsx" timestamp="1538592542541">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1538075062073">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1108,12 +1111,6 @@
         <mark key="]" line="344" column="0" />
         <mark key="." line="344" column="0" />
         <mark key="^" line="304" column="50" />
-      </file>
-      <file name="$USER_HOME$/git/casepeer/casepeer/uploader/views.py" timestamp="1537309824302">
-        <mark key="[" line="660" column="23" />
-        <mark key="]" line="665" column="70" />
-        <mark key="^" line="665" column="70" />
-        <mark key="." line="665" column="70" />
       </file>
       <file name="$USER_HOME$/git/casepeer/custom_fobi_plugins/fields/casepeer_date_drop_down/forms.py" timestamp="1530141145335">
         <mark key="[" line="14" column="48" />
