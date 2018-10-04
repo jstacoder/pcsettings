@@ -487,6 +487,12 @@
         <mark key="^" line="108" column="3" />
         <mark key="." line="108" column="3" />
       </file>
+      <file name="$USER_HOME$/git/casepeer/compose/requirements/local.txt" timestamp="1538675504905">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+      </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/letters/SpanishWelcomeLetter.py" timestamp="1525999579392">
         <mark key="[" line="12" column="42" />
         <mark key="]" line="12" column="41" />
