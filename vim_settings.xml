@@ -15,8 +15,11 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/wrapper.jsx" timestamp="1538599632857">
-        <mark key="[" line="97" column="5" />
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/wrapper.jsx" timestamp="1538613917285">
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="50" column="47" />
+        <mark key="^" line="50" column="47" />
+        <mark key="." line="50" column="47" />
       </file>
       <file name="/a.dummy" timestamp="1538075062073">
         <mark key="[" line="0" column="0" />
@@ -180,12 +183,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538599878825">
-        <mark key="'" line="306" column="0" />
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="34" />
-        <mark key="^" line="19" column="35" />
-        <mark key="." line="19" column="34" />
+      <file name="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" timestamp="1538613858320">
+        <mark key="'" line="307" column="14" />
+        <mark key="[" line="291" column="54" />
+        <mark key="]" line="291" column="55" />
+        <mark key="^" line="291" column="55" />
+        <mark key="." line="291" column="55" />
       </file>
       <file name="$USER_HOME$/git/casepeer/casepeer/dacase/views/lettergeneration.py" timestamp="1535387190232">
         <mark key="[" line="36" column="0" />
@@ -2425,7 +2428,7 @@
         <mark key="^" line="11" column="81" />
         <mark key="." line="11" column="81" />
       </file>
-      <file name="/Django Console" timestamp="1538598919710">
+      <file name="/Django Console" timestamp="1538611563552">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -2553,8 +2556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/git/casepeer/casepeer/message_center/models.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" />
       <jump line="3" column="0" filename="$USER_HOME$/git/casepeer/casepeer/integrations/forms.py" />
       <jump line="4233" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" />
       <jump line="49" column="0" filename="$USER_HOME$/git/casepeer/casepeer/dacase/models.py" />
@@ -2653,6 +2654,8 @@
       <jump line="300" column="0" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
       <jump line="308" column="0" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
       <jump line="2369" column="16" filename="$USER_HOME$/git/casepeer/casepeer/templates/cp_base_tab_notes.html" />
+      <jump line="291" column="62" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
+      <jump line="306" column="14" filename="$USER_HOME$/git/casepeer/assets/js/apps/casenotes/index.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3002,7 +3005,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3020,7 +3023,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
